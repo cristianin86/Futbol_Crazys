@@ -435,7 +435,23 @@ modelo_activo_nombre = "modelo_chile_1x2_v1.json" if "Campeonato Nacional" in li
 st.sidebar.caption(f"🧠 Cerebro: {modelo_activo_nombre}")
 
 if df_grilla.empty:
-    st.error(f"🛑 No se detectaron partidos para {liga_seleccionada} en la ventana actual.")
+    st.error(f"⚠️ No se detectaron partidos para {liga_seleccionada} en la ventana actual.")
+    
+    # Diagnóstico forzado en Cloud
+    try:
+        import os, datetime
+        from scraper_cl import get_api_sports_key
+        key = get_api_sports_key()
+        key_masked = f"{key[:4]}...{key[-4:]}" if key and len(key)>8 else str(key)
+        st.info(f"**🛠️ DIAGNÓSTICO EN LA NUBE:**\n"
+                 f"- Llave API-Sports leída: `{key_masked}`\n"
+                 f"- Hora Servidor UTC: `{datetime.datetime.now()}`\n"
+                 f"- Variables st.secrets: `{list(st.secrets.keys()) if 'st.secrets' in globals() or hasattr(st, 'secrets') else 'No Accesible'}`")
+        # Forzar limpieza de caché para reintentos
+        st.cache_data.clear()
+    except Exception as e:
+        st.error(f"Error diagnóstico: {e}")
+        
     st.stop()
 
 # Selector Pro
