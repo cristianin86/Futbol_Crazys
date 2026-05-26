@@ -1,0 +1,745 @@
+home_team_name,away_team_name,home_team_goal_count,away_team_goal_count,status,timestamp,referee,home_team_possession,away_team_possession,home_team_corner_count,away_team_corner_count,home_team_yellow_cards,away_team_yellow_cards,home_team_pre_match_xg,away_team_pre_match_xg,is_cup,home_team_lsi,away_team_lsi
+Curico Unido,Union San Felipe,2.0,0.0,complete,1708734600,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,D. La Serena,0.0,1.0,complete,1708786800,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Rangers de Talca,0.0,1.0,complete,1708808400,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Barnechea,1.0,1.0,complete,1708817400,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Wanderers,3.0,1.0,complete,1708894800,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Temuco,0.0,1.0,complete,1708903800,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,San Luis,4.0,0.0,complete,1709326800,D. Rissios,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Magallanes,1.0,0.0,complete,1709391600,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Limache,2.0,3.0,complete,1709413200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,San Marcos de Arica,1.0,3.0,complete,1709478000,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Antofagasta,4.0,0.0,complete,1709499600,H. Jona,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Recoleta,0.0,1.0,complete,1709508600,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Santa Cruz,1.0,2.0,complete,1709586000,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Curico Unido,4.0,1.0,complete,1709595000,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Barnechea,1.0,2.0,complete,1709931600,D. Rissios,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Rangers de Talca,0.0,1.0,complete,1709931600,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Santa Cruz,1.0,2.0,complete,1709940600,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Santiago Morning,2.0,0.0,complete,1709940600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Santiago Wanderers,1.0,2.0,complete,1709996400,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Temuco,3.0,1.0,complete,1710018000,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Universidad de Concepcion,3.0,0.0,complete,1710082800,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Union San Felipe,3.0,1.0,complete,1710115200,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,D. La Serena,2.0,4.0,complete,1710538200,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Limache,0.0,5.0,complete,1710545400,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Antofagasta,1.0,0.0,complete,1710622800,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Marcos de Arica,1.0,0.0,complete,1710631800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Santiago Wanderers,1.0,2.0,complete,1710709200,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Recoleta,1.0,2.0,complete,1710709200,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Rangers de Talca,2.0,1.0,complete,1710795600,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Magallanes,2.0,1.0,complete,1710804600,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Barnechea,0.0,0.0,complete,1711206000,N. Millas,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Union San Felipe,0.0,2.0,complete,1711227600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Curico Unido,2.0,1.0,complete,1711227600,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Luis,2.0,4.0,complete,1711236600,P. Maza,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Marcos de Arica,2.0,1.0,complete,1711292400,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Temuco,2.0,1.0,complete,1711314000,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Santiago Morning,2.0,1.0,complete,1711314000,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Universidad de Concepcion,0.0,1.0,complete,1711323000,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Limache,2.0,3.0,complete,1711746000,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,D. La Serena,1.0,2.0,complete,1711832400,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Recoleta,0.0,2.0,complete,1711897200,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Magallanes,2.0,3.0,complete,1711897200,A. Diaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Antofagasta,2.0,2.0,complete,1711918800,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Rangers de Talca,0.0,1.0,complete,1711924200,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Santa Cruz,3.0,4.0,complete,1711926000,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Barnechea,3.0,1.0,complete,1711998000,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Universidad de Concepcion,1.0,0.0,complete,1712417400,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Santiago Wanderers,1.0,0.0,complete,1712426400,B. Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Curico Unido,2.0,0.0,complete,1712440800,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Union San Felipe,4.0,1.0,complete,1712507400,C. Garay,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Marcos de Arica,1.0,2.0,complete,1712507400,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Santa Cruz,4.0,1.0,complete,1712516400,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Santiago Morning,0.0,1.0,complete,1712617200,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,San Luis,2.0,3.0,complete,1712617200,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Limache,0.0,3.0,complete,1712950200,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Antofagasta,0.0,1.0,complete,1713024000,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Barnechea,1.0,1.0,complete,1713043800,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Universidad de Concepcion,3.0,0.0,complete,1713043800,J. Lara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Rangers de Talca,0.0,1.0,complete,1713052800,H. Jona,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,D. La Serena,0.0,1.0,complete,1713130200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Temuco,2.0,3.0,complete,1713130200,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Magallanes,0.0,0.0,complete,1713304800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Marcos de Arica,0.0,2.0,complete,1713630600,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Luis,0.0,3.0,complete,1713639600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Santiago Morning,0.0,0.0,complete,1713659400,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Recoleta,3.0,0.0,complete,1713717000,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Santiago Wanderers,2.0,2.0,complete,1713735000,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Union San Felipe,1.0,0.0,complete,1713823200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Curico Unido,2.0,0.0,complete,1713832200,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Santa Cruz,2.0,1.0,complete,1713832200,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Antofagasta,2.0,1.0,complete,1714244400,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Temuco,0.0,0.0,complete,1714253400,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Universidad de Concepcion,2.0,1.0,complete,1714253400,F. Gaggero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Barnechea,1.0,4.0,complete,1714262400,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Magallanes,0.0,1.0,complete,1714321800,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Rangers de Talca,1.0,2.0,complete,1714341600,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,D. La Serena,1.0,0.0,complete,1714437000,R. Alvarado González,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Santa Cruz,1.0,1.0,complete,1714840200,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Barnechea,3.0,0.0,complete,1714840200,B. Pavez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Santiago Wanderers,1.0,1.0,complete,1714849200,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Union San Felipe,2.0,1.0,complete,1714858200,R. Alvarado González,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Recoleta,1.0,0.0,complete,1714867200,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Limache,1.0,2.0,complete,1714926600,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Curico Unido,2.0,3.0,complete,1714944600,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,San Marcos de Arica,2.0,1.0,complete,1715032800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Universidad de Concepcion,2.0,0.0,complete,1715209200,N. Millas,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Santiago Morning,2.0,2.0,complete,1715382000,F. Gaggero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Limache,2.0,2.0,complete,1715454000,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Santiago Wanderers,0.0,0.0,complete,1715472000,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Antofagasta,0.0,0.0,complete,1715531400,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,D. La Serena,0.0,0.0,complete,1715531400,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Luis,1.0,0.0,complete,1715549400,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Temuco,0.0,0.0,complete,1715637600,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Rangers de Talca,2.0,4.0,complete,1715646600,H. Jona,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Santiago Morning,2.0,2.0,complete,1715814000,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Union San Felipe,3.0,0.0,complete,1716048000,B. Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Barnechea,0.0,1.0,complete,1716058800,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Santa Cruz,1.0,2.0,complete,1716076800,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Magallanes,2.0,1.0,complete,1716136200,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Curico Unido,2.0,2.0,complete,1716145200,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Universidad de Concepcion,1.0,2.0,complete,1716165000,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,San Marcos de Arica,1.0,3.0,complete,1716251400,R. Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Rangers de Talca,0.0,0.0,complete,1716652800,C. Garay,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Union San Felipe,2.0,1.0,complete,1716663600,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Antofagasta,1.0,2.0,complete,1716741000,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Temuco,2.0,1.0,complete,1716741000,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Santiago Morning,2.0,1.0,complete,1716750000,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Limache,1.0,1.0,complete,1716768000,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Universidad de Concepcion,0.0,0.0,complete,1716847200,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,San Luis,1.0,0.0,complete,1716856200,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,D. La Serena,0.0,1.0,complete,1717259400,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Santa Cruz,2.0,1.0,complete,1717268400,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Santiago Wanderers,1.0,1.0,complete,1717277400,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Curico Unido,1.0,1.0,complete,1717345800,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Magallanes,0.0,1.0,complete,1717372800,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Barnechea,2.0,2.0,complete,1717452000,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Recoleta,1.0,2.0,complete,1717457400,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Marcos de Arica,0.0,2.0,complete,1717461000,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Luis,6.0,0.0,complete,1717614000,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Recoleta,2.0,1.0,complete,1718047800,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Marcos de Arica,0.0,0.0,complete,1720897200,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Limache,1.0,0.0,complete,1720974600,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Antofagasta,2.0,1.0,complete,1720974600,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Curico Unido,3.0,1.0,complete,1720983600,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,San Luis,1.0,0.0,complete,1720992600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Deportes Santa Cruz,4.0,2.0,complete,1721156400,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Magallanes,2.0,3.0,complete,1721156400,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Recoleta,1.0,1.0,complete,1721165400,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Deportes Temuco,0.0,1.0,complete,1721430000,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,D. La Serena,1.0,2.0,complete,1721493000,J. Lara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Universidad de Concepcion,1.0,1.0,complete,1721502000,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Rangers de Talca,1.0,1.0,complete,1721579400,A. Diaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Santiago Wanderers,1.0,2.0,complete,1721588400,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Santiago Morning,1.0,3.0,complete,1721597400,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Union San Felipe,0.0,0.0,complete,1721674800,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Barnechea,0.0,1.0,complete,1721689200,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,San Marcos de Arica,0.0,1.0,complete,1722020400,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Limache,2.0,0.0,complete,1722034800,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Luis,0.0,0.0,complete,1722097800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Recoleta,0.0,3.0,complete,1722106800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Curico Unido,1.0,0.0,complete,1722106800,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Magallanes,1.0,0.0,complete,1722115800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Antofagasta,2.0,2.0,complete,1722184200,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,D. La Serena,0.0,1.0,complete,1722202200,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,San Luis,2.0,1.0,complete,1722380400,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Universidad de Concepcion,0.0,0.0,complete,1722452400,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Santa Cruz,1.0,0.0,complete,1722452400,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Temuco,0.0,1.0,complete,1722463200,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Union San Felipe,3.0,0.0,complete,1722463200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Santiago Morning,1.0,0.0,complete,1722472200,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Barnechea,3.0,0.0,complete,1722472200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Curico Unido,2.0,3.0,complete,1722472200,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Santa Cruz,1.0,1.0,complete,1722711600,F. Moya,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Magallanes,0.0,2.0,complete,1722789000,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,D. La Serena,0.0,3.0,complete,1722789000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Santiago Wanderers,2.0,0.0,complete,1722798000,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Recoleta,1.0,0.0,complete,1722895200,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Limache,2.0,0.0,complete,1722895200,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Rangers de Talca,1.0,2.0,complete,1722904200,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Antofagasta,1.0,1.0,complete,1722904200,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Temuco,1.0,0.0,complete,1723305600,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Marcos de Arica,1.0,0.0,complete,1723316400,E. Domínguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Luis,1.0,1.0,complete,1723393800,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Santiago Morning,2.0,0.0,complete,1723393800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Santiago Wanderers,2.0,1.0,complete,1723402800,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Curico Unido,1.0,0.0,complete,1723411800,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Universidad de Concepcion,5.0,0.0,complete,1723489200,J. Lara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Union San Felipe,1.0,2.0,complete,1723500000,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Limache,0.0,3.0,complete,1723849200,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Magallanes,3.0,1.0,complete,1723921200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Rangers de Talca,4.0,0.0,complete,1723932000,N. Millas,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Antofagasta,1.0,1.0,complete,1723998600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Temuco,2.0,1.0,complete,1724007600,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Recoleta,2.0,1.0,complete,1724016600,A. Diaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Barnechea,0.0,6.0,complete,1724108400,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,D. La Serena,0.0,1.0,complete,1724108400,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Union San Felipe,4.0,0.0,complete,1724517000,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Curico Unido,0.0,0.0,complete,1724517000,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Marcos de Arica,0.0,0.0,complete,1724526000,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Santa Cruz,4.0,1.0,complete,1724535000,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Santiago Morning,0.0,0.0,complete,1724603400,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,San Luis,2.0,0.0,complete,1724612400,A. Diaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Recoleta,1.0,0.0,complete,1724621400,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Santiago Wanderers,2.0,1.0,complete,1724713200,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Magallanes,0.0,1.0,complete,1725062400,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Rangers de Talca,0.0,1.0,complete,1725121800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,D. La Serena,1.0,1.0,complete,1725130800,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Temuco,1.0,1.0,complete,1725139800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Antofagasta,2.0,2.0,complete,1725208200,H. Jona,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Barnechea,1.0,2.0,complete,1725217200,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Limache,1.0,1.0,complete,1725226200,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Universidad de Concepcion,2.0,3.0,complete,1725321600,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,San Marcos de Arica,1.0,1.0,complete,1725726600,B. Pavez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Santiago Wanderers,0.0,0.0,complete,1725735600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Limache,2.0,0.0,complete,1725753600,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Santa Cruz,3.0,2.0,complete,1725809400,D. Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Curico Unido,1.0,1.0,complete,1725818400,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Union San Felipe,1.0,1.0,complete,1725829200,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Santiago Morning,1.0,2.0,complete,1725906600,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Luis,1.0,2.0,complete,1726254000,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Rangers de Talca,0.0,2.0,complete,1726336800,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Temuco,3.0,1.0,complete,1726345800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,D. La Serena,1.0,1.0,complete,1726354800,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Antofagasta,1.0,3.0,complete,1726414200,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Universidad de Concepcion,1.0,0.0,complete,1726423200,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Magallanes,0.0,2.0,complete,1726431300,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Union San Felipe,0.0,1.0,complete,1727289000,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Magallanes,2.0,2.0,complete,1727474400,H. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Curico Unido,0.0,2.0,complete,1727537400,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Santa Cruz,1.0,1.0,complete,1727546400,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Universidad de Concepcion,1.0,0.0,complete,1727555400,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Barnechea,3.0,2.0,complete,1727623800,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Recoleta,1.0,0.0,complete,1727623800,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Marcos de Arica,2.0,0.0,complete,1727632800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Recoleta,1.0,1.0,complete,1727982000,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Santiago Morning,2.0,2.0,complete,1727985600,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,D. La Serena,0.0,0.0,complete,1728151200,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Limache,0.0,2.0,complete,1728151200,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Rangers de Talca,2.0,1.0,complete,1728160200,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Deportes Temuco,2.0,1.0,complete,1728228600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Luis,1.0,1.0,complete,1728237600,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Antofagasta,1.0,0.0,complete,1728327600,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Morning,1.0,1.0,complete,1728327600,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Santiago Wanderers,2.0,2.0,complete,1728342000,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Barnechea,2.0,2.0,complete,1728685800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Deportes Santa Cruz,0.0,1.0,complete,1728685800,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Santiago Wanderers,1.0,2.0,complete,1728831600,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Curico Unido,0.0,1.0,complete,1728842400,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Magallanes,0.0,0.0,complete,1728842400,B. Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,D. La Serena,1.0,1.0,complete,1728842400,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Recoleta,2.0,3.0,complete,1728851400,C. Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,San Marcos de Arica,1.0,1.0,complete,1728851400,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Luis,7.0,1.0,complete,1729351800,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Barnechea,Deportes Limache,6.0,0.0,complete,1729351800,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Rangers de Talca,2.0,2.0,complete,1729351800,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Temuco,4.0,2.0,complete,1729360800,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Antofagasta,0.0,2.0,complete,1729438200,C. Sepulveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Universidad de Concepcion,0.0,3.0,complete,1729438200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Union San Felipe,1.0,2.0,complete,1729438200,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Santiago Morning,0.0,1.0,complete,1729438200,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Recoleta,1.0,1.0,complete,1731445200,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Rangers de Talca,1.0,2.0,complete,1731454200,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Antofagasta,2.0,1.0,complete,1731531600,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Morning,2.0,1.0,complete,1731789000,J. Lara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Limache,0.0,4.0,complete,1731857400,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Santa Cruz,2.0,2.0,complete,1731886200,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Rangers de Talca,0.0,1.0,complete,1732654800,C. Garay,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Magallanes,1.0,1.0,complete,1732663800,F. Vejar,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Limache,1.0,1.0,complete,1732998600,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Recoleta,0.0,0.0,complete,1733007600,P. Maza,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Rangers de Talca,3.0,1.0,complete,1733266800,C. Garay,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Limache,3.0,1.0,upcoming,1733605200,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Universidad de Concepcion,0.0,0.0,complete,1740180600,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Deportes Temuco,2.0,2.0,complete,1740180600,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Recoleta,3.0,0.0,complete,1740258000,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Santiago Morning,2.0,2.0,complete,1740258000,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Antofagasta,0.0,0.0,complete,1740267000,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Union San Felipe,1.0,1.0,complete,1740344400,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Rangers de Talca,0.0,3.0,complete,1740353400,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Curico Unido,1.0,2.0,complete,1740441600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Temuco,2.0,1.0,complete,1740776400,D. Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Santa Cruz,3.0,2.0,complete,1740776400,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Magallanes,2.0,1.0,complete,1740785400,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Luis,2.0,2.0,complete,1740862800,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Cobreloa,1.0,1.0,complete,1740871800,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Concepción,3.0,1.0,complete,1740949200,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Santiago Wanderers,0.0,1.0,complete,1740949200,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Copiapo,1.0,1.0,complete,1740958200,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Marcos de Arica,0.0,1.0,complete,1741381200,R. Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Universidad de Concepcion,0.0,2.0,complete,1741390200,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Union San Felipe,2.0,1.0,complete,1741467600,H. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Rangers de Talca,3.0,0.0,complete,1741467600,J. Lara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Recoleta,0.0,1.0,complete,1741532400,F. Gaggero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Curico Unido,0.0,0.0,complete,1741554000,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Santa Cruz,1.0,1.0,complete,1741563000,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Antofagasta,4.0,0.0,complete,1741647600,B. Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Copiapo,0.0,1.0,complete,1741986000,D. Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,San Luis,1.0,2.0,complete,1741994100,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Cobreloa,1.0,1.0,complete,1742072400,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Santiago Wanderers,1.0,2.0,complete,1742137200,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Concepción,2.0,0.0,complete,1742167800,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Temuco,0.0,0.0,complete,1742245200,J. Cabero,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Morning,1.0,0.0,complete,1742245200,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Magallanes,1.0,1.0,complete,1742254200,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Antofagasta,4.0,2.0,complete,1743196500,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Santa Cruz,1.0,0.0,complete,1743204600,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Recoleta,0.0,0.0,complete,1743282000,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Luis,1.0,0.0,complete,1743366600,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Concepción,2.0,3.0,complete,1743377400,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Rangers de Talca,0.0,1.0,complete,1743453000,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Marcos de Arica,1.0,3.0,complete,1743463800,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Santiago Wanderers,3.0,0.0,complete,1743463800,Q. Orlando,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Union San Felipe,2.0,1.0,complete,1744416000,R. Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Antofagasta,1.0,2.0,complete,1744473600,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Curico Unido,0.0,1.0,complete,1744484400,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Magallanes,2.0,0.0,complete,1744493400,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Deportes Copiapo,2.0,0.0,complete,1744561800,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Temuco,2.0,1.0,complete,1744570800,F. Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Santiago Morning,0.0,2.0,complete,1744581600,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Universidad de Concepcion,1.0,0.0,complete,1744590600,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Luis,0.0,1.0,complete,1744993800,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Recoleta,1.0,1.0,complete,1744993800,J. Sepúlveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Santa Cruz,2.0,3.0,complete,1745004600,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,San Marcos de Arica,0.0,1.0,complete,1745080200,Francisco Castro,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Cobreloa,1.0,1.0,complete,1745089200,H. Jona,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Union San Felipe,2.0,2.0,complete,1745166600,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Rangers de Talca,1.0,1.0,complete,1745175600,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Concepción,1.0,2.0,complete,1745184600,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Copiapo,0.0,1.0,complete,1745683200,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Universidad de Concepcion,1.0,0.0,complete,1745683200,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Santiago Wanderers,3.0,3.0,complete,1745694000,G. Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Curico Unido,0.0,0.0,complete,1745703000,F. Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Marcos de Arica,2.0,3.0,complete,1745771400,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Concepción,0.0,3.0,complete,1745771400,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Magallanes,1.0,0.0,complete,1745780400,M. Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Cobreloa,1.0,1.0,complete,1745789400,F. Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Rangers de Talca,0.0,0.0,complete,1746212400,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Union San Felipe,3.0,0.0,complete,1746298800,M. Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Concepción,2.0,1.0,complete,1746307800,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Recoleta,2.0,1.0,complete,1746316800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Antofagasta,1.0,1.0,complete,1746376200,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Temuco,3.0,0.0,complete,1746385200,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Luis,0.0,1.0,complete,1746394200,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Santa Cruz,3.0,0.0,complete,1746471600,B. Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,San Marcos de Arica,1.0,0.0,complete,1747499400,C. Sepulveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Cobreloa,0.0,1.0,complete,1747499400,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Rangers de Talca,0.0,2.0,complete,1747508400,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Curico Unido,1.0,0.0,complete,1747517400,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Santiago Morning,5.0,1.0,complete,1747585800,G. Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Copiapo,1.0,0.0,complete,1747585800,N. Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Santiago Wanderers,2.0,2.0,complete,1747594800,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Magallanes,3.0,0.0,complete,1747603800,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Santa Cruz,1.0,1.0,complete,1748037600,C. Droguett,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,San Luis,2.0,1.0,complete,1748046600,N. Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Concepción,0.0,0.0,complete,1748104200,M. Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Recoleta,3.0,0.0,complete,1748104200,R. Farías,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Temuco,2.0,3.0,complete,1748113200,F. Soriano,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Antofagasta,1.0,0.0,complete,1748190600,V. Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Universidad de Concepcion,1.0,2.0,complete,1748199600,M. Salvo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Santiago Morning,2.0,3.0,complete,1748208600,M. Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Luis,3.0,1.0,complete,1748631600,Francisco Castro,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Copiapo,0.0,1.0,complete,1748649600,C. Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Universidad de Concepcion,1.0,2.0,complete,1748718000,M. Assadi,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Cobreloa,2.0,0.0,complete,1748727000,F. Jiménez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Rangers de Talca,1.0,1.0,complete,1748795400,D. Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Magallanes,0.0,0.0,complete,1748795400,R. Alvarado,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Union San Felipe,1.0,1.0,complete,1748804400,R. Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Santiago Wanderers,0.0,0.0,complete,1748813400,J. Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Marcos de Arica,1.0,2.0,complete,1749313800,Felipe Andrés González Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Recoleta,1.0,1.0,complete,1749409200,Diego Enrique Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Universidad de Concepcion,0.0,0.0,complete,1749918600,Juan Ignacio Sepúlveda Lillo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Recoleta,1.0,1.0,complete,1749927600,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Cobreloa,5.0,1.0,complete,1749936600,Rodrigo Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Santa Cruz,2.0,1.0,complete,1749945600,Fernando André Vejar Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Magallanes,5.0,0.0,complete,1750005000,Rodrigo Alejandro Farías Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Union San Felipe,2.0,1.0,complete,1750014000,José Humberto Cabero Rebolledo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Rangers de Talca,1.0,2.0,complete,1750023000,Mathías Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,San Luis,3.0,0.0,complete,1750118400,Jorge Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Concepción,2.0,1.0,complete,1750437000,Rodrigo Alejandro Farías Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Curico Unido,3.0,2.0,complete,1750446000,Matías Quila,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Temuco,2.0,2.0,complete,1750446000,Cristián Marcelo Droguett Valenzuela,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Santiago Wanderers,0.0,0.0,complete,1750523400,Víctor Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Marcos de Arica,1.0,2.0,complete,1750532400,Piero Maza Gomez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Santiago Morning,0.0,0.0,complete,1750550400,Nicolás Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Antofagasta,3.0,0.0,complete,1750609800,Juan Ignacio Sepúlveda Lillo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Copiapo,1.0,0.0,complete,1750618800,Fabián Esteban Reyes Fuenzalida,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Temuco,2.0,0.0,complete,1751731200,Rodrigo Alejandro Farías Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Antofagasta,0.0,1.0,complete,1751752800,Matías Humberto Assadi Quintana,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Curico Unido,2.0,1.0,complete,1751752800,Mario Jesus Salvo Sepulveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Santiago Morning,0.0,1.0,complete,1751819400,Jorge Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Copiapo,0.0,1.0,complete,1751828400,Rodrigo Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Concepción,0.0,2.0,complete,1751837400,Francisco Javier Soriano Bascur,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Marcos de Arica,5.0,3.0,complete,1752336000,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Cobreloa,3.0,0.0,complete,1752336000,José Humberto Cabero Rebolledo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Santa Cruz,2.0,2.0,complete,1752346800,Jorge Oses,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Santiago Wanderers,0.0,3.0,complete,1752361200,Cristián Marcelo Droguett Valenzuela,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Luis,1.0,2.0,complete,1752424200,Mario Jesus Salvo Sepulveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Copiapo,1.0,0.0,complete,1752424200,Juan Ignacio Sepúlveda Lillo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Magallanes,2.0,0.0,complete,1752433200,Nicolás Pozo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Concepción,2.0,1.0,complete,1752442200,Matías Humberto Assadi Quintana,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,San Marcos de Arica,2.0,0.0,complete,1752942600,Rodrigo Carvajal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Recoleta,0.0,0.0,complete,1752951600,Rodrigo Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Antofagasta,0.0,0.0,complete,1752966000,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Curico Unido,1.0,1.0,complete,1753029000,Felipe Andrés González Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Universidad de Concepcion,1.0,2.0,complete,1753038000,Rodrigo Alejandro Farías Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Santiago Morning,2.0,1.0,complete,1753047000,Francisco Javier Soriano Bascur,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Rangers de Talca,1.0,2.0,complete,1753056000,Juan Ignacio Sepúlveda Lillo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Union San Felipe,1.0,3.0,complete,1753144200,Mathías Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Concepción,2.0,3.0,complete,1753470000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Temuco,1.0,0.0,complete,1753547400,Benjamín Saravia,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Luis,2.0,2.0,complete,1753547400,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Santiago Morning,0.0,1.0,complete,1753556400,Cristián Marcelo Droguett Valenzuela,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Cobreloa,0.0,1.0,complete,1753570800,Víctor Abarzúa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Santiago Wanderers,4.0,1.0,complete,1753633800,Claudio Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Copiapo,0.0,0.0,complete,1753642800,Manuel Vergara,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Magallanes,2.0,2.0,complete,1753748100,Matías Humberto Assadi Quintana,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Recoleta,0.0,2.0,complete,1754074800,Rodrigo Rivera,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Curico Unido,0.0,0.0,complete,1754152200,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Rangers de Talca,4.0,1.0,complete,1754161200,Miguel Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Universidad de Concepcion,1.0,0.0,complete,1754179200,Fabián Esteban Reyes Fuenzalida,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Antofagasta,2.0,2.0,complete,1754238600,Felipe Andrés González Alveal,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Union San Felipe,0.0,0.0,complete,1754247600,Matías Humberto Assadi Quintana,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Marcos de Arica,1.0,0.0,complete,1754265600,Cristián Marcelo Droguett Valenzuela,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Deportes Santa Cruz,1.0,0.0,complete,1754350200,Rodrigo Alejandro Farías Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Magallanes,0.0,1.0,complete,1754694000,Cristián Marcelo Droguett Valenzuela,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Santiago Morning,0.0,0.0,complete,1754757000,Gustavo Ahumada,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Universidad de Concepcion,1.0,2.0,complete,1754766000,Francisco Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Copiapo,1.0,0.0,complete,1754775000,Cristián Galaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Temuco,0.0,0.0,complete,1754784000,Mario Jesus Salvo Sepulveda,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Cobreloa,3.0,0.0,complete,1754843400,Manuel Vergara Rodríguez,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Union San Felipe,2.0,1.0,complete,1754852400,Claudio Andrés Urrutia Córdova,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Curico Unido,0.0,0.0,complete,1754861400,Mathías Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,San Marcos de Arica,4.0,1.0,complete,1755275400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Deportes Santa Cruz,0.0,1.0,complete,1755284400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Santiago Wanderers,0.0,2.0,complete,1755293400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Luis,1.0,0.0,complete,1755361800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Rangers de Talca,0.0,1.0,complete,1755370800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Concepción,2.0,1.0,complete,1755379800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Recoleta,0.0,0.0,complete,1755448200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Cobreloa,3.0,4.0,complete,1755457200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Santiago Morning,2.0,1.0,complete,1755907200,Fernando André Vejar Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Antofagasta,0.0,2.0,complete,1755966600,Matías Humberto Assadi Quintana,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Wanderers,1.0,1.0,complete,1755966600,Francisco Gilabert,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Magallanes,0.0,0.0,complete,1755975600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Copiapo,1.0,1.0,complete,1756053000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Curico Unido,2.0,0.0,complete,1756062000,Francisco Javier Soriano Bascur,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Universidad de Concepcion,1.0,4.0,complete,1756071000,Claudio Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Temuco,1.0,1.0,complete,1756162800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Union San Felipe,2.0,0.0,complete,1756494000,Diego Enrique Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Santiago Morning,4.0,1.0,complete,1756508400,Miguel Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Santa Cruz,2.0,0.0,complete,1756571400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Temuco,1.0,1.0,complete,1756580400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Rangers de Talca,0.0,0.0,complete,1756657800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,San Luis,1.0,1.0,complete,1756666800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Antofagasta,0.0,0.0,complete,1756675800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Recoleta,1.0,0.0,complete,1756767600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Santiago Wanderers,3.0,2.0,complete,1757176200,Hector Elias Jona Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Universidad de Concepcion,0.0,1.0,complete,1757176200,Franco Esteban Jiménez Lazo,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Curico Unido,4.0,2.0,complete,1757185200,Miguel Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Copiapo,2.0,2.0,complete,1757194200,Diego Enrique Flores Seguel,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Santiago Morning,4.0,0.0,complete,1757259000,Mathías Riquelme,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Magallanes,0.0,3.0,complete,1757268000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Cobreloa,4.0,0.0,complete,1757277000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Marcos de Arica,0.0,0.0,complete,1757354400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Universidad de Concepcion,0.0,0.0,complete,1757703600,Miguel Araos,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Temuco,2.0,0.0,complete,1757777400,Hector Elias Jona Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Luis,1.0,3.0,complete,1757786400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Recoleta,4.0,0.0,complete,1757862000,Nicolás Gamboa,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Union San Felipe,2.0,1.0,complete,1757862000,Claudio Díaz,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Santa Cruz,1.0,1.0,complete,1757881800,Gastón Philippe,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Concepción,3.0,0.0,complete,1757881800,Rodrigo Alejandro Carvajal Molina,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Antofagasta,1.0,1.0,complete,1757977200,Cristián Marcelo Garay Reyes,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Magallanes,2.0,1.0,complete,1759530600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Copiapo,0.0,1.0,complete,1759590000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Cobreloa,1.0,2.0,complete,1759600800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Union San Felipe,2.0,1.0,complete,1759615200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Curico Unido,0.0,2.0,complete,1759678200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,San Marcos de Arica,1.0,1.0,complete,1759687200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Santiago Wanderers,1.0,1.0,complete,1759687200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Rangers de Talca,1.0,1.0,complete,1759696200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Santiago Morning,0.0,1.0,complete,1760196600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,San Marcos de Arica,3.0,1.0,complete,1760214600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Concepción,2.0,2.0,complete,1760223600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Santa Cruz,0.0,0.0,complete,1760283000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Temuco,2.0,1.0,complete,1760292000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Curico Unido,2.0,0.0,complete,1760301000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Recoleta,0.0,0.0,complete,1760396400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Antofagasta,2.0,1.0,complete,1760396400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Rangers de Talca,2.0,3.0,complete,1760725800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,Cobreloa,3.0,0.0,complete,1760734800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Santiago Wanderers,1.0,0.0,complete,1760801400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Union San Felipe,1.0,0.0,complete,1760801400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Universidad de Concepcion,3.0,0.0,complete,1760887800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Magallanes,2.0,0.0,complete,1760896800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Santa Cruz,0.0,0.0,complete,1760905800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,San Luis,2.0,2.0,complete,1760905800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Copiapo,0.0,0.0,complete,1761345000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Temuco,3.0,2.0,complete,1761345000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Santiago Morning,2.0,0.0,complete,1761406200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Marcos de Arica,1.0,0.0,complete,1761406200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Curico Unido,1.0,1.0,complete,1761406200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Antofagasta,1.0,0.0,complete,1761492600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Santiago Wanderers,2.0,0.0,complete,1761501600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Concepción,1.0,0.0,complete,1761519600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Recoleta,3.0,0.0,complete,1761933600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Union San Felipe,2.0,1.0,complete,1761942600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Rangers de Talca,3.0,0.0,complete,1761951600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Universidad de Concepcion,0.0,3.0,complete,1762023600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Magallanes,1.0,2.0,complete,1762034400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Cobreloa,0.0,2.0,complete,1762106400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Santa Cruz,2.0,1.0,complete,1762106400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Morning,San Luis,3.0,0.0,complete,1762106400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Antofagasta,2.0,1.0,complete,1763499600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Marcos de Arica,0.0,2.0,complete,1763508600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Cobreloa,2.0,2.0,complete,1763593200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Concepción,1.0,1.0,complete,1763910000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Rangers de Talca,1.0,0.0,complete,1763910000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Santiago Wanderers,2.0,2.0,upcoming,1763931600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Cobreloa,2.0,1.0,complete,1764190800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Deportes Copiapo,1.0,0.0,complete,1764199800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,San Marcos de Arica,3.0,1.0,complete,1764545400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Concepción,1.0,1.0,complete,1764545400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Concepción,Cobreloa,1.0,1.0,complete,1764802800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Concepción,2.0,3.0,complete,1765149300,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Cobreloa,1.0,1.0,upcoming,1779390000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Santa Cruz,1.0,1.0,complete,1771628400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Recoleta,0.0,2.0,complete,1771686000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,San Luis,2.0,0.0,complete,1771707600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Union San Felipe,5.0,0.0,complete,1771716600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Antofagasta,0.0,2.0,complete,1771794000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Deportes Copiapo,2.0,0.0,complete,1771803000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Temuco,3.0,1.0,complete,1771880400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Magallanes,1.0,2.0,complete,1771889400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Union Espanola,2.0,1.0,complete,1772226000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Cobreloa,0.0,0.0,complete,1772235000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Santiago Wanderers,1.0,1.0,complete,1772312400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Rangers de Talca,2.0,0.0,complete,1772321400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,D. Puerto Montt,1.0,2.0,complete,1772377200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Iquique,1.0,1.0,complete,1772407800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Marcos de Arica,1.0,1.0,complete,1772485200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Curico Unido,1.0,1.0,complete,1772494200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Antofagasta,2.0,0.0,complete,1772830800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Curico Unido,5.0,1.0,complete,1772917200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,San Marcos de Arica,0.0,0.0,complete,1772926200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Recoleta,3.0,1.0,complete,1773003600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Luis,1.0,1.0,complete,1773012600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Santa Cruz,3.0,2.0,complete,1773090000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Temuco,1.0,1.0,complete,1773099000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Magallanes,1.0,2.0,complete,1773180000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Union San Felipe,2.0,0.0,complete,1773435600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Cobreloa,1.0,2.0,complete,1773444600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Temuco,0.0,1.0,complete,1773522000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Copiapo,2.0,2.0,complete,1773531000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Union Espanola,2.0,1.0,complete,1773586800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Rangers de Talca,1.0,0.0,complete,1773608400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Deportes Santa Cruz,2.0,0.0,complete,1773617400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Santiago Wanderers,0.0,0.0,complete,1773703800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,D. Puerto Montt,2.0,1.0,complete,1774049400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Recoleta,2.0,4.0,complete,1774126800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Curico Unido,4.0,2.0,complete,1774135800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Antofagasta,2.0,2.0,complete,1774191600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Iquique,2.0,0.0,complete,1774213200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Luis,1.0,1.0,complete,1774222200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Marcos de Arica,1.0,1.0,complete,1774299600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Magallanes,1.0,1.0,complete,1774308600,R. Farias,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Temuco,1.0,5.0,complete,1774645200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Union Espanola,2.0,0.0,complete,1774710000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Santiago Wanderers,0.0,2.0,complete,1774731600,P. Maza,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Copiapo,1.0,1.0,complete,1774740600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Iquique,4.0,0.0,complete,1774796400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Union San Felipe,2.0,0.0,complete,1774818000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Santa Cruz,3.0,2.0,complete,1774827000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Rangers de Talca,3.0,2.0,complete,1774904400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Cobreloa,1.0,1.0,complete,1775865600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Curico Unido,0.0,0.0,complete,1775934000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Magallanes,2.0,2.0,complete,1775943000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,D. Puerto Montt,0.0,0.0,complete,1775952000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Recoleta,2.0,4.0,complete,1776011400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Luis,3.0,1.0,complete,1776020400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Antofagasta,3.0,3.0,complete,1776029400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,San Marcos de Arica,2.0,3.0,complete,1776038400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Union Espanola,1.0,1.0,complete,1776470400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Curico Unido,2.0,2.0,complete,1776529800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Santiago Wanderers,2.0,3.0,complete,1776538800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Cobreloa,2.0,1.0,complete,1776547800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Union San Felipe,1.0,3.0,complete,1776556800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Copiapo,1.0,0.0,complete,1776627000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Iquique,2.0,1.0,complete,1776636000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Deportes Temuco,1.0,0.0,complete,1776729600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Magallanes,0.0,1.0,complete,1777134600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,San Marcos de Arica,0.0,3.0,complete,1777134600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,D. Puerto Montt,2.0,1.0,complete,1777161600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Rangers de Talca,2.0,1.0,complete,1777163400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Antofagasta,0.0,2.0,complete,1777221000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,San Luis,3.0,1.0,complete,1777230000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Santa Cruz,2.0,0.0,complete,1777248000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Santiago Wanderers,2.0,1.0,complete,1777334400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Curico Unido,2.0,0.0,complete,1777593600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Iquique,2.0,2.0,complete,1777757400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,D. Puerto Montt,0.0,1.0,complete,1777766400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Copiapo,2.0,3.0,complete,1777825800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Temuco,2.0,2.0,complete,1777834800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Antofagasta,2.0,0.0,complete,1777843800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Union San Felipe,4.0,0.0,complete,1777932000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Recoleta,1.0,0.0,complete,1777941000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Rangers de Talca,1.0,1.0,complete,1778284800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Magallanes,2.0,0.0,complete,1778284800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Santa Cruz,1.0,0.0,complete,1778344200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Union Espanola,0.0,1.0,complete,1778353200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Cobreloa,5.0,1.0,complete,1778371200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Luis,3.0,1.0,complete,1778430600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Union San Felipe,2.0,1.0,complete,1778430600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Marcos de Arica,2.0,2.0,complete,1778544000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Recoleta,3.0,2.0,complete,1778949000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Copiapo,4.0,1.0,complete,1778958000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Rangers de Talca,2.0,1.0,complete,1778958000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Santiago Wanderers,0.0,3.0,complete,1778967000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,D. Puerto Montt,4.0,1.0,complete,1779044400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Antofagasta,1.0,1.0,complete,1779053400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Iquique,2.0,1.0,complete,1779145200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Temuco,2.0,3.0,complete,1779145200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Santiago Wanderers,,,upcoming,1779494400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Curico Unido,,,upcoming,1779571800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Union San Felipe,,,upcoming,1779580800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Santa Cruz,,,upcoming,1779640200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,San Marcos de Arica,,,upcoming,1779649200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Magallanes,,,upcoming,1779667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Union Espanola,,,upcoming,1779753600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Luis,,,upcoming,1780158600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,D. Puerto Montt,,,upcoming,1780167600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Union Espanola,,,upcoming,1780176600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Temuco,,,upcoming,1780185600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Iquique,,,upcoming,1780245000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Rangers de Talca,,,upcoming,1780263000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Antofagasta,,,upcoming,1780354800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Deportes Copiapo,,,upcoming,1780354800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,San Marcos de Arica,,,upcoming,1780704000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Cobreloa,,,upcoming,1780763400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Santiago Wanderers,,,upcoming,1780763400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Recoleta,,,upcoming,1780792200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Santa Cruz,,,upcoming,1780792200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Magallanes,,,upcoming,1780858800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Curico Unido,,,upcoming,1780961400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Union San Felipe,,,upcoming,1780961400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Cobreloa,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Union Espanola,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Rangers de Talca,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Curico Unido,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Iquique,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,D. Puerto Montt,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Marcos de Arica,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Santiago Wanderers,,,upcoming,1784491200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,San Luis,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Deportes Temuco,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Recoleta,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Santa Cruz,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Union San Felipe,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Antofagasta,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Copiapo,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Magallanes,,,upcoming,1785096000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Cobreloa,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Copiapo,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Rangers de Talca,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Union San Felipe,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Union Espanola,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Iquique,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Santiago Wanderers,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,D. Puerto Montt,,,upcoming,1785700800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Magallanes,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Antofagasta,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Iquique,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,San Marcos de Arica,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Recoleta,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,San Luis,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Curico Unido,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,D. Puerto Montt,,,upcoming,1786305600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Santa Cruz,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Deportes Copiapo,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Deportes Temuco,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Santiago Wanderers,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Cobreloa,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Union Espanola,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Union San Felipe,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Rangers de Talca,,,upcoming,1786564800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Recoleta,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Antofagasta,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,San Marcos de Arica,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,D. Puerto Montt,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Cobreloa,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Curico Unido,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Magallanes,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,San Luis,,,upcoming,1786910400,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Union San Felipe,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Santiago Wanderers,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Deportes Temuco,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Union Espanola,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Deportes Santa Cruz,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Deportes Iquique,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Rangers de Talca,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Copiapo,,,upcoming,1787515200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Recoleta,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,D. Puerto Montt,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,San Luis,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Rangers de Talca,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,San Marcos de Arica,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Magallanes,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Santa Cruz,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Antofagasta,,,upcoming,1788120000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Cobreloa,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Recoleta,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Iquique,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Union San Felipe,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Curico Unido,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Temuco,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Deportes Copiapo,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Union Espanola,,,upcoming,1788379200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Union Espanola,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Santiago Wanderers,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Deportes Santa Cruz,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Cobreloa,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,San Luis,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Rangers de Talca,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Magallanes,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,San Marcos de Arica,,,upcoming,1788667200,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Temuco,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Antofagasta,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Santiago Wanderers,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,D. Puerto Montt,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Copiapo,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Deportes Iquique,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,Curico Unido,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Recoleta,,,upcoming,1789329600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,Deportes Santa Cruz,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Union Espanola,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,San Marcos de Arica,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Curico Unido,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,San Luis,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Cobreloa,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Union San Felipe,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Magallanes,,,upcoming,1791748800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Iquique,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Copiapo,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,Recoleta,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Rangers de Talca,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,San Luis,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Deportes Temuco,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,D. Puerto Montt,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Antofagasta,,,upcoming,1792353600,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Temuco,San Marcos de Arica,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Magallanes,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union Espanola,Santiago Wanderers,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Luis,Recoleta,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Antofagasta,Curico Unido,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+D. Puerto Montt,Union San Felipe,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Santa Cruz,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Rangers de Talca,Cobreloa,,,upcoming,1792962000,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Curico Unido,Deportes Temuco,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Cobreloa,D. Puerto Montt,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Santiago Wanderers,Deportes Copiapo,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Magallanes,Antofagasta,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Union San Felipe,Union Espanola,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+San Marcos de Arica,San Luis,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Deportes Santa Cruz,Rangers de Talca,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0
+Recoleta,Deportes Iquique,,,upcoming,1793566800,,50,50,0,0,0,0,1.0,1.0,0,1.0,1.0

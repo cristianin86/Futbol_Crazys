@@ -1,0 +1,721 @@
+home_team_name,away_team_name,home_team_goal_count,away_team_goal_count,status,timestamp,referee,home_team_possession,away_team_possession,home_team_corner_count,away_team_corner_count,home_team_yellow_cards,away_team_yellow_cards,home_team_pre_match_xg,away_team_pre_match_xg,is_cup,home_team_lsi,away_team_lsi
+Nublense,Coquimbo Unido,0.0,0.0,complete,1708129800,F. Alveal,51.0,49.0,8.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Colo Colo,0.0,3.0,complete,1708203600,H. Jona,33.0,67.0,4.0,3.0,5.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,O'Higgins,1.0,3.0,complete,1708212600,P. Maza,60.0,40.0,8.0,5.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Cobreloa,Huachipato,1.0,1.0,complete,1708299000,N. Gamboa,45.0,55.0,3.0,5.0,0.0,2.0,1.4,0.86,0,1.0,1.0
+A. Italiano,Deportes Iquique,2.0,3.0,complete,1708383600,D. Rissios,41.0,59.0,4.0,5.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Nublense,0.0,1.0,complete,1708725600,D. Flores,59.0,41.0,3.0,7.0,6.0,1.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Deportes Copiapo,3.0,1.0,complete,1708734600,V. Abarzúa,62.0,38.0,10.0,1.0,6.0,6.0,1.0,1.0,0,1.0,1.0
+Palestino,Cobreloa,5.0,0.0,complete,1708808400,M. Vergara,46.0,54.0,1.0,5.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,A. Italiano,1.0,0.0,complete,1708808400,J. Lara,56.0,44.0,4.0,3.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Everton de Vina,1.0,1.0,complete,1708873200,N. Millas,65.0,35.0,7.0,3.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Union La Calera,0.0,1.0,complete,1708873200,M. Araos,66.0,34.0,7.0,2.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Colo Colo,1.0,0.0,complete,1708894800,N. Gamboa,27.0,73.0,11.0,2.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Union Espanola,2.0,2.0,complete,1708903800,J. Cabero,51.0,49.0,7.0,4.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Cobreloa,Cobresal,2.0,1.0,complete,1709335800,M. Riquelme,55.0,45.0,4.0,3.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,U. Catolica,0.0,2.0,complete,1709413200,M. Araos,60.0,40.0,6.0,5.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Everton de Vina,2.0,1.0,complete,1709413200,G. Philippe,39.0,61.0,3.0,9.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Coquimbo Unido,1.0,0.0,complete,1709422200,B. Saravia,47.0,53.0,1.0,12.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,A. Italiano,1.0,2.0,complete,1709422200,J. Sepúlveda,52.0,48.0,11.0,4.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Huachipato,2.0,0.0,complete,1709499600,J. Lara,64.0,36.0,1.0,3.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Deportes Iquique,1.0,3.0,complete,1709508600,R. Carvajal,40.0,60.0,3.0,6.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Universidad de Chile,1.0,3.0,complete,1709589600,C. Garay,47.0,53.0,0.0,4.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Huachipato,1.0,2.0,complete,1710018000,P. Maza,62.0,38.0,11.0,2.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Palestino,0.0,1.0,complete,1710027000,F. Alveal,51.0,49.0,7.0,5.0,2.0,6.0,1.0,1.0,0,1.0,1.0
+Union Espanola,A. Italiano,3.0,0.0,complete,1710027000,D. Flores,46.0,54.0,6.0,1.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Coquimbo Unido,4.0,2.0,complete,1710082800,N. Gamboa,60.0,40.0,7.0,4.0,5.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Universidad de Chile,0.0,1.0,complete,1710104400,J. Cabero,69.0,31.0,7.0,0.0,0.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Deportes Copiapo,1.0,0.0,complete,1710115200,H. Jona,47.0,53.0,2.0,2.0,4.0,6.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Everton de Vina,2.0,4.0,complete,1710194400,B. Saravia,60.0,40.0,4.0,5.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Cobreloa,0.0,2.0,complete,1710203400,N. Millas,55.0,45.0,6.0,3.0,3.0,4.0,1.24,1.49,0,1.0,1.0
+Deportes Iquique,Cobresal,1.0,0.0,complete,1710545400,M. Assadi,51.0,49.0,3.0,4.0,2.0,2.0,3.0,1.6,0,1.0,1.0
+Everton de Vina,Nublense,3.0,2.0,complete,1710601200,R. Alvarado,57.0,43.0,8.0,2.0,3.0,3.0,3.22,1.08,0,1.0,1.0
+Universidad de Chile,O'Higgins,1.0,0.0,complete,1710622800,M. Riquelme,61.0,39.0,6.0,3.0,3.0,4.0,1.64,1.07,0,1.0,1.0
+Cobreloa,Union Espanola,1.0,0.0,complete,1710631800,G. Philippe,43.0,57.0,2.0,8.0,2.0,4.0,1.57,0.96,0,1.0,1.0
+Huachipato,Deportes Copiapo,2.0,1.0,complete,1710687600,N. Gamboa,58.0,42.0,6.0,2.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Colo Colo,0.0,0.0,complete,1710687600,M. Vergara,25.0,75.0,5.0,3.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,Union La Calera,0.0,0.0,complete,1710709200,F. Vejar,64.0,36.0,7.0,1.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+U. Catolica,A. Italiano,0.0,0.0,complete,1710718200,P. Maza,65.0,35.0,4.0,3.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Union La Calera,U. Catolica,0.0,0.0,complete,1711144800,J. Lara,36.0,64.0,7.0,10.0,2.0,2.0,1.1,0.55,0,1.0,1.0
+Everton de Vina,Palestino,0.0,0.0,complete,1711227600,M. Riquelme,58.0,42.0,2.0,6.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Cobresal,2.0,2.0,complete,1711404000,C. Garay,66.0,34.0,10.0,2.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Coquimbo Unido,0.0,1.0,complete,1711659600,R. Alvarado,63.0,37.0,9.0,4.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Deportes Iquique,0.0,3.0,complete,1711668600,H. Jona,40.0,60.0,3.0,3.0,6.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Palestino,0.0,2.0,complete,1711755000,N. Millas,46.0,54.0,4.0,5.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,U. Catolica,0.0,0.0,complete,1711810800,R. Carvajal,49.0,51.0,7.0,3.0,0.0,0.0,2.07,1.01,0,1.0,1.0
+Colo Colo,Everton de Vina,4.0,1.0,complete,1711832400,F. Vejar,73.0,27.0,14.0,5.0,2.0,4.0,3.62,0.59,0,1.0,1.0
+Cobreloa,Universidad de Chile,1.0,3.0,complete,1711918800,P. Maza,51.0,49.0,8.0,4.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Union La Calera,2.0,0.0,complete,1711924200,F. Alveal,50.0,50.0,3.0,3.0,0.0,2.0,1.38,0.6,0,1.0,1.0
+Union Espanola,Nublense,5.0,3.0,complete,1711927800,J. Cabero,53.0,47.0,7.0,6.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Deportes Iquique,3.0,0.0,complete,1712417400,M. Vergara,35.0,65.0,6.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Nublense,Colo Colo,3.0,0.0,complete,1712426400,R. Carvajal,33.0,67.0,8.0,6.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Cobresal,2.0,0.0,complete,1712435400,H. Jona,41.0,59.0,7.0,3.0,6.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,A. Italiano,2.0,0.0,complete,1712444400,M. Araos,56.0,44.0,15.0,6.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Union La Calera,O'Higgins,2.0,3.0,complete,1712516400,N. Gamboa,46.0,54.0,7.0,3.0,6.0,3.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Cobreloa,2.0,1.0,complete,1712525400,F. Gilabert,60.0,40.0,6.0,4.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Universidad de Chile,0.0,1.0,complete,1712534400,D. Flores,55.0,45.0,1.0,8.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Everton de Vina,4.0,2.0,complete,1713043800,R. Carvajal,51.0,49.0,5.0,12.0,1.0,3.0,2.45,2.19,0,1.0,1.0
+Deportes Iquique,U. Catolica,2.0,3.0,complete,1713052800,M. Salvo,59.0,41.0,6.0,1.0,1.0,4.0,2.2,0.82,0,1.0,1.0
+O'Higgins,Huachipato,0.0,0.0,complete,1713112200,M. Riquelme,54.0,46.0,7.0,1.0,1.0,1.0,1.51,1.06,0,1.0,1.0
+Universidad de Chile,Coquimbo Unido,1.0,1.0,complete,1713112200,G. Philippe,61.0,39.0,6.0,7.0,4.0,4.0,1.21,0.92,0,1.0,1.0
+Nublense,Palestino,0.0,2.0,complete,1713121200,B. Saravia,48.0,52.0,7.0,8.0,3.0,5.0,0.85,0.99,0,1.0,1.0
+A. Italiano,Union La Calera,2.0,2.0,complete,1713139200,F. Vejar,54.0,46.0,4.0,2.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Cobreloa,0.0,2.0,complete,1713227400,N. Millas,77.0,23.0,16.0,1.0,2.0,6.0,3.83,0.59,0,1.0,1.0
+Cobresal,Deportes Copiapo,3.0,0.0,complete,1713304800,R. Alvarado,55.0,45.0,5.0,8.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,Huachipato,2.0,0.0,complete,1713382200,J. Lara,48.0,52.0,5.0,3.0,0.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Everton de Vina,0.0,1.0,complete,1713573000,M. Vergara,52.0,48.0,6.0,2.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Cobresal,Nublense,2.0,2.0,complete,1713639600,J. Lara,60.0,40.0,3.0,7.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Colo Colo,0.0,1.0,complete,1713648600,H. Jona,48.0,52.0,5.0,11.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,O'Higgins,2.0,0.0,complete,1713659400,J. Sepúlveda,41.0,59.0,3.0,7.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Deportes Iquique,2.0,1.0,complete,1713717000,D. Flores,52.0,48.0,7.0,3.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Universidad de Chile,2.0,2.0,complete,1713726000,F. Gilabert,48.0,52.0,5.0,3.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Copiapo,5.0,3.0,complete,1713735000,N. Gamboa,57.0,43.0,6.0,5.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Cobreloa,A. Italiano,0.0,3.0,complete,1713744000,F. Alveal,50.0,50.0,5.0,1.0,1.0,1.0,1.03,2.3,0,1.0,1.0
+O'Higgins,Union Espanola,2.0,2.0,complete,1714172400,V. Abarzúa,41.0,59.0,3.0,6.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,U. Catolica,0.0,1.0,complete,1714244400,J. Cabero,40.0,60.0,7.0,2.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Cobreloa,6.0,0.0,complete,1714253400,J. Sepúlveda,56.0,44.0,3.0,3.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Coquimbo Unido,1.0,2.0,complete,1714321800,H. Jona,56.0,44.0,7.0,5.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Universidad de Chile,0.0,4.0,complete,1714330800,P. Maza,49.0,51.0,4.0,5.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Union La Calera,3.0,1.0,complete,1714341600,R. Carvajal,67.0,33.0,8.0,2.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Palestino,2.0,1.0,complete,1714350600,C. Garay,47.0,53.0,0.0,7.0,4.0,2.0,1.77,0.41,0,1.0,1.0
+A. Italiano,Cobresal,0.0,1.0,complete,1714437000,C. Díaz,69.0,31.0,13.0,1.0,1.0,2.0,2.11,1.0,0,1.0,1.0
+Palestino,Deportes Copiapo,3.0,1.0,complete,1714764600,P. Maza,57.0,43.0,4.0,6.0,3.0,6.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Huachipato,3.0,1.0,complete,1714777200,C. Garay,37.0,63.0,1.0,6.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Cobresal,Colo Colo,2.0,2.0,complete,1714849200,N. Gamboa,45.0,55.0,8.0,1.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Union Espanola,U. Catolica,1.0,2.0,complete,1714867200,F. Gilabert,49.0,51.0,2.0,4.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Nublense,2.0,1.0,complete,1714926600,C. Díaz,54.0,46.0,2.0,7.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Deportes Iquique,2.0,2.0,complete,1714935600,D. Flores,67.0,33.0,10.0,4.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Cobreloa,Everton de Vina,1.0,2.0,complete,1714944600,M. Vergara,64.0,36.0,9.0,4.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+O'Higgins,A. Italiano,0.0,5.0,complete,1714953600,H. Jona,55.0,45.0,6.0,7.0,3.0,2.0,1.2,2.81,0,1.0,1.0
+Huachipato,Union Espanola,2.0,2.0,complete,1715445000,R. Carvajal,61.0,39.0,8.0,4.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+U. Catolica,O'Higgins,3.0,2.0,complete,1715463000,M. Riquelme,55.0,45.0,6.0,5.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Cobresal,3.0,3.0,complete,1715472000,V. Abarzúa,46.0,54.0,6.0,6.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Cobreloa,4.0,0.0,complete,1715531400,B. Saravia,50.0,50.0,8.0,5.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Colo Colo,1.0,4.0,complete,1715540400,J. Lara,26.0,74.0,2.0,3.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Nublense,2.0,1.0,complete,1715558400,G. Philippe,49.0,51.0,8.0,6.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Universidad de Chile,1.0,3.0,complete,1715641200,N. Millas,47.0,53.0,1.0,5.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Deportes Copiapo,1.0,0.0,complete,1716049800,N. Gamboa,41.0,59.0,9.0,8.0,2.0,4.0,1.52,1.78,0,1.0,1.0
+Cobreloa,Deportes Iquique,2.0,2.0,complete,1716058800,M. Araos,46.0,54.0,9.0,0.0,3.0,3.0,1.94,2.08,0,1.0,1.0
+Universidad de Chile,U. Catolica,1.0,2.0,complete,1716067800,C. Garay,60.0,40.0,9.0,4.0,3.0,7.0,1.44,0.8,0,1.0,1.0
+Nublense,O'Higgins,2.0,2.0,complete,1716136200,D. Rissios,53.0,47.0,2.0,3.0,2.0,1.0,1.23,1.1,0,1.0,1.0
+Colo Colo,Palestino,2.0,0.0,complete,1716154200,D. Flores,63.0,37.0,1.0,2.0,5.0,3.0,1.54,1.05,0,1.0,1.0
+Cobresal,Coquimbo Unido,2.0,3.0,complete,1716242400,H. Jona,65.0,35.0,6.0,2.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,A. Italiano,0.0,1.0,complete,1716251400,J. Cabero,56.0,44.0,5.0,3.0,1.0,1.0,0.34,1.68,0,1.0,1.0
+Palestino,Union Espanola,0.0,1.0,complete,1716579000,J. Lara,39.0,61.0,6.0,8.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Coquimbo Unido,1.0,2.0,complete,1716591600,G. Philippe,53.0,47.0,4.0,4.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Huachipato,Everton de Vina,1.0,0.0,complete,1716654600,F. Alveal,46.0,54.0,4.0,8.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Colo Colo,0.0,3.0,complete,1716663600,P. Maza,36.0,64.0,2.0,8.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Cobreloa,4.0,1.0,complete,1716672600,B. Saravia,51.0,49.0,2.0,5.0,3.0,7.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Cobresal,2.0,2.0,complete,1716681600,F. Vejar,63.0,37.0,9.0,2.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,A. Italiano,2.0,1.0,complete,1716750000,N. Millas,40.0,60.0,4.0,3.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Nublense,0.0,0.0,complete,1716759000,R. Carvajal,68.0,32.0,13.0,0.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+Cobreloa,O'Higgins,0.0,4.0,complete,1717201800,N. Gamboa,54.0,46.0,3.0,4.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Iquique,4.0,3.0,complete,1717277400,J. Cabero,46.0,54.0,2.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Palestino,1.0,2.0,complete,1717286400,H. Jona,43.0,57.0,3.0,6.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Universidad de Chile,1.0,2.0,complete,1717345800,F. Gilabert,40.0,60.0,4.0,3.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Union La Calera,2.0,1.0,complete,1717354800,C. Garay,50.0,50.0,4.0,5.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Deportes Copiapo,0.0,1.0,complete,1717363800,J. Lara,70.0,30.0,9.0,1.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,U. Catolica,2.0,0.0,complete,1717372800,R. Carvajal,46.0,54.0,6.0,5.0,1.0,0.0,1.12,0.42,0,1.0,1.0
+Coquimbo Unido,Palestino,0.0,0.0,complete,1717709400,C. Garay,53.0,47.0,10.0,3.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Union La Calera,0.0,1.0,complete,1717801200,M. Vergara,64.0,36.0,4.0,4.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,Huachipato,3.0,0.0,complete,1718910000,R. Alvarado,44.0,56.0,8.0,6.0,2.0,1.0,2.27,0.51,0,1.0,1.0
+Huachipato,Cobreloa,1.0,1.0,complete,1721430000,B. Saravia,62.0,38.0,6.0,5.0,2.0,7.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Nublense,1.0,0.0,complete,1721493000,H. Jona,47.0,53.0,7.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Deportes Copiapo,2.0,0.0,complete,1721502000,P. Maza,50.0,50.0,3.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Union La Calera,2.0,0.0,complete,1721511000,C. Garay,50.0,50.0,0.0,5.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,A. Italiano,2.0,1.0,complete,1721520000,G. Philippe,62.0,38.0,6.0,4.0,4.0,1.0,2.23,3.31,0,1.0,1.0
+Palestino,Everton de Vina,1.0,4.0,complete,1721579400,M. Vergara,56.0,44.0,2.0,4.0,6.0,5.0,1.08,1.53,0,1.0,1.0
+Cobresal,Universidad de Chile,3.0,3.0,complete,1721588400,M. Riquelme,38.0,62.0,8.0,1.0,2.0,1.0,2.4,0.79,0,1.0,1.0
+Colo Colo,Union Espanola,2.0,1.0,complete,1721597400,D. Flores,63.0,37.0,13.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Deportes Iquique,1.0,1.0,complete,1722034800,N. Millas,57.0,43.0,5.0,6.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Coquimbo Unido,3.0,0.0,complete,1722097800,D. Flores,50.0,50.0,1.0,6.0,2.0,2.0,0.85,0.44,0,1.0,1.0
+Union Espanola,Cobresal,2.0,1.0,complete,1722106800,P. Maza,62.0,38.0,8.0,4.0,3.0,5.0,1.85,2.94,0,1.0,1.0
+Colo Colo,O'Higgins,2.0,1.0,complete,1722115800,M. Riquelme,58.0,42.0,3.0,7.0,4.0,3.0,2.44,0.6,0,1.0,1.0
+Nublense,U. Catolica,1.0,2.0,complete,1722193200,J. Lara,46.0,54.0,3.0,3.0,6.0,1.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Universidad de Chile,1.0,0.0,complete,1722202200,H. Jona,37.0,63.0,2.0,5.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Huachipato,2.0,1.0,complete,1722211200,F. Vejar,39.0,61.0,2.0,7.0,2.0,3.0,0.83,1.23,0,1.0,1.0
+Cobreloa,Palestino,3.0,1.0,complete,1722297600,C. Garay,46.0,54.0,5.0,1.0,1.0,3.0,0.68,1.7,0,1.0,1.0
+Coquimbo Unido,Union Espanola,2.0,2.0,complete,1722643200,F. Gilabert,42.0,58.0,6.0,3.0,2.0,5.0,3.72,1.88,0,1.0,1.0
+Everton de Vina,O'Higgins,1.0,1.0,complete,1722702600,N. Gamboa,36.0,64.0,5.0,2.0,0.0,2.0,1.94,1.21,0,1.0,1.0
+U. Catolica,Palestino,1.0,1.0,complete,1722720600,M. Riquelme,48.0,52.0,1.0,10.0,3.0,3.0,0.74,1.5,0,1.0,1.0
+Deportes Iquique,Union La Calera,1.0,1.0,complete,1722729600,R. Alvarado,55.0,45.0,3.0,4.0,2.0,4.0,1.9,1.14,0,1.0,1.0
+A. Italiano,Nublense,0.0,1.0,complete,1722789000,C. Garay,55.0,45.0,4.0,4.0,2.0,4.0,0.31,1.7,0,1.0,1.0
+Cobresal,Cobreloa,3.0,2.0,complete,1722798000,J. Cabero,60.0,40.0,6.0,4.0,4.0,3.0,3.71,0.74,0,1.0,1.0
+Universidad de Chile,Deportes Copiapo,1.0,0.0,complete,1722807000,F. Vejar,74.0,26.0,14.0,1.0,0.0,4.0,4.5,0.14,0,1.0,1.0
+Palestino,O'Higgins,4.0,1.0,complete,1723230000,V. Abarzúa,51.0,49.0,5.0,0.0,0.0,3.0,3.63,0.52,0,1.0,1.0
+Huachipato,Cobresal,0.0,0.0,complete,1723240800,H. Jona,67.0,33.0,6.0,2.0,3.0,1.0,1.74,1.3,0,1.0,1.0
+Cobreloa,Union La Calera,2.0,0.0,complete,1723249800,N. Millas,57.0,43.0,6.0,2.0,5.0,7.0,1.71,1.72,0,1.0,1.0
+Deportes Copiapo,Nublense,0.0,1.0,complete,1723305600,F. Alveal,47.0,53.0,3.0,3.0,1.0,1.0,0.7,2.85,0,1.0,1.0
+Universidad de Chile,Colo Colo,0.0,0.0,complete,1723316400,C. Garay,57.0,43.0,5.0,8.0,2.0,3.0,0.74,0.27,0,1.0,1.0
+Coquimbo Unido,Deportes Iquique,1.0,2.0,complete,1723330800,M. Riquelme,52.0,48.0,13.0,1.0,2.0,4.0,1.56,1.53,0,1.0,1.0
+A. Italiano,Union Espanola,1.0,1.0,complete,1723393800,F. Vejar,52.0,48.0,9.0,3.0,6.0,5.0,1.54,0.99,0,1.0,1.0
+Everton de Vina,U. Catolica,0.0,0.0,complete,1723402800,J. Cabero,50.0,50.0,5.0,8.0,2.0,2.0,0.77,1.84,0,1.0,1.0
+Colo Colo,Coquimbo Unido,2.0,0.0,complete,1723849200,J. Cabero,70.0,30.0,3.0,5.0,2.0,2.0,0.57,0.35,0,1.0,1.0
+Union Espanola,Cobreloa,3.0,0.0,complete,1723912200,M. Riquelme,56.0,44.0,7.0,3.0,3.0,1.0,4.36,1.32,0,1.0,1.0
+Deportes Copiapo,Huachipato,0.0,2.0,complete,1723921200,C. Garay,53.0,47.0,10.0,2.0,1.0,1.0,2.32,1.1,0,1.0,1.0
+O'Higgins,Universidad de Chile,0.0,4.0,complete,1723930200,F. Gilabert,38.0,62.0,11.0,5.0,4.0,2.0,1.75,2.03,0,1.0,1.0
+Nublense,Everton de Vina,1.0,1.0,complete,1723939200,M. Araos,38.0,62.0,2.0,4.0,3.0,1.0,0.51,1.4,0,1.0,1.0
+Union La Calera,Palestino,2.0,1.0,complete,1723996800,R. Alvarado,34.0,66.0,1.0,7.0,2.0,3.0,0.98,2.01,0,1.0,1.0
+A. Italiano,U. Catolica,2.0,1.0,complete,1724007600,M. Vergara,35.0,65.0,1.0,1.0,3.0,1.0,1.62,1.82,0,1.0,1.0
+Cobresal,Deportes Iquique,2.0,1.0,complete,1724007600,D. Flores,40.0,60.0,4.0,12.0,1.0,2.0,2.74,0.85,0,1.0,1.0
+Nublense,Union Espanola,0.0,0.0,complete,1724367600,N. Gamboa,46.0,54.0,11.0,2.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Cobreloa,4.0,0.0,complete,1724454000,G. Philippe,63.0,37.0,5.0,0.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Deportes Copiapo,3.0,3.0,complete,1724454000,J. Cabero,56.0,44.0,5.0,7.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,A. Italiano,1.0,1.0,complete,1724526000,H. Jona,62.0,38.0,10.0,2.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,O'Higgins,1.0,3.0,complete,1724535000,J. Sepúlveda,69.0,31.0,6.0,3.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,Cobresal,3.0,0.0,complete,1724603400,F. Alveal,53.0,47.0,4.0,5.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Colo Colo,0.0,1.0,complete,1724612400,N. Millas,33.0,67.0,5.0,5.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Huachipato,4.0,0.0,complete,1724621400,J. Lara,56.0,44.0,7.0,1.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Union Espanola,2.0,0.0,complete,1724796000,C. Garay,58.0,42.0,4.0,2.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Deportes Copiapo,2.0,1.0,complete,1724805000,F. Vejar,60.0,40.0,5.0,1.0,5.0,3.0,1.08,1.16,0,1.0,1.0
+Cobreloa,Coquimbo Unido,1.0,0.0,complete,1724805000,J. Sepúlveda,56.0,44.0,5.0,3.0,1.0,3.0,1.18,0.84,0,1.0,1.0
+Cobresal,U. Catolica,3.0,1.0,complete,1724871600,H. Jona,39.0,61.0,7.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Union La Calera,1.0,1.0,complete,1724882400,M. Vergara,51.0,49.0,7.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Everton de Vina,1.0,2.0,complete,1724891400,V. Abarzúa,41.0,59.0,4.0,7.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Nublense,2.0,1.0,complete,1724968800,R. Alvarado,59.0,41.0,12.0,4.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Huachipato,Palestino,2.0,2.0,complete,1724977800,M. Riquelme,52.0,48.0,3.0,4.0,1.0,4.0,0.91,1.91,0,1.0,1.0
+Coquimbo Unido,Universidad de Chile,0.0,1.0,complete,1725130800,F. Vejar,34.0,66.0,6.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Deportes Iquique,2.0,2.0,complete,1725139800,F. Alveal,56.0,44.0,2.0,7.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Union Espanola,3.0,2.0,complete,1725148800,M. Araos,40.0,60.0,8.0,6.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,Nublense,1.0,1.0,complete,1725208200,J. Sepúlveda,41.0,59.0,5.0,5.0,2.0,2.0,1.32,0.81,0,1.0,1.0
+Cobreloa,Colo Colo,0.0,1.0,complete,1725217200,J. Cabero,56.0,44.0,2.0,2.0,1.0,3.0,0.83,1.3,0,1.0,1.0
+Deportes Copiapo,Cobresal,2.0,2.0,complete,1725226200,B. Saravia,44.0,56.0,8.0,4.0,7.0,3.0,2.91,1.45,0,1.0,1.0
+Union La Calera,A. Italiano,2.0,1.0,complete,1725235200,D. Flores,44.0,56.0,9.0,4.0,4.0,2.0,0.94,1.73,0,1.0,1.0
+Huachipato,O'Higgins,1.0,0.0,complete,1725807600,F. González,41.0,59.0,1.0,7.0,1.0,4.0,0.46,2.64,0,1.0,1.0
+Nublense,Cobresal,1.0,0.0,complete,1726336800,F. Alveal,42.0,58.0,1.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Coquimbo Unido,1.0,1.0,complete,1726345800,R. Carvajal,58.0,42.0,5.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Cobreloa,2.0,0.0,complete,1726354800,D. Flores,38.0,62.0,2.0,4.0,6.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Union Espanola,2.0,3.0,complete,1726414200,C. Garay,37.0,63.0,7.0,5.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Huachipato,3.0,1.0,complete,1726423200,J. Lara,45.0,55.0,4.0,7.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Palestino,1.0,0.0,complete,1726432200,H. Jona,70.0,30.0,6.0,5.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,Deportes Iquique,2.0,0.0,complete,1727200800,D. Flores,43.0,57.0,3.0,7.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Cobreloa,Nublense,0.0,1.0,complete,1727209800,M. Riquelme,68.0,32.0,6.0,0.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Huachipato,2.0,1.0,complete,1727218800,C. Garay,73.0,27.0,7.0,2.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Everton de Vina,2.0,2.0,complete,1727218800,F. Gilabert,53.0,47.0,2.0,0.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Cobresal,A. Italiano,0.0,1.0,complete,1727287200,G. Philippe,58.0,42.0,8.0,6.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Union Espanola,O'Higgins,0.0,1.0,complete,1727298000,V. Abarzúa,63.0,37.0,8.0,8.0,2.0,7.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Deportes Copiapo,4.0,1.0,complete,1727307000,H. Jona,70.0,30.0,4.0,2.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Cobreloa,2.0,0.0,complete,1727555400,J. Lara,56.0,44.0,9.0,1.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Cobresal,2.0,0.0,complete,1727564400,F. Alveal,68.0,32.0,4.0,0.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Union La Calera,0.0,1.0,complete,1727623800,D. Flores,63.0,37.0,5.0,2.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Palestino,2.0,1.0,complete,1727632800,M. Araos,47.0,53.0,3.0,2.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Universidad de Chile,3.0,0.0,complete,1727641800,P. Maza,33.0,67.0,2.0,6.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Union Espanola,0.0,2.0,complete,1727650800,F. Vejar,35.0,65.0,2.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Coquimbo Unido,3.0,2.0,complete,1727730000,G. Philippe,57.0,43.0,6.0,2.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+A. Italiano,O'Higgins,2.0,0.0,complete,1727739000,B. Saravia,46.0,54.0,2.0,10.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,U. Catolica,1.0,0.0,complete,1727996400,J. Cabero,67.0,33.0,3.0,2.0,0.0,2.0,1.0,1.0,0,1.0,1.0
+Cobresal,Everton de Vina,2.0,1.0,complete,1728151200,J. Sepúlveda,56.0,44.0,9.0,4.0,1.0,3.0,1.72,1.46,0,1.0,1.0
+Nublense,Deportes Iquique,2.0,0.0,complete,1728169200,F. Alveal,46.0,54.0,2.0,5.0,4.0,2.0,2.11,3.56,0,1.0,1.0
+Universidad de Chile,Union La Calera,1.0,0.0,complete,1728172800,F. Gilabert,62.0,38.0,12.0,4.0,0.0,2.0,1.0,1.0,0,1.0,1.0
+Palestino,Coquimbo Unido,2.0,0.0,complete,1728228600,N. Millas,50.0,50.0,3.0,2.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+O'Higgins,U. Catolica,0.0,2.0,complete,1728237600,G. Philippe,45.0,55.0,12.0,3.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Huachipato,3.0,1.0,complete,1728246600,J. Cabero,66.0,34.0,9.0,3.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,A. Italiano,2.0,1.0,complete,1728255600,J. Lara,77.0,23.0,5.0,2.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Cobreloa,Deportes Copiapo,4.0,1.0,complete,1728342000,F. Vejar,41.0,59.0,6.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Union La Calera,0.0,1.0,complete,1728774000,F. Vejar,54.0,46.0,7.0,4.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Colo Colo,1.0,2.0,complete,1728831600,H. Jona,28.0,72.0,4.0,2.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Colo Colo,0.0,1.0,complete,1729116000,N. Millas,32.0,68.0,0.0,3.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Nublense,1.0,3.0,complete,1729360800,F. Vejar,39.0,61.0,3.0,2.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Universidad de Chile,1.0,2.0,complete,1729371600,C. Garay,44.0,56.0,3.0,8.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,Colo Colo,2.0,3.0,complete,1729447200,M. Riquelme,35.0,65.0,3.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Cobreloa,4.0,1.0,complete,1729456200,N. Gamboa,61.0,39.0,8.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Union Espanola,0.0,2.0,complete,1729456200,M. Araos,40.0,60.0,1.0,6.0,3.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Huachipato,0.0,2.0,complete,1729456200,F. Alveal,53.0,47.0,3.0,3.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Cobresal,2.0,0.0,complete,1729456200,F. Gilabert,54.0,46.0,5.0,2.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Everton de Vina,3.0,5.0,complete,1729456200,G. Philippe,51.0,49.0,11.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Palestino,2.0,3.0,complete,1730581200,J. Lara,62.0,38.0,7.0,7.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Huachipato,1.0,0.0,complete,1730581200,M. Riquelme,55.0,45.0,8.0,1.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Deportes Copiapo,4.0,1.0,complete,1730581200,P. Maza,52.0,48.0,9.0,5.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Union La Calera,0.0,0.0,complete,1730581200,G. Philippe,60.0,40.0,8.0,5.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+Cobresal,O'Higgins,3.0,1.0,complete,1730581200,J. Cabero,68.0,32.0,8.0,2.0,0.0,1.0,1.0,1.0,0,1.0,1.0
+Cobreloa,U. Catolica,2.0,2.0,complete,1730581200,F. Gilabert,44.0,56.0,6.0,5.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Deportes Iquique,3.0,0.0,complete,1730667600,F. Alveal,65.0,35.0,8.0,3.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Universidad de Chile,1.0,4.0,complete,1730667600,D. Flores Seguel,40.0,60.0,3.0,10.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Union Espanola,2.0,0.0,complete,1731186000,M. Riquelme,34.0,66.0,3.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Coquimbo Unido,1.0,2.0,complete,1731186000,J. Lara,62.0,38.0,5.0,3.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,A. Italiano,2.0,0.0,complete,1731250800,D. Flores Seguel,57.0,43.0,4.0,7.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Cobreloa,0.0,3.0,complete,1731250800,F. González,44.0,56.0,2.0,6.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Cobresal,3.0,0.0,complete,1731250800,M. Vergara,44.0,56.0,1.0,5.0,3.0,6.0,1.0,1.0,0,1.0,1.0
+Huachipato,Nublense,1.0,0.0,complete,1731250800,N. Gamboa,59.0,41.0,10.0,2.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Everton de Vina,1.0,1.0,complete,1731265200,F. Gilabert,58.0,42.0,9.0,9.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Copiapo,Colo Colo,1.0,1.0,complete,1731265200,J. Cabero,25.0,75.0,0.0,6.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Coquimbo Unido,0.0,3.0,complete,1739577600,"Cristian Garay, Chile",69.0,31.0,6.0,4.0,2.0,2.0,1.38,2.71,0,1.0,1.0
+Palestino,Cobresal,2.0,1.0,complete,1739653200,"Reinerio Alvarado, Chile",62.0,38.0,2.0,5.0,2.0,4.0,3.25,2.28,0,1.0,1.0
+O'Higgins,Huachipato,0.0,0.0,complete,1739653200,"Lara, Juan, Chile",54.0,46.0,13.0,2.0,3.0,2.0,2.06,0.55,0,1.0,1.0
+Universidad de Chile,Nublense,5.0,0.0,complete,1739662200,"Millas, Nicolas, Chile",67.0,33.0,15.0,2.0,0.0,3.0,5.48,0.49,0,1.0,1.0
+D. La Serena,Colo Colo,1.0,3.0,complete,1739718000,"Fernando Andre Vejar Diaz, Chile",41.0,59.0,5.0,5.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Everton de Vina,1.0,1.0,complete,1739748600,"Diego Flores Seguel, Chile",58.0,42.0,5.0,3.0,2.0,4.0,1.78,1.3,0,1.0,1.0
+U. Catolica,A. Italiano,3.0,1.0,complete,1739826000,"Felipe Gonzalez, Chile",56.0,44.0,3.0,8.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Union Espanola,4.0,0.0,complete,1739835000,"Nicolas Gamboa Reyes, Chile",49.0,51.0,1.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Palestino,0.0,3.0,complete,1740171600,"Fernando Andre Vejar Diaz, Chile",43.0,57.0,7.0,6.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Deportes Iquique,4.0,2.0,complete,1740171600,"Mathias Riquelme, Chile",39.0,61.0,5.0,6.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,U. Catolica,1.0,0.0,complete,1740258000,"Reinerio Alvarado, Chile",38.0,62.0,6.0,2.0,2.0,2.0,1.9,0.81,0,1.0,1.0
+Nublense,Deportes Limache,1.0,1.0,complete,1740267000,"Hector Jona, Chile",58.0,42.0,6.0,2.0,3.0,2.0,2.51,1.56,0,1.0,1.0
+Huachipato,Everton de Vina,4.0,0.0,complete,1740322800,"Vergara, Manuel, Chile",45.0,55.0,5.0,1.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,D. La Serena,3.0,1.0,complete,1740344400,"Millas, Nicolas, Chile",47.0,53.0,4.0,3.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Union La Calera,1.0,0.0,complete,1740353400,"Diego Flores Seguel, Chile",53.0,47.0,7.0,7.0,0.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,O'Higgins,0.0,1.0,complete,1740438000,"Rodrigo Carvajal Molina, Chile",66.0,34.0,6.0,2.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Coquimbo Unido,1.0,2.0,complete,1740783600,"Benjamin Saravia Retamal, Chile",55.0,45.0,8.0,3.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Union Espanola,1.0,0.0,complete,1740841200,"Juan Ignacio Lara Luco, Chile",54.0,46.0,8.0,1.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Palestino,A. Italiano,0.0,2.0,complete,1740862800,"Millas, Nicolas, Chile",71.0,29.0,3.0,2.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Deportes Iquique,1.0,0.0,complete,1740862800,"Gaston Phillippe Noriega, Chile",60.0,40.0,4.0,2.0,3.0,6.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Nublense,1.0,2.0,complete,1740871800,"Franco Esteban Jimenez Lazo, Chile",64.0,36.0,10.0,2.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,Colo Colo,2.0,1.0,complete,1740927600,"Felipe Gonzalez, Chile",34.0,66.0,2.0,7.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Universidad de Chile,2.0,1.0,complete,1740949200,"Jose Cabero, Chile",41.0,59.0,2.0,11.0,3.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,O'Higgins,2.0,2.0,complete,1740958200,"Francisco Gilabert, Chile",50.0,50.0,3.0,1.0,2.0,8.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Huachipato,1.0,0.0,complete,1741388400,"Miguel Araos Riquelme, Chile",60.0,40.0,10.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Nublense,U. Catolica,1.0,1.0,complete,1741467600,"Jose Cabero, Chile",54.0,46.0,6.0,0.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Palestino,1.0,3.0,complete,1741476600,"Cristian Garay, Chile",57.0,43.0,3.0,1.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Deportes Limache,3.0,1.0,complete,1741476600,"Piero Maza, Chile",52.0,48.0,6.0,6.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Cobresal,1.0,1.0,complete,1741532400,"Diego Flores Seguel, Chile",49.0,51.0,6.0,4.0,4.0,6.0,1.0,1.0,0,1.0,1.0
+O'Higgins,D. La Serena,1.0,1.0,complete,1741554000,"Mathias Riquelme, Chile",60.0,40.0,9.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Everton de Vina,2.0,0.0,complete,1741563000,"Vergara, Manuel, Chile",58.0,42.0,7.0,2.0,5.0,2.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Universidad de Chile,1.0,1.0,complete,1741986000,"Gaston Phillippe Noriega, Chile",32.0,68.0,2.0,4.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Huachipato,2.0,3.0,complete,1741995000,"Reinerio Alvarado, Chile",36.0,64.0,4.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Coquimbo Unido,0.0,0.0,complete,1742081400,"Benjamin Saravia Retamal, Chile",67.0,33.0,10.0,2.0,3.0,3.0,0.65,1.62,0,1.0,1.0
+D. La Serena,Union La Calera,1.0,0.0,complete,1742137200,"Claudio Diaz Mera, Chile",37.0,63.0,1.0,9.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,Nublense,2.0,0.0,complete,1742158800,"Francisco Gilabert, Chile",69.0,31.0,5.0,3.0,0.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,O'Higgins,0.0,0.0,complete,1742158800,"Cristian Galaz Sepulveda, Chile",49.0,51.0,2.0,9.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Union Espanola,0.0,4.0,complete,1742167800,"Franco Esteban Jimenez Lazo, Chile",54.0,46.0,7.0,2.0,4.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Palestino,1.0,1.0,complete,1743110100,"Felipe Gonzalez, Chile",56.0,44.0,5.0,6.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Universidad de Chile,2.0,0.0,complete,1743118200,"Fernando Andre Vejar Diaz, Chile",40.0,60.0,3.0,6.0,6.0,5.0,1.0,1.0,0,1.0,1.0
+Union Espanola,U. Catolica,1.0,2.0,complete,1743196500,"Jose Cabero, Chile",51.0,49.0,4.0,5.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Nublense,Deportes Iquique,1.0,1.0,complete,1743204600,M. Araos,49.0,51.0,4.0,6.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Deportes Limache,3.0,1.0,complete,1743282000,"Francisco Gilabert, Chile",48.0,52.0,4.0,8.0,6.0,1.0,0.74,1.76,0,1.0,1.0
+Huachipato,D. La Serena,3.0,1.0,complete,1743346800,"Piero Maza, Chile",53.0,47.0,2.0,4.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,A. Italiano,2.0,1.0,complete,1743368400,"Hector Jona, Chile",49.0,51.0,11.0,3.0,5.0,1.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Cobresal,2.0,1.0,complete,1743377400,F. Reyes,62.0,38.0,1.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Huachipato,0.0,0.0,complete,1744475400,"Jose Cabero Rebolledo, Chile",52.0,48.0,12.0,1.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,U. Catolica,1.0,1.0,complete,1744484400,"Diego Flores Seguel, Chile",53.0,47.0,6.0,6.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,O'Higgins,1.0,0.0,complete,1744502400,N. Millas,37.0,63.0,3.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Everton de Vina,2.0,1.0,complete,1744561800,"Nicolas Gamboa Reyes, Chile",44.0,56.0,3.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Union La Calera,1.0,0.0,complete,1744657200,"Benjamin Saravia Retamal, Chile",54.0,46.0,7.0,7.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Nublense,3.0,0.0,complete,1744668000,"Franco Esteban Jimenez Lazo, Chile",46.0,54.0,4.0,8.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Deportes Iquique,2.0,0.0,complete,1744677000,"Vergara, Manuel, Chile",52.0,48.0,6.0,3.0,4.0,6.0,3.01,0.37,0,1.0,1.0
+Universidad de Chile,D. La Serena,3.0,1.0,complete,1744927200,"Cristian Garay, Chile",58.0,42.0,3.0,2.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Union Espanola,2.0,0.0,complete,1745013600,"Piero Maza, Chile",43.0,57.0,2.0,4.0,7.0,3.0,1.38,1.31,0,1.0,1.0
+Huachipato,Cobresal,0.0,1.0,complete,1745089200,"Dione Rissios Duran,",57.0,43.0,5.0,1.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Deportes Limache,2.0,1.0,complete,1745098200,"Rodrigo Carvajal Molina, Chile",69.0,31.0,8.0,5.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Union La Calera,1.0,1.0,complete,1745166600,"Mathias Riquelme, Chile",47.0,53.0,4.0,7.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Palestino,1.0,0.0,complete,1745175600,"Franco Esteban Jimenez Lazo, Chile",46.0,54.0,4.0,8.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Nublense,Coquimbo Unido,0.0,0.0,complete,1745193600,"Nicolas Gamboa Reyes, Chile",57.0,43.0,3.0,1.0,2.0,2.0,0.7,1.04,0,1.0,1.0
+Union La Calera,A. Italiano,1.0,0.0,complete,1745618400,"Franco Esteban Jimenez Lazo, Chile",53.0,47.0,3.0,4.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,D. La Serena,2.0,0.0,complete,1745618400,"Cristian Galaz Sepulveda, Chile",49.0,51.0,3.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Everton de Vina,6.0,0.0,complete,1745627400,J. Lara,61.0,39.0,8.0,5.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,Deportes Limache,3.0,1.0,complete,1745690400,"Benjamin Saravia Retamal, Chile",60.0,40.0,7.0,10.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Coquimbo Unido,2.0,0.0,complete,1745697600,"Jose Cabero Rebolledo, Chile",56.0,44.0,1.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Deportes Iquique,2.0,2.0,complete,1745771400,"Piero Maza, Chile",59.0,41.0,2.0,2.0,1.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,Universidad de Chile,2.0,3.0,complete,1745780400,"Diego Flores Seguel, Chile",58.0,42.0,4.0,5.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Huachipato,Union Espanola,2.0,1.0,complete,1745789400,"Nicolas Gamboa Reyes, Chile",37.0,63.0,4.0,10.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Colo Colo,1.0,0.0,complete,1746216000,"Cristian Garay, Chile",34.0,66.0,5.0,6.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Cobresal,0.0,1.0,complete,1746232200,M. Araos,58.0,42.0,8.0,5.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Palestino,1.0,2.0,complete,1746289800,"Hector Jona, Chile",43.0,57.0,4.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,U. Catolica,1.0,0.0,complete,1746302400,"Franco Esteban Jimenez Lazo, Chile",63.0,37.0,5.0,0.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,O'Higgins,2.0,0.0,complete,1746311400,"Dione Rissios,",36.0,64.0,9.0,1.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Huachipato,3.0,0.0,complete,1746385200,"Claudio Diaz Mera, Chile",29.0,71.0,2.0,1.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,D. La Serena,2.0,1.0,complete,1746394200,"Felipe Gonzalez, Chile",48.0,52.0,8.0,5.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,Union La Calera,1.0,1.0,complete,1746403200,"Nicolas Millas, Chile",57.0,43.0,6.0,2.0,1.0,3.0,1.67,1.32,0,1.0,1.0
+Union La Calera,Coquimbo Unido,0.0,1.0,complete,1747440000,M. Riquelme,63.0,37.0,2.0,1.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,A. Italiano,0.0,1.0,complete,1747508400,"Matias Assadi, Chile",68.0,32.0,5.0,4.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,U. Catolica,2.0,0.0,complete,1747517400,"Jose Cabero, Chile",36.0,64.0,2.0,8.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Palestino,0.0,1.0,complete,1747594800,"Benjamin Saravia Retamal, Chile",57.0,43.0,2.0,7.0,7.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Huachipato,5.0,1.0,complete,1747607400,"Claudio Diaz Mera, Chile",54.0,46.0,8.0,9.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Everton de Vina,0.0,3.0,complete,1747681200,"Diego Flores Seguel, Chile",50.0,50.0,6.0,7.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Nublense,2.0,2.0,complete,1747692000,"Gaston Philippe, Chile",62.0,38.0,11.0,3.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Iquique,2.0,1.0,complete,1747701000,"Francisco Gilabert, Chile",66.0,34.0,4.0,1.0,0.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Universidad de Chile,2.0,0.0,complete,1748037600,"Mathias Riquelme, Chile",34.0,66.0,3.0,5.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Cobresal,2.0,2.0,complete,1748113200,"Fabian Reyes Fuenzalida, Chile",64.0,36.0,12.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Union Espanola,4.0,1.0,complete,1748122200,"Franco Esteban Jimenez Lazo, Chile",59.0,41.0,5.0,5.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Palestino,0.0,0.0,complete,1748131200,C. Garay,38.0,62.0,7.0,6.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Nublense,O'Higgins,0.0,1.0,complete,1748190600,"Hector Jona, Chile",59.0,41.0,6.0,3.0,4.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,D. La Serena,1.0,3.0,complete,1748199600,"Piero Maza, Chile",63.0,37.0,11.0,1.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Union La Calera,0.0,1.0,complete,1748217600,F. González,45.0,55.0,5.0,4.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Huachipato,4.0,3.0,complete,1748302200,"Juan Lara, Chile",48.0,52.0,7.0,8.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Huachipato,Nublense,0.0,1.0,complete,1748709000,"Rodrigo Alejandro Farias Molina,",43.0,57.0,0.0,3.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Coquimbo Unido,2.0,4.0,complete,1748709000,"Nicolas Gamboa Reyes, Chile",65.0,35.0,5.0,6.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,O'Higgins,6.0,0.0,complete,1748718000,"Gaston Phillippe Noriega, Chile",55.0,45.0,3.0,4.0,0.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,A. Italiano,1.0,1.0,complete,1748736000,J. Cabero,67.0,33.0,4.0,3.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Palestino,U. Catolica,1.0,1.0,complete,1748804400,"Juan Ignacio Lara Luco, Chile",43.0,57.0,1.0,8.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Colo Colo,0.0,1.0,complete,1748813400,"Benjamin Saravia Retamal, Chile",47.0,53.0,3.0,1.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Deportes Iquique,2.0,1.0,complete,1748901600,"Fernando Andre Vejar Diaz, Chile",50.0,50.0,7.0,5.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Deportes Limache,2.0,2.0,complete,1748977200,"Cristian Galaz Sepulveda, Chile",59.0,41.0,10.0,3.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Colo Colo,2.0,2.0,complete,1749772800,"Juan Ignacio Lara Luco, Chile",28.0,72.0,6.0,6.0,2.0,3.0,1.07,1.96,0,1.0,1.0
+Deportes Limache,Union La Calera,0.0,1.0,complete,1749859200,"Dione Rissios, Chile",55.0,45.0,5.0,2.0,3.0,3.0,1.77,0.9,0,1.0,1.0
+Palestino,D. La Serena,2.0,1.0,complete,1749918600,"Felipe Gonzalez, Chile",56.0,44.0,7.0,4.0,1.0,3.0,1.47,0.82,0,1.0,1.0
+U. Catolica,Huachipato,1.0,0.0,complete,1749927600,"Nicolas Gamboa Reyes, Chile",60.0,40.0,4.0,0.0,2.0,4.0,2.04,0.63,0,1.0,1.0
+O'Higgins,Union Espanola,1.0,0.0,complete,1750005000,"Manuel Vergara, Chile",55.0,45.0,6.0,9.0,1.0,6.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Universidad de Chile,1.0,0.0,complete,1750014000,"Franco Esteban Jimenez Lazo, Chile",36.0,64.0,1.0,5.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Nublense,A. Italiano,2.0,3.0,complete,1750032000,"Francisco Gilabert, Chile",75.0,25.0,8.0,1.0,4.0,4.0,1.55,1.39,0,1.0,1.0
+Deportes Iquique,Everton de Vina,1.0,2.0,complete,1750118400,Reinerio Andrés Alvarado González,58.0,42.0,4.0,4.0,5.0,1.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Cobresal,4.0,0.0,complete,1750197600,"Gaston Philippe, Chile",71.0,29.0,8.0,2.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Union La Calera,U. Catolica,1.0,1.0,complete,1750455000,"Felipe Gonzalez, Chile",36.0,64.0,7.0,5.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Coquimbo Unido,0.0,2.0,complete,1750523400,"Hector Jona, Chile",58.0,42.0,2.0,9.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Deportes Iquique,3.0,1.0,complete,1750532400,"Mathias Riquelme, Chile",66.0,34.0,7.0,1.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,Palestino,2.0,2.0,complete,1750541400,"Jose Cabero, Chile",48.0,52.0,4.0,2.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Limache,1.0,1.0,complete,1750609800,"Miguel Araos Riquelme, Chile",67.0,33.0,2.0,5.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Colo Colo,2.0,1.0,complete,1750618800,"Fernando Andre Vejar Diaz, Chile",29.0,71.0,2.0,7.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Cobresal,Nublense,1.0,1.0,complete,1750627800,"Diego Flores Seguel, Chile",44.0,56.0,3.0,11.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,O'Higgins,0.0,1.0,complete,1750636800,"Franco Esteban Jimenez Lazo, Chile",38.0,62.0,3.0,7.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Universidad de Chile,0.0,2.0,complete,1751742000,"Rodrigo Carvajal Molina, Chile",57.0,43.0,4.0,3.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Colo Colo,2.0,0.0,complete,1751828400,"Mathias Riquelme, Chile",46.0,54.0,3.0,1.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Colo Colo,2.0,1.0,complete,1752346800,"Piero Maza, Chile",44.0,56.0,1.0,4.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Deportes Limache,0.0,0.0,complete,1752879600,"Miguel Araos Riquelme, Chile",64.0,36.0,6.0,5.0,1.0,2.0,0.59,0.38,0,1.0,1.0
+Union Espanola,Union La Calera,3.0,1.0,complete,1752942600,"Fernando Andre Vejar Diaz, Chile",46.0,54.0,10.0,2.0,1.0,4.0,1.62,0.8,0,1.0,1.0
+Colo Colo,D. La Serena,2.0,1.0,complete,1752951600,"Jose Cabero, Chile",61.0,39.0,7.0,4.0,1.0,3.0,1.85,1.27,0,1.0,1.0
+Coquimbo Unido,Deportes Iquique,4.0,1.0,complete,1752960600,"Hector Jona, Chile",47.0,53.0,6.0,2.0,4.0,3.0,2.97,0.55,0,1.0,1.0
+A. Italiano,U. Catolica,1.0,1.0,complete,1753029000,"Cristian Garay, Chile",50.0,50.0,2.0,5.0,3.0,5.0,1.2,1.14,0,1.0,1.0
+Nublense,Universidad de Chile,2.0,2.0,complete,1753038000,"Diego Flores Seguel, Chile",41.0,59.0,1.0,3.0,1.0,4.0,1.94,1.71,0,1.0,1.0
+Huachipato,O'Higgins,2.0,1.0,complete,1753138800,"Piero Maza, Chile",52.0,48.0,5.0,4.0,2.0,2.0,3.48,0.75,0,1.0,1.0
+Deportes Limache,Nublense,0.0,1.0,complete,1753484400,"Gaston Philippe, Chile",45.0,55.0,4.0,6.0,3.0,4.0,1.37,2.23,0,1.0,1.0
+D. La Serena,Cobresal,0.0,2.0,complete,1753556400,"Reinerio Alvarado, Chile",70.0,30.0,11.0,4.0,3.0,3.0,1.6,1.78,0,1.0,1.0
+Everton de Vina,Huachipato,4.0,1.0,complete,1753565400,"Cristian Galaz Sepulveda, Chile",49.0,51.0,4.0,8.0,5.0,3.0,2.53,1.02,0,1.0,1.0
+O'Higgins,Colo Colo,1.0,1.0,complete,1753633800,"Nicolas Gamboa Reyes, Chile",57.0,43.0,4.0,0.0,0.0,5.0,1.0,0.19,0,1.0,1.0
+Palestino,Union Espanola,1.0,0.0,complete,1753642800,"Juan Ignacio Lara Luco, Chile",60.0,40.0,7.0,2.0,3.0,4.0,0.84,0.85,0,1.0,1.0
+U. Catolica,Coquimbo Unido,0.0,3.0,complete,1753642800,"Diego Flores Seguel, Chile",60.0,40.0,1.0,6.0,4.0,2.0,0.16,2.28,0,1.0,1.0
+Deportes Iquique,A. Italiano,1.0,0.0,complete,1753653600,"Rodrigo Carvajal, Chile",37.0,63.0,2.0,6.0,1.0,1.0,0.89,1.15,0,1.0,1.0
+Union La Calera,Universidad de Chile,0.0,4.0,complete,1753740000,"Franco Esteban Jimenez Lazo, Chile",30.0,70.0,4.0,3.0,3.0,2.0,0.18,2.16,0,1.0,1.0
+A. Italiano,Palestino,1.0,1.0,complete,1754089200,"Hector Jona, Chile",38.0,62.0,5.0,7.0,3.0,3.0,0.87,0.94,0,1.0,1.0
+Union Espanola,D. La Serena,1.0,0.0,complete,1754152200,"Cristian Garay, Chile",57.0,43.0,11.0,2.0,3.0,2.0,1.3,1.22,0,1.0,1.0
+Coquimbo Unido,Deportes Limache,2.0,1.0,complete,1754161200,"Jose Cabero Rebolledo, Chile",58.0,42.0,7.0,1.0,5.0,4.0,2.97,0.32,0,1.0,1.0
+Deportes Iquique,U. Catolica,2.0,2.0,complete,1754170200,"Fernando Andre Vejar Diaz, Chile",49.0,51.0,3.0,6.0,4.0,5.0,2.01,2.24,0,1.0,1.0
+O'Higgins,Union La Calera,1.0,0.0,complete,1754238600,"Rodrigo Carvajal, Chile",49.0,51.0,13.0,7.0,3.0,1.0,1.53,0.4,0,1.0,1.0
+Colo Colo,Huachipato,2.0,2.0,complete,1754247600,"Diego Flores Seguel, Chile",67.0,33.0,8.0,4.0,6.0,3.0,3.07,0.97,0,1.0,1.0
+Nublense,Everton de Vina,1.0,0.0,complete,1754256600,"Piero Maza, Chile",56.0,44.0,2.0,3.0,2.0,4.0,0.44,1.04,0,1.0,1.0
+Universidad de Chile,Cobresal,0.0,1.0,complete,1754344800,"Gaston Philippe, Chile",66.0,34.0,11.0,2.0,2.0,3.0,2.02,0.5,0,1.0,1.0
+Palestino,Deportes Iquique,2.0,0.0,complete,1754679600,"Cristian Garay, Chile",70.0,30.0,7.0,3.0,3.0,3.0,1.35,0.53,0,1.0,1.0
+Huachipato,Union La Calera,1.0,0.0,complete,1754757000,"Piero Maza, Chile",66.0,34.0,10.0,3.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Union Espanola,4.0,1.0,complete,1754766000,"Diego Flores Seguel, Chile",53.0,47.0,5.0,2.0,1.0,3.0,3.56,1.85,0,1.0,1.0
+D. La Serena,O'Higgins,3.0,3.0,complete,1754775000,"Juan Ignacio Lara Luco, Chile",35.0,65.0,3.0,9.0,2.0,3.0,1.24,2.38,0,1.0,1.0
+Everton de Vina,Colo Colo,1.0,1.0,complete,1754843400,"Felipe Gonzalez, Chile",41.0,59.0,3.0,7.0,3.0,2.0,1.81,0.69,0,1.0,1.0
+Cobresal,Coquimbo Unido,1.0,2.0,complete,1754852400,"Rodrigo Carvajal, Chile",69.0,31.0,5.0,5.0,4.0,5.0,1.85,2.36,0,1.0,1.0
+Deportes Limache,A. Italiano,4.0,0.0,complete,1754953200,"Gaston Philippe, Chile",48.0,52.0,3.0,8.0,4.0,3.0,1.23,1.21,0,1.0,1.0
+Union Espanola,Deportes Iquique,2.0,2.0,complete,1755284400,"Felipe Eduardo Jara Mendez, Chile",71.0,29.0,14.0,3.0,0.0,5.0,1.0,1.0,0,1.0,1.0
+Union La Calera,D. La Serena,1.0,1.0,complete,1755302400,Gastón Philippe,47.0,53.0,6.0,7.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,Palestino,1.0,0.0,complete,1755360000,"Rodrigo Carvajal, Chile",36.0,64.0,2.0,5.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+Colo Colo,U. Catolica,1.0,4.0,complete,1755370800,"Cristian Garay, Chile",72.0,28.0,15.0,3.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Cobresal,1.0,0.0,complete,1755383400,"Mathias Riquelme, Chile",57.0,43.0,9.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,A. Italiano,1.0,3.0,complete,1755448200,"Piero Maza, Chile",69.0,31.0,8.0,5.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,Deportes Limache,4.0,0.0,complete,1755457200,"Diego Flores Seguel, Chile",54.0,46.0,5.0,7.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Everton de Vina,2.0,1.0,complete,1755466200,"Franco Esteban Jimenez Lazo, Chile",44.0,56.0,10.0,1.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Palestino,Colo Colo,0.0,0.0,complete,1755889200,"Hector Jona, Chile",53.0,47.0,7.0,3.0,3.0,5.0,1.72,0.95,0,1.0,1.0
+Deportes Limache,O'Higgins,2.0,2.0,complete,1755909000,Franco Esteban Jiménez Lazo,29.0,71.0,5.0,3.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,Union La Calera,1.0,0.0,complete,1755975600,"Jose Cabero Rebolledo, Chile",62.0,38.0,7.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Coquimbo Unido,0.0,1.0,complete,1755984600,"Cristian Garay, Chile",58.0,42.0,0.0,10.0,3.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Union Espanola,2.0,0.0,complete,1755993600,Rodrigo Alejandro Carvajal Molina,54.0,46.0,2.0,6.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Huachipato,0.0,2.0,complete,1756053000,"Felipe Gonzalez, Chile",55.0,45.0,6.0,6.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Nublense,0.0,2.0,complete,1756071000,"Diego Flores Seguel, Chile",44.0,56.0,3.0,4.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,D. La Serena,3.0,1.0,complete,1756422000,"Nicolas Gamboa Reyes, Chile",43.0,57.0,9.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Palestino,1.0,2.0,complete,1756508400,"Manuel Vergara, Chile",50.0,50.0,4.0,3.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+Huachipato,Coquimbo Unido,0.0,1.0,complete,1756571400,"Mathias Riquelme, Chile",58.0,42.0,5.0,3.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+O'Higgins,A. Italiano,3.0,2.0,complete,1756580400,"Hector Jona, Chile",49.0,51.0,5.0,6.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Cobresal,2.0,1.0,complete,1756589400,"Piero Maza, Chile",68.0,32.0,5.0,2.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Deportes Limache,2.0,1.0,complete,1756598400,"Felipe Gonzalez, Chile",61.0,39.0,9.0,2.0,2.0,3.0,1.99,0.49,0,1.0,1.0
+Colo Colo,Universidad de Chile,1.0,0.0,complete,1756666800,"Cristian Garay, Chile",66.0,34.0,6.0,7.0,4.0,3.0,2.37,1.84,0,1.0,1.0
+Nublense,Union Espanola,1.0,2.0,complete,1756679400,"Franco Esteban Jimenez Lazo, Chile",62.0,38.0,9.0,7.0,4.0,2.0,0.72,1.94,0,1.0,1.0
+Cobresal,Palestino,2.0,1.0,complete,1757268000,"Jose Cabero Rebolledo, Chile",40.0,60.0,8.0,7.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Nublense,2.0,1.0,complete,1757710800,"Nicolas Gamboa Reyes, Chile",45.0,55.0,3.0,1.0,2.0,3.0,0.62,0.39,0,1.0,1.0
+Union La Calera,Everton de Vina,1.0,0.0,complete,1757719800,"Mathias Riquelme, Chile",47.0,53.0,8.0,2.0,2.0,3.0,0.93,0.34,0,1.0,1.0
+Union Espanola,A. Italiano,3.0,4.0,complete,1757777400,"Diego Flores Seguel, Chile",59.0,41.0,4.0,3.0,2.0,7.0,1.0,1.0,0,1.0,1.0
+Palestino,O'Higgins,1.0,2.0,complete,1757786400,"Piero Maza, Chile",65.0,35.0,7.0,0.0,4.0,6.0,1.0,1.0,0,1.0,1.0
+Cobresal,Huachipato,3.0,2.0,complete,1757795400,"Fernando Andre Vejar Diaz, Chile",49.0,51.0,7.0,6.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,U. Catolica,0.0,1.0,complete,1757804400,"Mathias Riquelme, Chile",49.0,51.0,7.0,1.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Deportes Iquique,4.0,0.0,complete,1758924000,"Juan Ignacio Lara Luco, Chile",71.0,29.0,4.0,2.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Universidad de Chile,1.0,1.0,complete,1759082400,"Mathias Riquelme, Chile",33.0,67.0,8.0,6.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Nublense,1.0,0.0,complete,1760052600,"Hector Jona, Chile",59.0,41.0,2.0,2.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+Union Espanola,Huachipato,4.0,2.0,complete,1760281200,"Cristian Garay, Chile",47.0,53.0,3.0,6.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Palestino,2.0,1.0,complete,1760382000,"Miguel Araos Riquelme, Chile",37.0,63.0,3.0,3.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Union La Calera,4.0,3.0,complete,1760734800,"Fernando Andre Vejar Diaz, Chile",34.0,66.0,6.0,1.0,2.0,3.0,2.04,2.48,0,1.0,1.0
+Deportes Iquique,O'Higgins,2.0,3.0,complete,1760743800,"Juan Ignacio Lara Luco, Chile",43.0,57.0,4.0,5.0,5.0,2.0,1.66,1.24,0,1.0,1.0
+D. La Serena,Nublense,1.0,1.0,complete,1760810400,"Rodrigo Carvajal Molina, Chile",27.0,73.0,3.0,8.0,4.0,5.0,1.86,1.51,0,1.0,1.0
+Deportes Limache,Cobresal,2.0,0.0,complete,1760819400,"Miguel Araos Riquelme, Chile",55.0,45.0,8.0,1.0,0.0,5.0,3.52,0.87,0,1.0,1.0
+Coquimbo Unido,Colo Colo,1.0,0.0,complete,1760887800,"Mathias Riquelme, Chile",28.0,72.0,6.0,5.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,U. Catolica,0.0,3.0,complete,1760896800,"Manuel Vergara, Chile",32.0,68.0,7.0,3.0,6.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Everton de Vina,2.0,1.0,complete,1761336000,"Cristian Galaz Sepulveda, Chile",64.0,36.0,5.0,3.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+D. La Serena,A. Italiano,2.0,1.0,complete,1761415200,"Nicolas Millas, Chile",43.0,57.0,2.0,7.0,1.0,1.0,1.91,1.72,0,1.0,1.0
+Huachipato,Deportes Iquique,1.0,1.0,complete,1761424200,"Victor Abarzua, Chile",61.0,39.0,6.0,5.0,1.0,1.0,0.92,1.21,0,1.0,1.0
+U. Catolica,Universidad de Chile,1.0,0.0,complete,1761492600,"Juan Ignacio Lara Luco, Chile",38.0,62.0,8.0,2.0,4.0,5.0,1.13,1.6,0,1.0,1.0
+Cobresal,Union Espanola,1.0,0.0,complete,1761505200,"Hector Jona, Chile",51.0,49.0,4.0,8.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Coquimbo Unido,0.0,1.0,complete,1761514200,"Claudio Diaz Mera, Chile",64.0,36.0,4.0,6.0,4.0,3.0,1.33,0.81,0,1.0,1.0
+Union La Calera,Nublense,3.0,0.0,complete,1761514200,"Matias Assadi, Chile",40.0,60.0,3.0,4.0,5.0,2.0,1.9,1.35,0,1.0,1.0
+Colo Colo,Deportes Limache,2.0,2.0,complete,1761598800,"Diego Flores Seguel, Chile",61.0,39.0,9.0,1.0,5.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Cobresal,1.0,2.0,complete,1761933600,"Gaston Phillippe Noriega, Chile",59.0,41.0,4.0,4.0,2.0,5.0,2.54,2.25,0,1.0,1.0
+Deportes Iquique,D. La Serena,1.0,2.0,complete,1761942600,"Cristian Galaz Sepulveda, Chile",63.0,37.0,2.0,1.0,3.0,3.0,1.62,0.58,0,1.0,1.0
+Nublense,Colo Colo,0.0,1.0,complete,1762030800,"Mario Salvo Sepulveda, Chile",44.0,56.0,2.0,3.0,4.0,3.0,0.56,2.43,0,1.0,1.0
+Huachipato,Universidad de Chile,1.0,0.0,complete,1762097400,"Claudio Diaz Mera, Chile",37.0,63.0,1.0,9.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Union La Calera,2.0,0.0,complete,1762115400,"Franco Esteban Jimenez Lazo, Chile",47.0,53.0,5.0,2.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+U. Catolica,O'Higgins,0.0,2.0,complete,1762115400,"Hector Jona, Chile",56.0,44.0,8.0,2.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Union Espanola,0.0,0.0,complete,1762126200,"Jose Cabero, Chile",27.0,73.0,3.0,4.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Deportes Limache,2.0,1.0,complete,1762207200,"Piero Maza, Chile",68.0,32.0,7.0,0.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Everton de Vina,2.0,0.0,complete,1762374600,"Mathias Riquelme, Chile",69.0,31.0,7.0,0.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Deportes Iquique,1.0,2.0,complete,1762556400,"Fabian Reyes Fuenzalida, Chile",62.0,38.0,5.0,2.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,U. Catolica,0.0,1.0,complete,1762615800,"Cristian Garay, Chile",48.0,52.0,6.0,7.0,3.0,3.0,0.87,0.74,0,1.0,1.0
+Union Espanola,Colo Colo,1.0,2.0,complete,1762624800,"Hector Jona, Chile",44.0,56.0,4.0,4.0,5.0,4.0,1.89,0.85,0,1.0,1.0
+Palestino,Coquimbo Unido,1.0,2.0,complete,1762633800,"Nicolas Gamboa Reyes, Chile",61.0,39.0,4.0,8.0,2.0,2.0,0.59,1.87,0,1.0,1.0
+O'Higgins,Nublense,4.0,2.0,complete,1762644600,"Piero Maza, Chile",62.0,38.0,3.0,0.0,1.0,4.0,2.13,1.08,0,1.0,1.0
+Huachipato,A. Italiano,2.0,1.0,complete,1762711200,"Miguel Araos Riquelme, Chile",44.0,56.0,9.0,10.0,1.0,6.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Deportes Limache,4.0,3.0,complete,1762720200,"Felipe Gonzalez, Chile",63.0,37.0,9.0,3.0,5.0,2.0,1.0,1.0,0,1.0,1.0
+Cobresal,Everton de Vina,1.0,2.0,complete,1762729200,"Franco Esteban Jimenez Lazo, Chile",80.0,20.0,9.0,5.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Cobresal,2.0,1.0,complete,1763766000,"Hector Jona, Chile",50.0,50.0,6.0,6.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Everton de Vina,2.0,0.0,complete,1763766000,"Cristian Galaz Sepulveda, Chile",59.0,41.0,8.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Union Espanola,1.0,0.0,complete,1763766000,"Diego Flores Seguel, Chile",40.0,60.0,6.0,5.0,6.0,4.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,D. La Serena,2.0,1.0,complete,1763845200,"Miguel Araos Riquelme, Chile",57.0,43.0,7.0,4.0,1.0,4.0,1.89,1.15,0,1.0,1.0
+U. Catolica,Palestino,2.0,1.0,complete,1763854200,"Gaston Phillippe Noriega, Chile",37.0,63.0,3.0,11.0,1.0,3.0,1.48,1.05,0,1.0,1.0
+O'Higgins,Universidad de Chile,0.0,1.0,complete,1763931600,"Franco Esteban Jimenez Lazo, Chile",54.0,46.0,8.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Union La Calera,4.0,1.0,complete,1763940600,"Nicolas Millas, Chile",59.0,41.0,3.0,3.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Huachipato,0.0,1.0,complete,1764025200,"Manuel Vergara, Chile",60.0,40.0,4.0,1.0,4.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,Colo Colo,3.0,0.0,complete,1764365400,"Juan Ignacio Lara Luco, Chile",28.0,72.0,4.0,8.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Huachipato,U. Catolica,0.0,0.0,complete,1764428400,"Cristian Galaz Sepulveda, Chile",50.0,50.0,5.0,5.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Palestino,0.0,3.0,complete,1764450000,"Gaston Phillippe Noriega, Chile",28.0,72.0,4.0,8.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Union Espanola,O'Higgins,2.0,4.0,complete,1764536400,"Piero Maza, Chile",52.0,48.0,11.0,4.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Deportes Iquique,0.0,1.0,complete,1764536400,"Nicolas Gamboa Reyes, Chile",64.0,36.0,10.0,4.0,2.0,5.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Deportes Limache,0.0,1.0,complete,1764536400,"Felipe Gonzalez, Chile",49.0,51.0,4.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Nublense,1.0,0.0,complete,1764630000,"Nicolas Millas, Chile",29.0,71.0,0.0,5.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Coquimbo Unido,1.0,1.0,complete,1764709200,"Diego Flores Seguel, Chile",63.0,37.0,8.0,4.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Huachipato,2.0,2.0,complete,1764975600,"Hector Jona, Chile",62.0,38.0,6.0,7.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Iquique,Universidad de Chile,2.0,3.0,complete,1765054800,"Mathias Riquelme, Chile",43.0,57.0,2.0,2.0,3.0,2.0,1.94,1.91,0,1.0,1.0
+O'Higgins,Everton de Vina,1.0,0.0,complete,1765054800,"Felipe Gonzalez, Chile",75.0,25.0,3.0,1.0,3.0,3.0,1.27,0.17,0,1.0,1.0
+Coquimbo Unido,Union Espanola,4.0,2.0,complete,1765054800,"Claudio Diaz Mera, Chile",44.0,56.0,7.0,4.0,3.0,1.0,2.26,0.81,0,1.0,1.0
+U. Catolica,Union La Calera,2.0,1.0,complete,1765054800,"Fernando Andre Vejar Diaz, Chile",63.0,37.0,8.0,3.0,1.0,5.0,1.21,0.5,0,1.0,1.0
+Deportes Limache,D. La Serena,1.0,0.0,complete,1765054800,"Mario Salvo Sepulveda, Chile",72.0,28.0,4.0,3.0,0.0,2.0,1.36,0.62,0,1.0,1.0
+Colo Colo,A. Italiano,1.0,2.0,complete,1765141200,"Piero Maza, Chile",73.0,27.0,15.0,1.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Nublense,Cobresal,5.0,0.0,complete,1765141200,"Gaston Phillippe Noriega, Chile",72.0,28.0,7.0,1.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,A. Italiano,0.0,0.0,complete,1769814000,G. Philippe,39.0,61.0,2.0,3.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Colo Colo,3.0,1.0,complete,1769871600,C. Garay,27.0,73.0,3.0,4.0,1.0,2.0,1.51,2.13,0,1.0,1.0
+Universidad de Concepcion,Coquimbo Unido,1.0,0.0,complete,1769884200,H. J. Gamboa,51.0,49.0,11.0,1.0,4.0,4.0,1.0,0.72,0,1.0,1.0
+Cobresal,Huachipato,1.0,0.0,complete,1769893200,M. H. Assadi Quintana,52.0,48.0,6.0,4.0,3.0,3.0,1.31,0.4,0,1.0,1.0
+D. La Serena,U. Catolica,2.0,2.0,complete,1769979600,P. Maza,42.0,58.0,0.0,3.0,5.0,5.0,1.0,1.0,0,1.0,1.0
+Palestino,Nublense,1.0,1.0,complete,1769988600,M. Salvo,57.0,43.0,7.0,8.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Union La Calera,0.0,1.0,complete,1770066000,N. Millas,51.0,49.0,6.0,2.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Concepción,2.0,1.0,complete,1770075000,F. Vejar,48.0,52.0,3.0,3.0,3.0,1.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Universidad de Concepcion,3.0,0.0,complete,1770418800,M. Riquelme,47.0,53.0,3.0,7.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Palestino,3.0,1.0,complete,1770476400,F. Vejar,34.0,66.0,6.0,5.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+O'Higgins,D. La Serena,1.0,0.0,complete,1770498000,C. D. Mera,48.0,52.0,3.0,3.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Everton de Vina,2.0,0.0,complete,1770507000,J. Lara,53.0,47.0,8.0,4.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,Universidad de Chile,2.0,1.0,complete,1770562800,R. Farias,39.0,61.0,7.0,4.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Deportes Limache,1.0,1.0,complete,1770584400,F. Jimenez Lazo,63.0,37.0,11.0,3.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Concepción,2.0,0.0,complete,1770593400,C. Garay,47.0,53.0,3.0,8.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Cobresal,3.0,1.0,complete,1770678000,M. Vergara,49.0,51.0,3.0,6.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Huachipato,0.0,3.0,complete,1771016400,N. Gamboa,54.0,46.0,2.0,7.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Universidad de Chile,0.0,0.0,complete,1771025400,D. Flores,41.0,59.0,3.0,1.0,3.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Coquimbo Unido,0.0,1.0,complete,1771081200,C. Garay,50.0,50.0,4.0,2.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,O'Higgins,2.0,1.0,complete,1771102800,H. Jona,36.0,64.0,1.0,5.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Cobresal,U. Catolica,3.0,2.0,complete,1771111800,J. Cabero,36.0,64.0,5.0,11.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Concepción,2.0,1.0,complete,1771167600,J. Lara,49.0,51.0,5.0,3.0,5.0,2.0,1.71,1.47,0,1.0,1.0
+Nublense,A. Italiano,1.0,0.0,complete,1771189200,P. Maza,41.0,59.0,4.0,6.0,3.0,2.0,0.78,0.49,0,1.0,1.0
+Colo Colo,Union La Calera,1.0,0.0,complete,1771198200,F. Vejar,62.0,38.0,10.0,3.0,2.0,6.0,2.13,0.14,0,1.0,1.0
+Union La Calera,Nublense,0.0,1.0,complete,1771621200,N. Gamboa,62.0,38.0,5.0,4.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Concepción,Cobresal,1.0,1.0,complete,1771630200,G. Philippe,66.0,34.0,9.0,3.0,0.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,Palestino,2.0,1.0,complete,1771686000,J. Lara,56.0,44.0,3.0,4.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Colo Colo,0.0,1.0,complete,1771707600,M. Riquelme,44.0,56.0,6.0,5.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Coquimbo Unido,3.0,1.0,complete,1771716600,F. Jimenez Lazo,59.0,41.0,1.0,5.0,5.0,4.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Universidad de Concepcion,1.0,1.0,complete,1771772400,J. Cabero,60.0,40.0,5.0,4.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Everton de Vina,1.0,0.0,complete,1771794000,C. Diaz,53.0,47.0,4.0,1.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Deportes Limache,2.0,2.0,complete,1771803000,F. Vejar,65.0,35.0,5.0,3.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+Cobresal,D. La Serena,0.0,1.0,complete,1772226000,H. J. Gamboa,58.0,42.0,7.0,1.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,A. Italiano,3.0,0.0,complete,1772235000,C. Sepulveda,53.0,47.0,6.0,4.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Concepción,0.0,1.0,complete,1772290800,D. Flores,66.0,34.0,6.0,3.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Huachipato,3.0,0.0,complete,1772312400,M. Salvo,46.0,54.0,4.0,1.0,1.0,1.0,1.0,1.0,0,1.0,1.0
+Palestino,O'Higgins,4.0,2.0,complete,1772321400,G. Philippe,54.0,46.0,3.0,2.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Everton de Vina,0.0,3.0,complete,1772377200,F. Gilabert,54.0,46.0,8.0,2.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Universidad de Chile,0.0,1.0,complete,1772398800,C. Garay,58.0,42.0,4.0,1.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Nublense,U. Catolica,1.0,2.0,complete,1772407800,F. Vejar,40.0,60.0,3.0,5.0,4.0,7.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Union La Calera,3.0,0.0,complete,1772830800,M. H. Assadi Quintana,42.0,58.0,2.0,10.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Concepción,Nublense,0.0,2.0,complete,1772839800,C. Garay,57.0,43.0,9.0,4.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Deportes Limache,1.0,0.0,complete,1772895600,G. Philippe,46.0,54.0,5.0,5.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Huachipato,Coquimbo Unido,1.0,3.0,complete,1772895600,N. Gamboa,57.0,43.0,5.0,10.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Colo Colo,0.0,1.0,complete,1772917200,H. J. Gamboa,45.0,55.0,4.0,5.0,1.0,2.0,1.0,1.0,0,1.0,1.0
+O'Higgins,U. Catolica,1.0,0.0,complete,1772926200,J. Lara,39.0,61.0,5.0,4.0,3.0,3.0,1.0,1.0,0,1.0,1.0
+Palestino,Cobresal,4.0,2.0,complete,1773012600,P. Maza,63.0,37.0,2.0,5.0,2.0,4.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Universidad de Concepcion,1.0,1.0,complete,1773097200,J. Cabero,67.0,33.0,11.0,5.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Concepción,3.0,0.0,complete,1773442800,N. Millas,50.0,50.0,2.0,2.0,2.0,2.0,1.22,0.85,0,1.0,1.0
+Coquimbo Unido,Universidad de Chile,0.0,1.0,complete,1773522000,I. R. Sepulveda M.,51.0,49.0,10.0,3.0,2.0,2.0,1.22,0.76,0,1.0,1.0
+U. Catolica,Everton de Vina,2.0,2.0,complete,1773531000,R. Carvajal,66.0,34.0,4.0,3.0,5.0,2.0,1.04,0.34,0,1.0,1.0
+Universidad de Concepcion,Palestino,1.0,0.0,complete,1773586800,C. Galaz,44.0,56.0,2.0,5.0,3.0,5.0,1.0,1.0,0,1.0,1.0
+Cobresal,Deportes Limache,2.0,5.0,complete,1773608400,M. Araos,51.0,49.0,6.0,5.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,D. La Serena,2.0,2.0,complete,1773617400,F. Gilabert,54.0,46.0,9.0,3.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Union La Calera,O'Higgins,3.0,3.0,complete,1773694800,M. Salvo,55.0,45.0,7.0,3.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Huachipato,2.0,0.0,complete,1773703800,C. D. Mera,55.0,45.0,10.0,3.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Palestino,6.0,1.0,complete,1775163600,C. Garay,55.0,45.0,4.0,6.0,1.0,6.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Cobresal,3.0,2.0,complete,1775248200,J. Cabero,58.0,42.0,8.0,5.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+O'Higgins,A. Italiano,2.0,1.0,complete,1775257200,J. Lara,48.0,52.0,6.0,6.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Union La Calera,4.0,0.0,complete,1775334600,D. Flores,39.0,61.0,1.0,12.0,1.0,1.0,2.63,0.22,0,1.0,1.0
+Everton de Vina,Nublense,0.0,0.0,complete,1775343600,P. Maza,49.0,51.0,6.0,1.0,3.0,4.0,0.65,0.83,0,1.0,1.0
+Concepción,Colo Colo,0.0,1.0,complete,1775417400,F. Jimenez Lazo,33.0,67.0,5.0,5.0,4.0,3.0,0.19,0.67,0,1.0,1.0
+Universidad de Chile,D. La Serena,4.0,0.0,complete,1775426400,M. Salvo,49.0,51.0,10.0,9.0,4.0,3.0,1.37,0.91,0,1.0,1.0
+Huachipato,Universidad de Concepcion,5.0,1.0,complete,1775520000,F. Vejar,46.0,54.0,2.0,3.0,3.0,3.0,2.26,1.06,0,1.0,1.0
+O'Higgins,Huachipato,0.0,2.0,complete,1775865600,M. Vergara,64.0,36.0,10.0,2.0,4.0,3.0,0.7,0.55,0,1.0,1.0
+D. La Serena,Everton de Vina,1.0,0.0,complete,1775934000,M. H. Assadi Quintana,52.0,48.0,10.0,6.0,3.0,3.0,1.32,0.72,0,1.0,1.0
+A. Italiano,U. Catolica,3.0,4.0,complete,1775943000,D. Flores,46.0,54.0,3.0,5.0,6.0,4.0,0.8,1.98,0,1.0,1.0
+Palestino,Deportes Limache,1.0,0.0,complete,1775952000,C. D. Mera,34.0,66.0,6.0,3.0,4.0,1.0,1.0,1.0,0,1.0,1.0
+Nublense,Universidad de Chile,1.0,0.0,complete,1776029400,C. Sepulveda,37.0,63.0,0.0,8.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Cobresal,1.0,0.0,complete,1776038400,G. Philippe,49.0,51.0,4.0,6.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Concepción,1.0,0.0,complete,1776124800,M. Araos,44.0,56.0,8.0,8.0,1.0,3.0,1.32,0.37,0,1.0,1.0
+Deportes Limache,Universidad de Concepcion,3.0,0.0,complete,1776470400,H. Jona,48.0,52.0,8.0,9.0,0.0,3.0,2.46,0.67,0,1.0,1.0
+Everton de Vina,Universidad de Chile,0.0,0.0,complete,1776547800,C. Garay,36.0,64.0,4.0,8.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Concepción,D. La Serena,3.0,3.0,complete,1776556800,F. Gilabert,45.0,55.0,1.0,5.0,1.0,3.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Nublense,1.0,1.0,complete,1776616200,N. Millas,42.0,58.0,3.0,2.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Cobresal,O'Higgins,2.0,3.0,complete,1776627000,J. Cabero,42.0,58.0,8.0,6.0,2.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Palestino,0.0,1.0,complete,1776637800,F. Vejar,71.0,29.0,10.0,4.0,2.0,3.0,1.0,1.0,0,1.0,1.0
+Huachipato,A. Italiano,3.0,2.0,complete,1776645900,C. Galaz,49.0,51.0,1.0,5.0,4.0,2.0,1.3,1.0,0,1.0,1.0
+U. Catolica,Union La Calera,1.0,2.0,complete,1776731400,N. Gamboa,58.0,42.0,6.0,3.0,5.0,2.0,1.19,1.27,0,1.0,1.0
+Palestino,Concepción,0.0,1.0,complete,1776988800,C. Garay,67.0,33.0,4.0,0.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Coquimbo Unido,1.0,2.0,complete,1777068000,M. Araos,58.0,42.0,4.0,4.0,5.0,5.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Deportes Limache,2.0,2.0,complete,1777077000,P. Maza,46.0,54.0,1.0,4.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Nublense,O'Higgins,0.0,2.0,complete,1777143600,J. Lara,46.0,54.0,4.0,6.0,2.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,U. Catolica,1.0,0.0,complete,1777154400,D. Flores,48.0,52.0,7.0,3.0,4.0,5.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Huachipato,0.0,0.0,complete,1777221000,C. D. Mera,55.0,45.0,7.0,1.0,3.0,2.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Colo Colo,1.0,2.0,complete,1777230000,J. Cabero,35.0,65.0,4.0,5.0,4.0,2.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Cobresal,3.0,1.0,complete,1777239000,H. Jona,57.0,43.0,2.0,4.0,1.0,4.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Coquimbo Unido,3.0,1.0,complete,1777843800,H. Jona,61.0,39.0,4.0,3.0,1.0,3.0,2.81,1.35,0,1.0,1.0
+Palestino,D. La Serena,5.0,1.0,complete,1778889600,J. Cabero,44.0,56.0,2.0,4.0,0.0,1.0,4.33,1.37,0,1.0,1.0
+Coquimbo Unido,A. Italiano,3.0,0.0,complete,1778889600,J. Lara,51.0,49.0,8.0,1.0,1.0,4.0,1.9,0.15,0,1.0,1.0
+O'Higgins,Universidad de Concepcion,0.0,1.0,complete,1778967000,F. Vejar,58.0,42.0,16.0,0.0,3.0,4.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,U. Catolica,0.0,2.0,complete,1778976000,H. Jona,43.0,57.0,2.0,7.0,5.0,2.0,1.0,1.0,0,1.0,1.0
+Huachipato,Union La Calera,3.0,1.0,complete,1779035400,R. Carvajal,50.0,50.0,2.0,4.0,4.0,3.0,1.0,1.0,0,1.0,1.0
+Cobresal,Universidad de Chile,1.0,0.0,complete,1779044400,F. Jimenez Lazo,32.0,68.0,5.0,9.0,2.0,1.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Nublense,6.0,2.0,complete,1779053400,M. Riquelme,69.0,31.0,4.0,4.0,1.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Everton de Vina,0.0,2.0,complete,1779062400,P. Maza,51.0,49.0,4.0,9.0,3.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Coquimbo Unido,,,upcoming,1779476400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Cobresal,,,upcoming,1779553800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Universidad de Concepcion,,,upcoming,1779562800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Palestino,,,upcoming,1779580800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Huachipato,,,upcoming,1779640200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Deportes Limache,,,upcoming,1779649200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Colo Colo,,,upcoming,1779660000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Nublense,,,upcoming,1780092000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Union La Calera,,,upcoming,1780101000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Colo Colo,,,upcoming,1780167600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Concepción,,,upcoming,1780176600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Coquimbo Unido,,,upcoming,1780245000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,U. Catolica,,,upcoming,1780254000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Everton de Vina,,,upcoming,1780263000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,A. Italiano,,,upcoming,1780272000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,D. La Serena,,,upcoming,1781308800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Palestino,,,upcoming,1781377200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Cobresal,,,upcoming,1781386200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Huachipato,,,upcoming,1781395200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Deportes Limache,,,upcoming,1781454600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Universidad de Chile,,,upcoming,1781463600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Universidad de Concepcion,,,upcoming,1781472600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,O'Higgins,,,upcoming,1781481600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,O'Higgins,,,upcoming,1781827200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Deportes Limache,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Concepción,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Everton de Vina,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Cobresal,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Universidad de Chile,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Universidad de Concepcion,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Palestino,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,D. La Serena,,,upcoming,1785096000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Coquimbo Unido,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Huachipato,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,A. Italiano,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Colo Colo,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Union La Calera,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,O'Higgins,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,U. Catolica,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Nublense,,,upcoming,1785700800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Deportes Limache,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Palestino,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Colo Colo,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Everton de Vina,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Nublense,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,D. La Serena,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Cobresal,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Universidad de Concepcion,,,upcoming,1786305600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,O'Higgins,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Huachipato,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,D. La Serena,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,A. Italiano,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,U. Catolica,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Concepción,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Union La Calera,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Universidad de Chile,,,upcoming,1786910400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Palestino,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Colo Colo,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Universidad de Concepcion,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Deportes Limache,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Union La Calera,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Cobresal,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Nublense,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Coquimbo Unido,,,upcoming,1787515200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,A. Italiano,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Universidad de Chile,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,D. La Serena,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Huachipato,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Palestino,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Concepción,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,O'Higgins,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Everton de Vina,,,upcoming,1788120000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Universidad de Concepcion,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Union La Calera,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Coquimbo Unido,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,U. Catolica,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Colo Colo,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Nublense,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,A. Italiano,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Cobresal,,,upcoming,1788667200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Concepción,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,U. Catolica,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Huachipato,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Deportes Limache,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,O'Higgins,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Coquimbo Unido,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Everton de Vina,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Universidad de Chile,,,upcoming,1789329600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Nublense,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,D. La Serena,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,O'Higgins,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Colo Colo,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Universidad de Concepcion,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,A. Italiano,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Union La Calera,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Palestino,,,upcoming,1791748800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Coquimbo Unido,,,upcoming,1792886400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Concepción,,,upcoming,1792886400,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Colo Colo,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Cobresal,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Everton de Vina,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Deportes Limache,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,U. Catolica,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Huachipato,,,upcoming,1792962000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,Universidad de Concepcion,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Nublense,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,D. La Serena,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Union La Calera,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Everton de Vina,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Universidad de Chile,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Palestino,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,A. Italiano,,,upcoming,1793566800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Cobresal,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,O'Higgins,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,Concepción,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Huachipato,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Coquimbo Unido,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Colo Colo,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,Palestino,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Deportes Limache,,,upcoming,1794171600,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,U. Catolica,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Union La Calera,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Universidad de Chile,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,Nublense,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Concepción,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Everton de Vina,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,A. Italiano,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,D. La Serena,,,upcoming,1795381200,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Colo Colo,D. La Serena,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Everton de Vina,O'Higgins,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Union La Calera,Universidad de Concepcion,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+A. Italiano,Palestino,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Coquimbo Unido,Deportes Limache,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Nublense,Cobresal,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+U. Catolica,Huachipato,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Concepción,Universidad de Chile,,,upcoming,1795986000,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Palestino,Everton de Vina,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+O'Higgins,Coquimbo Unido,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Chile,Union La Calera,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Universidad de Concepcion,U. Catolica,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Huachipato,Nublense,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Cobresal,Colo Colo,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+D. La Serena,A. Italiano,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
+Deportes Limache,Concepción,,,upcoming,1796590800,,50.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,1.0
