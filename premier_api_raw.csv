@@ -1,0 +1,740 @@
+home_team_name,away_team_name,home_team_goal_count,away_team_goal_count,status,timestamp,referee,home_team_possession,away_team_possession,home_team_corner_count,away_team_corner_count,home_team_yellow_cards,away_team_yellow_cards,home_team_pre_match_xg,away_team_pre_match_xg
+Manchester United,Fulham,1,0,complete,1723834800,R. Jones,55.0,45.0,7.0,8.0,2.0,3.0,2.43,0.44
+Ipswich,Liverpool,0,2,complete,1723894200,T. Robinson,38.0,62.0,2.0,10.0,3.0,1.0,0.45,2.65
+Newcastle,Southampton,1,0,complete,1723903200,C. Pawson,22.0,78.0,3.0,12.0,2.0,4.0,0.25,1.77
+Arsenal,Wolves,2,0,complete,1723903200,J. Gillett,53.0,47.0,8.0,2.0,2.0,2.0,1.24,0.47
+Everton,Brighton,0,3,complete,1723903200,S. Hooper,38.0,62.0,1.0,5.0,1.0,1.0,0.45,1.43
+Nottingham Forest,Bournemouth,1,1,complete,1723903200,M. Oliver,53.0,47.0,2.0,6.0,1.0,3.0,1.3,1.22
+West Ham,Aston Villa,1,2,complete,1723912200,T. Harrington,52.0,48.0,5.0,3.0,1.0,2.0,2.46,2.03
+Brentford,Crystal Palace,2,1,complete,1723986000,S. Barrott,46.0,54.0,4.0,7.0,1.0,5.0,1.59,1.17
+Chelsea,Manchester City,0,2,complete,1723995000,A. Taylor,48.0,52.0,4.0,3.0,1.0,1.0,1.01,0.77
+Leicester,Tottenham,1,1,complete,1724094000,C. Kavanagh,30.0,70.0,2.0,13.0,1.0,1.0,1.05,1.18
+Brighton,Manchester United,2,1,complete,1724499000,C. Pawson,48.0,52.0,4.0,4.0,1.0,2.0,2.09,1.43
+Fulham,Leicester,2,1,complete,1724508000,D. Bond,54.0,46.0,7.0,5.0,2.0,2.0,1.78,0.61
+Southampton,Nottingham Forest,0,1,complete,1724508000,S. Barrott,65.0,35.0,4.0,10.0,3.0,3.0,0.14,2.45
+Tottenham,Everton,4,0,complete,1724508000,A. Taylor,71.0,29.0,12.0,5.0,0.0,0.0,2.43,1.0
+Manchester City,Ipswich,4,1,complete,1724508000,S. Allison,75.0,25.0,10.0,1.0,2.0,3.0,3.34,0.29
+Crystal Palace,West Ham,0,2,complete,1724508000,R. Jones,58.0,42.0,3.0,3.0,1.0,1.0,1.35,1.39
+Aston Villa,Arsenal,0,2,complete,1724517000,M. Oliver,39.0,61.0,4.0,1.0,1.0,3.0,1.28,0.87
+Bournemouth,Newcastle,1,1,complete,1724590800,D. Coote,39.0,61.0,8.0,9.0,2.0,2.0,2.26,1.69
+Wolves,Chelsea,2,6,complete,1724590800,D. England,40.0,60.0,5.0,5.0,2.0,3.0,1.96,1.68
+Liverpool,Brentford,2,0,complete,1724599800,S. Attwell,63.0,37.0,9.0,4.0,2.0,3.0,2.65,0.36
+Arsenal,Brighton,1,1,complete,1725103800,C. Kavanagh,36.0,64.0,3.0,7.0,5.0,2.0,2.08,1.83
+Everton,Bournemouth,2,3,complete,1725112800,S. Attwell,47.0,53.0,8.0,4.0,2.0,1.0,1.97,2.22
+Leicester,Aston Villa,1,2,complete,1725112800,D. Coote,58.0,42.0,1.0,4.0,4.0,5.0,0.45,1.55
+Brentford,Southampton,3,1,complete,1725112800,J. Smith,37.0,63.0,2.0,8.0,2.0,1.0,2.78,1.57
+Ipswich,Fulham,1,1,complete,1725112800,L. Smith,49.0,51.0,8.0,6.0,2.0,3.0,0.45,0.95
+Nottingham Forest,Wolves,1,1,complete,1725112800,S. Hooper,52.0,48.0,7.0,3.0,3.0,4.0,1.04,0.74
+West Ham,Manchester City,1,3,complete,1725121800,M. Oliver,32.0,68.0,3.0,11.0,3.0,2.0,0.73,3.0
+Newcastle,Tottenham,2,1,complete,1725193800,R. Jones,34.0,66.0,7.0,12.0,4.0,4.0,1.83,1.26
+Chelsea,Crystal Palace,1,1,complete,1725193800,J. Gillett,63.0,37.0,4.0,4.0,4.0,2.0,2.37,0.54
+Manchester United,Liverpool,0,3,complete,1725202800,A. Taylor,53.0,47.0,5.0,2.0,4.0,1.0,1.36,1.79
+Southampton,Manchester United,0,3,complete,1726313400,S. Attwell,44.0,56.0,0.0,7.0,1.0,4.0,1.12,2.67
+Fulham,West Ham,1,1,complete,1726322400,T. Robinson,55.0,45.0,3.0,2.0,2.0,3.0,1.54,0.76
+Liverpool,Nottingham Forest,0,1,complete,1726322400,M. Oliver,69.0,31.0,7.0,2.0,4.0,4.0,0.94,0.44
+Manchester City,Brentford,2,1,complete,1726322400,D. Bond,54.0,46.0,12.0,3.0,3.0,1.0,2.17,0.96
+Brighton,Ipswich,0,0,complete,1726322400,S. Barrott,69.0,31.0,9.0,2.0,4.0,3.0,1.66,0.35
+Crystal Palace,Leicester,2,2,complete,1726322400,T. Harrington,67.0,33.0,5.0,2.0,0.0,3.0,2.55,1.23
+Aston Villa,Everton,3,2,complete,1726331400,C. Pawson,73.0,27.0,6.0,2.0,1.0,4.0,2.12,0.9
+Bournemouth,Chelsea,0,1,complete,1726340400,A. Taylor,33.0,67.0,6.0,3.0,6.0,8.0,1.78,0.78
+Tottenham,Arsenal,0,1,complete,1726405200,J. Gillett,64.0,36.0,7.0,6.0,5.0,3.0,0.71,0.74
+Wolves,Newcastle,1,2,complete,1726414200,C. Kavanagh,49.0,51.0,4.0,7.0,3.0,3.0,1.23,1.52
+West Ham,Chelsea,0,3,complete,1726918200,S. Barrott,53.0,47.0,6.0,5.0,5.0,2.0,0.85,2.19
+Fulham,Newcastle,3,1,complete,1726927200,P. Bankes,39.0,61.0,6.0,0.0,6.0,0.0,2.29,1.54
+Liverpool,Bournemouth,3,0,complete,1726927200,T. Harrington,59.0,41.0,3.0,9.0,1.0,4.0,2.06,1.08
+Southampton,Ipswich,1,1,complete,1726927200,S. Allison,54.0,46.0,2.0,10.0,4.0,4.0,2.49,1.69
+Leicester,Everton,1,1,complete,1726927200,D. England,59.0,41.0,6.0,1.0,1.0,2.0,0.66,1.1
+Tottenham,Brentford,3,1,complete,1726927200,J. Brooks,48.0,52.0,9.0,4.0,3.0,1.0,3.52,0.8
+Aston Villa,Wolves,3,1,complete,1726927200,T. Robinson,53.0,47.0,6.0,5.0,3.0,6.0,1.73,0.51
+Crystal Palace,Manchester United,0,0,complete,1726936200,D. Coote,33.0,67.0,4.0,11.0,3.0,2.0,1.01,1.7
+Brighton,Nottingham Forest,2,2,complete,1727010000,R. Jones,70.0,30.0,9.0,1.0,3.0,6.0,1.0,1.42
+Manchester City,Arsenal,2,2,complete,1727019000,M. Oliver,77.0,23.0,8.0,2.0,3.0,6.0,2.18,0.67
+Newcastle,Manchester City,1,1,complete,1727523000,J. Gillett,38.0,62.0,5.0,6.0,4.0,4.0,1.57,0.91
+Arsenal,Leicester,4,2,complete,1727532000,S. Barrott,75.0,25.0,17.0,0.0,2.0,4.0,4.62,0.32
+Everton,Crystal Palace,2,1,complete,1727532000,A. Madley,40.0,60.0,5.0,8.0,2.0,0.0,0.89,0.95
+Chelsea,Brighton,4,2,complete,1727532000,P. Bankes,41.0,59.0,8.0,2.0,3.0,2.0,4.16,1.11
+Brentford,West Ham,1,1,complete,1727532000,S. Hooper,57.0,43.0,7.0,6.0,2.0,3.0,0.37,0.99
+Nottingham Forest,Fulham,0,1,complete,1727532000,J. Smith,41.0,59.0,6.0,5.0,2.0,4.0,0.8,1.33
+Wolves,Liverpool,1,2,complete,1727541000,A. Taylor,45.0,55.0,2.0,10.0,2.0,3.0,0.63,2.54
+Ipswich,Aston Villa,2,2,complete,1727614800,S. Attwell,44.0,56.0,10.0,0.0,4.0,1.0,1.18,0.82
+Manchester United,Tottenham,0,3,complete,1727623800,C. Kavanagh,39.0,61.0,5.0,3.0,5.0,3.0,0.96,4.59
+Bournemouth,Southampton,3,1,complete,1727722800,M. Oliver,40.0,60.0,6.0,4.0,2.0,5.0,1.38,0.6
+Crystal Palace,Liverpool,0,1,complete,1728127800,S. Hooper,32.0,68.0,3.0,8.0,4.0,2.0,0.64,1.4
+Arsenal,Southampton,3,1,complete,1728136800,T. Harrington,59.0,41.0,13.0,1.0,0.0,3.0,2.83,0.65
+Leicester,Bournemouth,1,0,complete,1728136800,D. Bond,44.0,56.0,0.0,9.0,4.0,1.0,0.79,2.16
+West Ham,Ipswich,4,1,complete,1728136800,A. Taylor,53.0,47.0,5.0,5.0,0.0,1.0,3.79,0.65
+Manchester City,Fulham,3,2,complete,1728136800,P. Bankes,58.0,42.0,8.0,3.0,2.0,1.0,1.57,2.6
+Brentford,Wolves,5,3,complete,1728136800,A. Madley,44.0,56.0,10.0,3.0,2.0,3.0,4.25,1.05
+Everton,Newcastle,0,0,complete,1728145800,C. Pawson,32.0,68.0,0.0,10.0,1.0,2.0,0.67,2.05
+Chelsea,Nottingham Forest,1,1,complete,1728219600,C. Kavanagh,66.0,34.0,11.0,3.0,6.0,4.0,2.46,0.87
+Aston Villa,Manchester United,0,0,complete,1728219600,R. Jones,54.0,46.0,6.0,3.0,1.0,5.0,0.5,0.56
+Brighton,Tottenham,3,2,complete,1728228600,D. Coote,41.0,59.0,4.0,7.0,2.0,2.0,1.76,1.34
+Tottenham,West Ham,4,1,complete,1729337400,A. Madley,57.0,43.0,13.0,5.0,1.0,3.0,1.92,0.78
+Manchester United,Brentford,2,1,complete,1729346400,S. Barrott,50.0,50.0,9.0,2.0,2.0,2.0,1.33,0.86
+Newcastle,Brighton,0,1,complete,1729346400,P. Bankes,60.0,40.0,9.0,4.0,2.0,2.0,2.02,1.12
+Fulham,Aston Villa,1,3,complete,1729346400,D. England,52.0,48.0,6.0,11.0,3.0,5.0,1.78,1.68
+Southampton,Leicester,2,3,complete,1729346400,A. Taylor,42.0,58.0,10.0,6.0,5.0,3.0,2.15,3.21
+Ipswich,Everton,0,2,complete,1729346400,M. Oliver,55.0,45.0,5.0,7.0,1.0,1.0,1.25,1.74
+Bournemouth,Arsenal,2,0,complete,1729355400,R. Jones,49.0,51.0,7.0,4.0,1.0,1.0,1.82,0.68
+Wolves,Manchester City,1,2,complete,1729429200,C. Kavanagh,22.0,78.0,1.0,18.0,4.0,1.0,0.97,1.62
+Liverpool,Chelsea,2,1,complete,1729438200,J. Brooks,43.0,57.0,1.0,5.0,4.0,3.0,1.94,0.99
+Nottingham Forest,Crystal Palace,1,0,complete,1729537200,T. Robinson,50.0,50.0,6.0,6.0,2.0,3.0,1.76,0.97
+Leicester,Nottingham Forest,1,3,complete,1729882800,C. Pawson,64.0,36.0,6.0,7.0,5.0,3.0,0.76,1.73
+Manchester City,Southampton,1,0,complete,1729951200,T. Harrington,57.0,43.0,12.0,1.0,1.0,3.0,2.95,0.21
+Brighton,Wolves,2,2,complete,1729951200,M. Oliver,51.0,49.0,9.0,6.0,3.0,3.0,1.31,1.36
+Brentford,Ipswich,4,3,complete,1729951200,L. Smith,65.0,35.0,4.0,5.0,0.0,3.0,4.1,1.3
+Aston Villa,Bournemouth,1,1,complete,1729951200,C. Kavanagh,57.0,43.0,9.0,7.0,7.0,6.0,1.81,0.31
+Everton,Fulham,1,1,complete,1729960200,J. Brooks,40.0,60.0,4.0,2.0,1.0,0.0,0.79,1.26
+West Ham,Manchester United,2,1,complete,1730034000,D. Coote,43.0,57.0,6.0,5.0,5.0,1.0,3.0,2.34
+Chelsea,Newcastle,2,1,complete,1730034000,S. Hooper,50.0,50.0,7.0,4.0,6.0,3.0,1.61,1.81
+Crystal Palace,Tottenham,1,0,complete,1730034000,D. Bond,34.0,66.0,8.0,8.0,4.0,4.0,0.78,0.74
+Arsenal,Liverpool,2,2,complete,1730043000,A. Taylor,45.0,55.0,1.0,3.0,2.0,2.0,0.92,0.81
+Newcastle,Arsenal,1,0,complete,1730550600,J. Brooks,36.0,64.0,4.0,6.0,4.0,4.0,0.53,1.05
+Bournemouth,Manchester City,2,1,complete,1730559600,M. Oliver,36.0,64.0,3.0,10.0,2.0,1.0,2.04,1.56
+Liverpool,Brighton,2,1,complete,1730559600,T. Harrington,49.0,51.0,9.0,7.0,1.0,1.0,1.65,1.01
+Southampton,Everton,1,0,complete,1730559600,A. Madley,65.0,35.0,3.0,6.0,4.0,2.0,0.74,1.56
+Ipswich,Leicester,1,1,complete,1730559600,T. Robinson,42.0,58.0,4.0,6.0,6.0,2.0,1.0,1.55
+Nottingham Forest,West Ham,3,0,complete,1730559600,P. Bankes,53.0,47.0,10.0,6.0,1.0,4.0,2.17,0.13
+Wolves,Crystal Palace,2,2,complete,1730568600,A. Taylor,57.0,43.0,3.0,6.0,1.0,2.0,1.53,2.51
+Tottenham,Aston Villa,4,1,complete,1730642400,C. Pawson,51.0,49.0,6.0,4.0,2.0,0.0,2.44,1.86
+Manchester United,Chelsea,1,1,complete,1730651400,R. Jones,46.0,54.0,4.0,8.0,6.0,2.0,1.98,1.1
+Fulham,Brentford,2,1,complete,1730750400,S. Attwell,68.0,32.0,11.0,3.0,2.0,1.0,1.37,0.59
+Wolves,Southampton,2,0,complete,1731164400,T. Bramall,29.0,71.0,1.0,9.0,1.0,4.0,1.26,0.66
+West Ham,Everton,0,0,complete,1731164400,S. Attwell,49.0,51.0,7.0,6.0,1.0,2.0,0.83,1.11
+Crystal Palace,Fulham,0,2,complete,1731164400,M. Salisbury,36.0,64.0,1.0,8.0,1.0,1.0,1.52,1.83
+Brentford,Bournemouth,3,2,complete,1731164400,D. Bond,52.0,48.0,6.0,4.0,2.0,4.0,1.48,2.61
+Brighton,Manchester City,2,1,complete,1731173400,S. Barrott,40.0,60.0,0.0,4.0,3.0,3.0,2.29,2.22
+Liverpool,Aston Villa,2,0,complete,1731182400,D. Coote,62.0,38.0,2.0,9.0,0.0,3.0,2.02,1.38
+Manchester United,Leicester,3,0,complete,1731247200,P. Bankes,51.0,49.0,1.0,5.0,0.0,1.0,0.76,0.63
+Tottenham,Ipswich,1,2,complete,1731247200,D. England,66.0,34.0,12.0,2.0,1.0,5.0,1.55,1.62
+Nottingham Forest,Newcastle,1,3,complete,1731247200,A. Taylor,44.0,56.0,4.0,5.0,1.0,1.0,0.63,1.7
+Chelsea,Arsenal,1,1,complete,1731256200,M. Oliver,49.0,51.0,4.0,3.0,4.0,2.0,1.54,1.55
+Leicester,Chelsea,1,2,complete,1732365000,A. Madley,37.0,63.0,2.0,9.0,4.0,3.0,1.11,2.75
+Bournemouth,Brighton,1,2,complete,1732374000,S. Attwell,55.0,45.0,7.0,0.0,2.0,4.0,1.63,0.94
+Fulham,Wolves,1,4,complete,1732374000,R. Jones,59.0,41.0,7.0,2.0,3.0,0.0,1.03,1.32
+Arsenal,Nottingham Forest,3,0,complete,1732374000,S. Hooper,66.0,34.0,8.0,1.0,3.0,2.0,1.19,0.33
+Everton,Brentford,0,0,complete,1732374000,C. Kavanagh,59.0,41.0,10.0,4.0,0.0,0.0,1.2,1.1
+Aston Villa,Crystal Palace,2,2,complete,1732374000,T. Robinson,70.0,30.0,10.0,1.0,3.0,2.0,3.11,1.26
+Manchester City,Tottenham,0,4,complete,1732383000,J. Brooks,58.0,42.0,9.0,3.0,4.0,2.0,2.14,2.51
+Southampton,Liverpool,2,3,complete,1732456800,S. Barrott,38.0,62.0,3.0,10.0,3.0,4.0,1.28,3.15
+Ipswich,Manchester United,1,1,complete,1732465800,A. Taylor,40.0,60.0,4.0,3.0,0.0,0.0,1.59,0.8
+Newcastle,West Ham,0,2,complete,1732564800,C. Pawson,53.0,47.0,8.0,3.0,1.0,0.0,1.64,0.81
+Brighton,Southampton,1,1,complete,1732910400,R. Jones,52.0,48.0,7.0,6.0,2.0,4.0,1.68,1.01
+Wolves,Bournemouth,2,4,complete,1732978800,P. Bankes,60.0,40.0,3.0,4.0,5.0,1.0,0.46,3.29
+Crystal Palace,Newcastle,1,1,complete,1732978800,D. England,49.0,51.0,8.0,9.0,3.0,3.0,1.76,0.04
+Brentford,Leicester,4,1,complete,1732978800,M. Oliver,60.0,40.0,5.0,4.0,1.0,1.0,2.4,1.06
+Nottingham Forest,Ipswich,1,0,complete,1732978800,T. Harrington,45.0,55.0,8.0,7.0,1.0,3.0,1.68,0.59
+West Ham,Arsenal,2,5,complete,1732987800,A. Taylor,40.0,60.0,2.0,10.0,4.0,1.0,1.54,3.6
+Manchester United,Everton,4,0,complete,1733059800,J. Brooks,60.0,40.0,2.0,2.0,2.0,3.0,1.07,0.58
+Tottenham,Fulham,1,1,complete,1733059800,D. Bond,51.0,49.0,7.0,11.0,0.0,1.0,0.78,1.58
+Chelsea,Aston Villa,3,0,complete,1733059800,S. Attwell,64.0,36.0,3.0,4.0,2.0,2.0,1.69,1.23
+Liverpool,Manchester City,2,0,complete,1733068800,C. Kavanagh,44.0,56.0,7.0,4.0,1.0,3.0,3.57,0.84
+Ipswich,Crystal Palace,0,1,complete,1733254200,C. Pawson,54.0,46.0,4.0,7.0,2.0,4.0,0.49,1.64
+Leicester,West Ham,3,1,complete,1733256900,J. Smith,39.0,61.0,3.0,9.0,2.0,2.0,1.35,3.09
+Newcastle,Liverpool,3,3,complete,1733340600,A. Madley,41.0,59.0,5.0,6.0,2.0,5.0,2.09,1.99
+Southampton,Chelsea,1,5,complete,1733340600,T. Harrington,45.0,55.0,5.0,7.0,1.0,0.0,1.56,5.43
+Everton,Wolves,4,0,complete,1733340600,M. Salisbury,44.0,56.0,3.0,4.0,2.0,0.0,1.02,0.78
+Manchester City,Nottingham Forest,3,0,complete,1733340600,M. Oliver,66.0,34.0,8.0,2.0,2.0,4.0,2.41,0.88
+Arsenal,Manchester United,2,0,complete,1733343300,S. Barrott,50.0,50.0,13.0,0.0,1.0,3.0,2.16,0.22
+Aston Villa,Brentford,3,1,complete,1733343300,L. Smith,49.0,51.0,10.0,5.0,2.0,2.0,2.43,1.03
+Fulham,Brighton,3,1,complete,1733427000,P. Bankes,43.0,57.0,5.0,6.0,2.0,2.0,0.65,1.47
+Bournemouth,Tottenham,1,0,complete,1733429700,S. Hooper,35.0,65.0,5.0,9.0,2.0,2.0,3.71,0.87
+Crystal Palace,Manchester City,2,2,complete,1733583600,R. Jones,32.0,68.0,6.0,8.0,1.0,2.0,1.34,1.45
+Brentford,Newcastle,4,2,complete,1733583600,S. Hooper,44.0,56.0,3.0,4.0,3.0,0.0,1.23,1.48
+Aston Villa,Southampton,1,0,complete,1733583600,D. Bond,47.0,53.0,14.0,1.0,1.0,3.0,2.29,0.33
+Manchester United,Nottingham Forest,2,3,complete,1733592600,D. England,71.0,29.0,5.0,3.0,0.0,2.0,1.6,0.83
+Fulham,Arsenal,1,1,complete,1733666400,C. Kavanagh,34.0,66.0,0.0,6.0,4.0,2.0,0.16,2.03
+Leicester,Brighton,2,2,complete,1733666400,S. Attwell,55.0,45.0,4.0,5.0,1.0,2.0,1.31,1.54
+Ipswich,Bournemouth,1,2,complete,1733666400,M. Salisbury,43.0,57.0,6.0,13.0,2.0,1.0,1.32,3.28
+Tottenham,Chelsea,3,4,complete,1733675400,A. Taylor,39.0,61.0,5.0,10.0,2.0,3.0,2.9,2.83
+West Ham,Wolves,2,1,complete,1733774400,J. Brooks,54.0,46.0,11.0,0.0,5.0,4.0,0.95,1.47
+Newcastle,Leicester,4,0,complete,1734188400,T. Bramall,59.0,41.0,5.0,2.0,3.0,3.0,3.79,0.19
+Wolves,Ipswich,1,2,complete,1734188400,S. Hooper,54.0,46.0,7.0,3.0,2.0,2.0,1.27,1.2
+Liverpool,Fulham,2,2,complete,1734188400,T. Harrington,61.0,39.0,5.0,4.0,3.0,4.0,2.13,1.22
+Arsenal,Everton,0,0,complete,1734188400,C. Pawson,77.0,23.0,8.0,2.0,0.0,3.0,1.22,0.09
+Nottingham Forest,Aston Villa,2,1,complete,1734197400,S. Barrott,50.0,50.0,4.0,3.0,0.0,1.0,1.78,0.42
+Brighton,Crystal Palace,1,3,complete,1734271200,M. Oliver,65.0,35.0,8.0,5.0,1.0,4.0,1.0,2.31
+Manchester City,Manchester United,1,2,complete,1734280200,A. Taylor,52.0,48.0,8.0,2.0,1.0,1.0,0.95,2.08
+Southampton,Tottenham,0,5,complete,1734289200,D. England,42.0,58.0,2.0,5.0,1.0,3.0,0.84,2.44
+Chelsea,Brentford,2,1,complete,1734289200,P. Bankes,62.0,38.0,8.0,5.0,2.0,2.0,2.23,1.61
+Bournemouth,West Ham,1,1,complete,1734379200,C. Kavanagh,51.0,49.0,12.0,6.0,0.0,2.0,2.01,2.06
+Aston Villa,Manchester City,2,1,complete,1734784200,P. Bankes,44.0,56.0,5.0,4.0,3.0,3.0,1.67,1.03
+West Ham,Brighton,1,1,complete,1734793200,R. Jones,46.0,54.0,8.0,4.0,2.0,2.0,1.31,0.94
+Brentford,Nottingham Forest,0,2,complete,1734793200,M. Oliver,64.0,36.0,9.0,5.0,3.0,4.0,0.72,0.9
+Ipswich,Newcastle,0,4,complete,1734793200,S. Attwell,42.0,58.0,2.0,1.0,2.0,0.0,0.71,2.33
+Crystal Palace,Arsenal,1,5,complete,1734802200,S. Hooper,42.0,58.0,3.0,3.0,2.0,2.0,1.59,2.87
+Manchester United,Bournemouth,0,3,complete,1734876000,C. Pawson,60.0,40.0,13.0,1.0,1.0,3.0,2.28,1.63
+Fulham,Southampton,0,0,complete,1734876000,T. Robinson,57.0,43.0,6.0,5.0,1.0,3.0,0.88,0.26
+Everton,Chelsea,0,0,complete,1734876000,C. Kavanagh,25.0,75.0,2.0,5.0,4.0,1.0,1.03,1.17
+Leicester,Wolves,0,3,complete,1734876000,A. Taylor,54.0,46.0,6.0,1.0,2.0,0.0,0.8,1.11
+Tottenham,Liverpool,3,6,complete,1734885000,S. Barrott,52.0,48.0,7.0,5.0,1.0,2.0,1.27,5.63
+Manchester City,Everton,1,1,complete,1735216200,S. Hooper,66.0,34.0,8.0,5.0,1.0,4.0,2.09,0.63
+Newcastle,Aston Villa,3,0,complete,1735225200,A. Taylor,63.0,37.0,9.0,6.0,2.0,1.0,2.76,0.34
+Bournemouth,Crystal Palace,0,0,complete,1735225200,T. Bramall,52.0,48.0,5.0,2.0,2.0,2.0,1.47,0.45
+Southampton,West Ham,0,1,complete,1735225200,L. Smith,54.0,46.0,2.0,2.0,1.0,2.0,1.4,1.81
+Chelsea,Fulham,1,2,complete,1735225200,S. Barrott,47.0,53.0,3.0,1.0,1.0,3.0,1.12,1.78
+Nottingham Forest,Tottenham,1,0,complete,1735225200,C. Pawson,30.0,70.0,2.0,7.0,3.0,4.0,1.12,0.9
+Wolves,Manchester United,2,0,complete,1735234200,T. Harrington,51.0,49.0,4.0,4.0,2.0,4.0,0.86,0.44
+Liverpool,Leicester,3,1,complete,1735243200,D. Bond,69.0,31.0,14.0,1.0,3.0,2.0,1.91,0.34
+Brighton,Brentford,0,0,complete,1735327800,A. Madley,58.0,42.0,5.0,3.0,0.0,2.0,1.31,1.07
+Arsenal,Ipswich,1,0,complete,1735330500,D. England,68.0,32.0,5.0,1.0,1.0,1.0,1.86,0.15
+Leicester,Manchester City,0,2,complete,1735482600,M. Oliver,54.0,46.0,4.0,4.0,2.0,1.0,1.3,1.27
+Fulham,Bournemouth,2,2,complete,1735484400,R. Jones,52.0,48.0,1.0,7.0,1.0,3.0,1.11,1.98
+Everton,Nottingham Forest,0,2,complete,1735484400,T. Harrington,64.0,36.0,5.0,4.0,4.0,1.0,0.89,1.48
+Tottenham,Wolves,2,2,complete,1735484400,C. Kavanagh,48.0,52.0,5.0,5.0,1.0,2.0,2.25,0.72
+Crystal Palace,Southampton,2,1,complete,1735484400,M. Salisbury,46.0,54.0,8.0,7.0,2.0,3.0,2.03,0.94
+West Ham,Liverpool,0,5,complete,1735492500,A. Taylor,46.0,54.0,2.0,6.0,0.0,0.0,0.36,3.15
+Ipswich,Chelsea,2,0,complete,1735587900,J. Brooks,24.0,76.0,4.0,7.0,4.0,4.0,1.58,2.0
+Aston Villa,Brighton,2,2,complete,1735587900,C. Pawson,60.0,40.0,12.0,3.0,2.0,3.0,1.78,1.13
+Manchester United,Newcastle,0,2,complete,1735588800,S. Hooper,53.0,47.0,2.0,3.0,1.0,1.0,0.9,1.92
+Brentford,Arsenal,1,3,complete,1735752600,P. Bankes,51.0,49.0,4.0,3.0,1.0,2.0,0.32,1.91
+Tottenham,Newcastle,1,2,complete,1735993800,A. Madley,57.0,43.0,9.0,10.0,1.0,4.0,0.94,2.45
+Bournemouth,Everton,1,0,complete,1736002800,J. Brooks,58.0,42.0,9.0,3.0,2.0,2.0,1.84,0.71
+Southampton,Brentford,0,5,complete,1736002800,S. Attwell,51.0,49.0,2.0,2.0,2.0,0.0,0.29,4.46
+Manchester City,West Ham,4,1,complete,1736002800,M. Salisbury,56.0,44.0,7.0,1.0,2.0,1.0,1.91,1.37
+Crystal Palace,Chelsea,1,1,complete,1736002800,T. Robinson,38.0,62.0,6.0,6.0,0.0,2.0,1.08,1.24
+Aston Villa,Leicester,2,1,complete,1736002800,J. Gillett,61.0,39.0,6.0,2.0,0.0,1.0,1.56,0.41
+Brighton,Arsenal,1,1,complete,1736011800,A. Taylor,45.0,55.0,2.0,5.0,2.0,3.0,1.52,0.88
+Fulham,Ipswich,2,2,complete,1736085600,D. Bond,73.0,27.0,9.0,2.0,1.0,5.0,2.24,1.59
+Liverpool,Manchester United,2,2,complete,1736094600,M. Oliver,53.0,47.0,5.0,9.0,2.0,4.0,2.82,1.05
+Wolves,Nottingham Forest,0,3,complete,1736193600,P. Bankes,61.0,39.0,5.0,3.0,1.0,2.0,1.59,2.13
+West Ham,Fulham,3,2,complete,1736883000,C. Pawson,44.0,56.0,0.0,3.0,3.0,3.0,0.95,1.9
+Chelsea,Bournemouth,2,2,complete,1736883000,R. Jones,57.0,43.0,9.0,3.0,2.0,3.0,2.5,1.18
+Brentford,Manchester City,2,2,complete,1736883000,A. Taylor,45.0,55.0,4.0,5.0,0.0,0.0,2.47,2.1
+Nottingham Forest,Liverpool,1,1,complete,1736884800,C. Kavanagh,29.0,71.0,0.0,9.0,2.0,1.0,0.31,1.99
+Newcastle,Wolves,3,0,complete,1736969400,D. England,61.0,39.0,4.0,2.0,0.0,2.0,2.11,1.62
+Everton,Aston Villa,0,1,complete,1736969400,S. Barrott,50.0,50.0,8.0,5.0,2.0,1.0,1.14,1.21
+Leicester,Crystal Palace,0,2,complete,1736969400,A. Madley,57.0,43.0,4.0,3.0,0.0,0.0,1.7,1.82
+Arsenal,Tottenham,2,1,complete,1736971200,S. Hooper,53.0,47.0,10.0,4.0,3.0,1.0,1.45,0.78
+Ipswich,Brighton,0,2,complete,1737055800,T. Harrington,46.0,54.0,1.0,9.0,2.0,2.0,0.28,0.97
+Manchester United,Southampton,3,1,complete,1737057600,J. Brooks,60.0,40.0,4.0,4.0,1.0,3.0,3.42,1.54
+Newcastle,Bournemouth,1,4,complete,1737203400,S. Attwell,55.0,45.0,7.0,6.0,1.0,6.0,0.79,2.26
+Leicester,Fulham,0,2,complete,1737212400,M. Salisbury,39.0,61.0,5.0,2.0,3.0,1.0,0.47,2.19
+West Ham,Crystal Palace,0,2,complete,1737212400,T. Bramall,54.0,46.0,2.0,4.0,3.0,0.0,0.28,1.32
+Brentford,Liverpool,0,2,complete,1737212400,A. Madley,39.0,61.0,2.0,15.0,2.0,3.0,0.72,3.43
+Arsenal,Aston Villa,2,2,complete,1737221400,C. Kavanagh,66.0,34.0,10.0,1.0,2.0,3.0,1.33,1.04
+Manchester United,Brighton,1,3,complete,1737295200,P. Bankes,52.0,48.0,4.0,2.0,3.0,3.0,1.48,1.93
+Everton,Tottenham,3,2,complete,1737295200,D. England,35.0,65.0,3.0,8.0,2.0,1.0,1.95,1.12
+Nottingham Forest,Southampton,3,2,complete,1737295200,A. Taylor,45.0,55.0,2.0,8.0,0.0,4.0,2.05,0.89
+Ipswich,Manchester City,0,6,complete,1737304200,S. Barrott,33.0,67.0,4.0,7.0,0.0,1.0,0.58,3.03
+Chelsea,Wolves,3,1,complete,1737403200,S. Hooper,63.0,37.0,3.0,6.0,4.0,2.0,3.15,0.86
+Bournemouth,Nottingham Forest,5,0,complete,1737817200,C. Pawson,51.0,49.0,3.0,9.0,2.0,3.0,1.69,0.98
+Wolves,Arsenal,0,1,complete,1737817200,M. Oliver,52.0,48.0,1.0,5.0,2.0,1.0,0.74,1.0
+Liverpool,Ipswich,4,1,complete,1737817200,M. Salisbury,70.0,30.0,3.0,4.0,0.0,2.0,1.98,0.48
+Southampton,Newcastle,1,3,complete,1737817200,S. Barrott,53.0,47.0,3.0,8.0,1.0,0.0,0.76,2.93
+Brighton,Everton,0,1,complete,1737817200,T. Robinson,69.0,31.0,9.0,1.0,4.0,4.0,0.73,0.85
+Manchester City,Chelsea,3,1,complete,1737826200,J. Brooks,57.0,43.0,2.0,3.0,3.0,2.0,2.5,1.8
+Tottenham,Leicester,1,2,complete,1737900000,R. Jones,61.0,39.0,6.0,4.0,1.0,5.0,1.04,1.56
+Crystal Palace,Brentford,1,2,complete,1737900000,T. Harrington,47.0,53.0,4.0,7.0,2.0,2.0,1.08,1.52
+Aston Villa,West Ham,1,1,complete,1737909000,P. Bankes,46.0,54.0,4.0,3.0,2.0,3.0,0.85,1.31
+Fulham,Manchester United,0,1,complete,1737918000,A. Taylor,51.0,49.0,3.0,0.0,0.0,1.0,0.67,0.25
+Nottingham Forest,Brighton,7,0,complete,1738413000,S. Hooper,37.0,63.0,4.0,6.0,1.0,3.0,3.41,0.88
+Newcastle,Fulham,1,2,complete,1738422000,C. Kavanagh,48.0,52.0,3.0,7.0,4.0,4.0,0.75,1.56
+Bournemouth,Liverpool,0,2,complete,1738422000,D. England,49.0,51.0,3.0,3.0,2.0,3.0,1.58,2.52
+Everton,Leicester,4,0,complete,1738422000,D. Bond,47.0,53.0,5.0,6.0,0.0,0.0,2.46,0.33
+Ipswich,Southampton,1,2,complete,1738422000,M. Oliver,57.0,43.0,1.0,2.0,0.0,3.0,1.55,1.01
+Wolves,Aston Villa,2,0,complete,1738431000,A. Madley,31.0,69.0,5.0,8.0,2.0,3.0,1.63,0.45
+Manchester United,Crystal Palace,0,2,complete,1738504800,J. Brooks,67.0,33.0,11.0,0.0,3.0,1.0,1.12,2.6
+Brentford,Tottenham,0,2,complete,1738504800,J. Gillett,54.0,46.0,10.0,3.0,0.0,1.0,2.06,0.86
+Arsenal,Manchester City,5,1,complete,1738513800,P. Bankes,46.0,54.0,5.0,2.0,2.0,0.0,1.0,0.81
+Chelsea,West Ham,2,1,complete,1738612800,S. Attwell,68.0,32.0,4.0,3.0,3.0,1.0,1.67,1.22
+Everton,Liverpool,2,2,complete,1739388600,M. Oliver,37.0,63.0,2.0,3.0,4.0,4.0,0.95,0.62
+Brighton,Chelsea,3,0,complete,1739563200,C. Kavanagh,31.0,69.0,2.0,9.0,1.0,2.0,1.42,0.54
+Leicester,Arsenal,0,2,complete,1739622600,S. Barrott,40.0,60.0,3.0,7.0,2.0,1.0,0.22,1.38
+Fulham,Nottingham Forest,2,1,complete,1739631600,T. Bramall,56.0,44.0,8.0,4.0,0.0,0.0,2.18,0.42
+Southampton,Bournemouth,1,3,complete,1739631600,J. Gillett,45.0,55.0,4.0,6.0,1.0,3.0,0.79,1.2
+West Ham,Brentford,0,1,complete,1739631600,D. England,59.0,41.0,9.0,2.0,1.0,1.0,0.82,1.66
+Manchester City,Newcastle,4,0,complete,1739631600,A. Madley,62.0,38.0,7.0,4.0,0.0,1.0,1.9,0.48
+Aston Villa,Ipswich,1,1,complete,1739631600,R. Jones,76.0,24.0,16.0,1.0,0.0,5.0,2.42,0.37
+Crystal Palace,Everton,1,2,complete,1739640600,A. Taylor,58.0,42.0,6.0,2.0,0.0,1.0,1.72,0.96
+Liverpool,Wolves,2,1,complete,1739714400,S. Hooper,50.0,50.0,4.0,3.0,2.0,2.0,1.66,1.5
+Tottenham,Manchester United,1,0,complete,1739723400,P. Bankes,56.0,44.0,10.0,5.0,1.0,2.0,2.23,1.52
+Aston Villa,Liverpool,2,2,complete,1739993400,C. Pawson,52.0,48.0,6.0,8.0,1.0,0.0,0.67,2.5
+Leicester,Brentford,0,4,complete,1740168000,T. Harrington,48.0,52.0,5.0,6.0,4.0,0.0,0.51,1.52
+Everton,Manchester United,2,2,complete,1740227400,A. Madley,38.0,62.0,7.0,8.0,4.0,1.0,1.91,0.41
+Bournemouth,Wolves,0,1,complete,1740236400,M. Salisbury,45.0,55.0,6.0,7.0,3.0,3.0,0.62,2.0
+Fulham,Crystal Palace,0,2,complete,1740236400,R. Jones,62.0,38.0,7.0,7.0,1.0,3.0,0.2,1.29
+Southampton,Brighton,0,4,complete,1740236400,D. Bond,50.0,50.0,5.0,6.0,2.0,0.0,0.13,3.97
+Arsenal,West Ham,0,1,complete,1740236400,C. Pawson,68.0,32.0,2.0,0.0,1.0,3.0,1.22,1.07
+Ipswich,Tottenham,1,4,complete,1740236400,T. Robinson,41.0,59.0,4.0,4.0,2.0,1.0,1.15,1.71
+Aston Villa,Chelsea,2,1,complete,1740245400,M. Oliver,52.0,48.0,2.0,3.0,1.0,3.0,2.33,2.3
+Newcastle,Nottingham Forest,4,3,complete,1740319200,J. Gillett,57.0,43.0,7.0,6.0,1.0,4.0,2.91,1.79
+Manchester City,Liverpool,0,2,complete,1740328200,A. Taylor,66.0,34.0,7.0,5.0,0.0,0.0,0.65,0.71
+Wolves,Fulham,1,2,complete,1740511800,P. Bankes,60.0,40.0,7.0,4.0,1.0,3.0,1.31,1.69
+Brighton,Bournemouth,2,1,complete,1740511800,M. Oliver,43.0,57.0,1.0,9.0,2.0,1.0,2.42,1.46
+Crystal Palace,Aston Villa,4,1,complete,1740511800,S. Barrott,36.0,64.0,3.0,8.0,3.0,1.0,4.31,0.38
+Chelsea,Southampton,4,0,complete,1740514500,T. Bramall,60.0,40.0,4.0,2.0,1.0,2.0,2.56,0.72
+Manchester United,Ipswich,3,2,complete,1740598200,D. England,45.0,55.0,5.0,6.0,4.0,4.0,0.72,1.43
+Tottenham,Manchester City,0,1,complete,1740598200,J. Gillett,56.0,44.0,8.0,3.0,3.0,0.0,1.33,2.12
+Brentford,Everton,1,1,complete,1740598200,S. Hooper,52.0,48.0,2.0,5.0,2.0,1.0,1.48,1.37
+Nottingham Forest,Arsenal,0,0,complete,1740598200,A. Madley,35.0,65.0,3.0,11.0,1.0,1.0,0.4,0.99
+Liverpool,Newcastle,2,0,complete,1740600900,S. Attwell,61.0,39.0,4.0,2.0,0.0,1.0,1.7,0.23
+West Ham,Leicester,2,0,complete,1740686400,A. Taylor,58.0,42.0,3.0,3.0,0.0,0.0,1.33,0.37
+Nottingham Forest,Manchester City,1,0,complete,1741437000,C. Kavanagh,31.0,69.0,3.0,2.0,3.0,2.0,0.73,0.86
+Liverpool,Southampton,3,1,complete,1741446000,L. Smith,71.0,29.0,6.0,4.0,2.0,1.0,4.12,0.36
+Brighton,Fulham,2,1,complete,1741446000,S. Barrott,53.0,47.0,3.0,7.0,0.0,2.0,1.54,0.9
+Crystal Palace,Ipswich,1,0,complete,1741446000,S. Hooper,55.0,45.0,5.0,4.0,4.0,3.0,3.26,1.48
+Brentford,Aston Villa,0,1,complete,1741455000,J. Gillett,60.0,40.0,6.0,5.0,2.0,2.0,0.83,1.32
+Wolves,Everton,1,1,complete,1741464000,S. Attwell,66.0,34.0,5.0,5.0,2.0,2.0,0.77,1.41
+Tottenham,Bournemouth,2,2,complete,1741528800,J. Brooks,61.0,39.0,3.0,6.0,3.0,3.0,1.53,2.2
+Chelsea,Leicester,1,0,complete,1741528800,T. Robinson,57.0,43.0,12.0,2.0,1.0,0.0,1.78,0.1
+Manchester United,Arsenal,1,1,complete,1741537800,A. Taylor,32.0,68.0,2.0,9.0,0.0,1.0,1.52,1.62
+West Ham,Newcastle,0,1,complete,1741636800,M. Salisbury,51.0,49.0,3.0,4.0,0.0,1.0,0.72,1.4
+Southampton,Wolves,1,2,complete,1742050800,R. Jones,59.0,41.0,5.0,1.0,0.0,0.0,1.37,0.36
+Everton,West Ham,1,1,complete,1742050800,D. Bond,54.0,46.0,6.0,5.0,1.0,2.0,1.0,0.83
+Manchester City,Brighton,2,2,complete,1742050800,S. Hooper,60.0,40.0,4.0,5.0,2.0,5.0,1.72,2.04
+Ipswich,Nottingham Forest,2,4,complete,1742050800,M. Salisbury,56.0,44.0,6.0,3.0,1.0,1.0,0.42,1.52
+Bournemouth,Brentford,1,2,complete,1742059800,C. Pawson,59.0,41.0,4.0,3.0,3.0,0.0,1.67,0.83
+Fulham,Tottenham,2,0,complete,1742131800,A. Madley,57.0,43.0,6.0,5.0,0.0,0.0,0.99,0.98
+Arsenal,Chelsea,1,0,complete,1742131800,C. Kavanagh,41.0,59.0,5.0,4.0,3.0,3.0,0.77,0.35
+Leicester,Manchester United,0,3,complete,1742151600,T. Bramall,54.0,46.0,6.0,4.0,2.0,0.0,1.12,0.78
+Wolves,West Ham,1,0,complete,1743533100,T. Harrington,41.0,59.0,1.0,2.0,4.0,2.0,1.18,1.34
+Arsenal,Fulham,2,1,complete,1743533100,J. Brooks,51.0,49.0,5.0,4.0,1.0,2.0,2.38,0.99
+Nottingham Forest,Manchester United,1,0,complete,1743534000,J. Gillett,32.0,68.0,3.0,10.0,1.0,3.0,0.48,1.63
+Newcastle,Brentford,2,1,complete,1743619500,P. Bankes,48.0,52.0,4.0,5.0,1.0,1.0,1.43,1.63
+Bournemouth,Ipswich,1,2,complete,1743619500,R. Jones,64.0,36.0,8.0,3.0,1.0,2.0,1.87,1.17
+Southampton,Crystal Palace,1,1,complete,1743619500,A. Madley,43.0,57.0,2.0,2.0,2.0,1.0,0.51,0.88
+Manchester City,Leicester,2,0,complete,1743619500,D. England,72.0,28.0,5.0,0.0,1.0,4.0,2.24,0.07
+Brighton,Aston Villa,0,3,complete,1743619500,S. Attwell,56.0,44.0,4.0,0.0,2.0,3.0,0.9,1.25
+Liverpool,Everton,1,0,complete,1743620400,S. Barrott,74.0,26.0,11.0,5.0,2.0,2.0,1.39,0.67
+Chelsea,Tottenham,1,0,complete,1743706800,C. Pawson,50.0,50.0,4.0,6.0,5.0,5.0,1.09,0.79
+Everton,Arsenal,1,1,complete,1743852600,D. England,30.0,70.0,3.0,8.0,3.0,1.0,1.09,1.79
+West Ham,Bournemouth,2,2,complete,1743861600,T. Robinson,56.0,44.0,4.0,7.0,2.0,2.0,0.69,2.12
+Crystal Palace,Brighton,2,1,complete,1743861600,A. Taylor,38.0,62.0,2.0,4.0,4.0,3.0,0.6,1.0
+Ipswich,Wolves,1,2,complete,1743861600,P. Bankes,44.0,56.0,4.0,8.0,2.0,2.0,0.8,2.71
+Aston Villa,Nottingham Forest,2,1,complete,1743870600,S. Hooper,52.0,48.0,4.0,4.0,2.0,2.0,3.03,1.48
+Fulham,Liverpool,3,2,complete,1743944400,C. Kavanagh,38.0,62.0,4.0,4.0,3.0,0.0,0.74,1.5
+Tottenham,Southampton,3,1,complete,1743944400,M. Salisbury,51.0,49.0,4.0,1.0,1.0,1.0,2.12,1.04
+Brentford,Chelsea,0,0,complete,1743944400,M. Oliver,41.0,59.0,3.0,6.0,1.0,3.0,1.18,1.23
+Manchester United,Manchester City,0,0,complete,1743953400,J. Brooks,41.0,59.0,5.0,3.0,3.0,2.0,0.91,0.49
+Leicester,Newcastle,0,3,complete,1744052400,R. Jones,58.0,42.0,12.0,2.0,2.0,0.0,0.48,3.28
+Manchester City,Crystal Palace,5,2,complete,1744457400,J. Gillett,68.0,32.0,1.0,4.0,2.0,3.0,3.81,1.82
+Southampton,Aston Villa,0,3,complete,1744466400,T. Bramall,40.0,60.0,2.0,13.0,3.0,1.0,0.31,3.03
+Brighton,Leicester,2,2,complete,1744466400,D. Bond,59.0,41.0,3.0,6.0,2.0,5.0,3.91,1.5
+Nottingham Forest,Everton,0,1,complete,1744466400,C. Pawson,42.0,58.0,1.0,7.0,0.0,3.0,0.52,1.36
+Arsenal,Brentford,1,1,complete,1744475400,S. Hooper,64.0,36.0,13.0,5.0,1.0,3.0,0.96,0.24
+Wolves,Tottenham,4,2,complete,1744549200,A. Taylor,37.0,63.0,1.0,4.0,1.0,2.0,2.39,1.96
+Liverpool,West Ham,2,1,complete,1744549200,A. Madley,55.0,45.0,10.0,3.0,0.0,2.0,1.78,1.5
+Chelsea,Ipswich,2,2,complete,1744549200,S. Attwell,74.0,26.0,15.0,4.0,2.0,2.0,2.27,1.07
+Newcastle,Manchester United,4,1,complete,1744558200,C. Kavanagh,48.0,52.0,7.0,2.0,0.0,2.0,2.17,0.72
+Bournemouth,Fulham,1,0,complete,1744657200,M. Oliver,41.0,59.0,6.0,9.0,3.0,2.0,1.46,1.07
+Newcastle,Crystal Palace,5,0,complete,1744828200,D. England,60.0,40.0,5.0,4.0,2.0,3.0,1.54,2.0
+Everton,Manchester City,0,2,complete,1745071200,S. Hooper,33.0,67.0,2.0,5.0,4.0,0.0,0.91,2.04
+West Ham,Southampton,1,1,complete,1745071200,A. Kitchen,52.0,48.0,2.0,5.0,2.0,1.0,0.91,0.64
+Crystal Palace,Bournemouth,0,0,complete,1745071200,S. Barrott,27.0,73.0,5.0,4.0,5.0,4.0,0.37,0.72
+Brentford,Brighton,4,2,complete,1745071200,T. Robinson,46.0,54.0,4.0,7.0,3.0,3.0,2.17,1.43
+Aston Villa,Newcastle,4,1,complete,1745080200,J. Gillett,48.0,52.0,7.0,7.0,1.0,3.0,2.26,1.0
+Manchester United,Wolves,0,1,complete,1745154000,R. Jones,60.0,40.0,9.0,2.0,2.0,3.0,1.32,0.25
+Fulham,Chelsea,1,2,complete,1745154000,A. Taylor,41.0,59.0,5.0,4.0,1.0,3.0,0.25,0.9
+Ipswich,Arsenal,0,4,complete,1745154000,C. Kavanagh,25.0,75.0,0.0,12.0,0.0,0.0,0.17,2.55
+Leicester,Liverpool,0,1,complete,1745163000,S. Attwell,42.0,58.0,1.0,13.0,1.0,2.0,0.27,2.57
+Tottenham,Nottingham Forest,1,2,complete,1745262000,P. Bankes,70.0,30.0,7.0,1.0,1.0,4.0,2.14,0.48
+Manchester City,Aston Villa,2,1,complete,1745348400,C. Pawson,62.0,38.0,10.0,2.0,3.0,3.0,1.09,1.68
+Arsenal,Crystal Palace,2,2,complete,1745434800,M. Salisbury,68.0,32.0,3.0,6.0,1.0,1.0,1.18,1.81
+Chelsea,Everton,1,0,complete,1745667000,C. Kavanagh,55.0,45.0,10.0,2.0,0.0,0.0,0.88,0.44
+Newcastle,Ipswich,3,0,complete,1745676000,M. Salisbury,78.0,22.0,11.0,2.0,1.0,4.0,2.85,0.1
+Wolves,Leicester,3,0,complete,1745676000,S. Barrott,56.0,44.0,4.0,2.0,1.0,4.0,2.02,1.15
+Southampton,Fulham,1,2,complete,1745676000,T. Harrington,35.0,65.0,0.0,13.0,1.0,1.0,0.63,2.42
+Brighton,West Ham,3,2,complete,1745676000,D. England,53.0,47.0,8.0,1.0,1.0,1.0,1.31,1.27
+Bournemouth,Manchester United,1,1,complete,1745758800,P. Bankes,38.0,62.0,5.0,10.0,4.0,2.0,0.53,2.52
+Liverpool,Tottenham,5,1,complete,1745767800,T. Bramall,62.0,38.0,8.0,2.0,2.0,1.0,2.28,0.46
+Nottingham Forest,Brentford,0,2,complete,1746124200,D. England,55.0,45.0,4.0,5.0,3.0,5.0,0.9,1.29
+Manchester City,Wolves,1,0,complete,1746212400,P. Bankes,64.0,36.0,4.0,5.0,0.0,0.0,0.65,0.44
+Aston Villa,Fulham,1,0,complete,1746271800,R. Jones,52.0,48.0,5.0,3.0,0.0,5.0,0.96,0.85
+Everton,Ipswich,2,2,complete,1746280800,L. Smith,58.0,42.0,2.0,3.0,4.0,4.0,0.55,0.85
+Leicester,Southampton,2,0,complete,1746280800,D. Webb,50.0,50.0,6.0,7.0,1.0,3.0,1.4,0.53
+Arsenal,Bournemouth,1,2,complete,1746289800,J. Gillett,50.0,50.0,2.0,3.0,0.0,2.0,1.42,0.97
+West Ham,Tottenham,1,1,complete,1746363600,M. Oliver,56.0,44.0,1.0,3.0,2.0,2.0,0.84,0.77
+Brighton,Newcastle,1,1,complete,1746363600,C. Pawson,46.0,54.0,1.0,4.0,2.0,1.0,0.69,1.87
+Brentford,Manchester United,4,3,complete,1746363600,A. Taylor,47.0,53.0,7.0,3.0,0.0,2.0,2.8,1.56
+Chelsea,Liverpool,3,1,complete,1746372600,S. Hooper,35.0,65.0,3.0,6.0,2.0,2.0,3.13,1.05
+Crystal Palace,Nottingham Forest,1,1,complete,1746471600,A. Madley,49.0,51.0,7.0,4.0,3.0,8.0,2.56,0.71
+Fulham,Everton,1,3,complete,1746885600,D. England,64.0,36.0,5.0,5.0,1.0,0.0,0.79,1.12
+Wolves,Brighton,0,2,complete,1746885600,M. Oliver,56.0,44.0,7.0,4.0,1.0,1.0,0.91,1.57
+Southampton,Manchester City,0,0,complete,1746885600,T. Robinson,28.0,72.0,1.0,15.0,2.0,0.0,0.1,1.82
+Ipswich,Brentford,0,1,complete,1746885600,S. Barrott,50.0,50.0,5.0,6.0,2.0,4.0,0.93,1.41
+Bournemouth,Aston Villa,0,1,complete,1746894600,S. Attwell,66.0,34.0,10.0,0.0,4.0,5.0,0.8,0.98
+Newcastle,Chelsea,2,0,complete,1746961200,J. Brooks,45.0,55.0,2.0,8.0,4.0,2.0,1.56,0.69
+Manchester United,West Ham,0,2,complete,1746969300,J. Gillett,52.0,48.0,8.0,5.0,0.0,1.0,2.23,1.76
+Tottenham,Crystal Palace,0,2,complete,1746969300,C. Kavanagh,47.0,53.0,4.0,8.0,1.0,1.0,0.68,3.39
+Nottingham Forest,Leicester,2,2,complete,1746969300,T. Harrington,56.0,44.0,4.0,4.0,3.0,3.0,1.3,1.05
+Liverpool,Arsenal,2,2,complete,1746977400,A. Taylor,44.0,56.0,3.0,1.0,1.0,3.0,2.39,2.58
+Aston Villa,Tottenham,2,0,complete,1747420200,P. Bankes,68.0,32.0,9.0,1.0,1.0,2.0,1.39,0.51
+Chelsea,Manchester United,1,0,complete,1747422900,C. Kavanagh,47.0,53.0,7.0,2.0,1.0,6.0,0.83,0.3
+Everton,Southampton,2,0,complete,1747566000,M. Oliver,50.0,50.0,4.0,5.0,1.0,1.0,2.73,1.21
+West Ham,Nottingham Forest,1,2,complete,1747574100,S. Barrott,61.0,39.0,8.0,7.0,6.0,3.0,1.13,1.96
+Leicester,Ipswich,2,0,complete,1747576800,A. Kitchen,51.0,49.0,2.0,2.0,1.0,0.0,0.8,1.41
+Brentford,Fulham,2,3,complete,1747576800,J. Gillett,51.0,49.0,5.0,3.0,4.0,4.0,2.87,0.99
+Arsenal,Newcastle,1,0,complete,1747582200,S. Hooper,51.0,49.0,10.0,7.0,3.0,3.0,0.64,1.86
+Brighton,Liverpool,3,2,complete,1747681200,A. Madley,49.0,51.0,3.0,3.0,1.0,0.0,2.2,2.23
+Manchester City,Bournemouth,3,1,complete,1747767600,T. Bramall,57.0,43.0,3.0,1.0,1.0,3.0,1.54,1.12
+Crystal Palace,Wolves,4,2,complete,1747767600,D. Webb,31.0,69.0,0.0,9.0,1.0,2.0,1.66,1.41
+Manchester United,Aston Villa,2,0,complete,1748185200,T. Bramall,67.0,33.0,4.0,3.0,2.0,2.0,2.95,0.39
+Newcastle,Everton,0,1,complete,1748185200,T. Harrington,65.0,35.0,12.0,3.0,1.0,4.0,1.27,1.16
+Bournemouth,Leicester,2,0,complete,1748185200,L. Smith,63.0,37.0,6.0,1.0,0.0,2.0,1.62,0.27
+Fulham,Manchester City,0,2,complete,1748185200,A. Madley,47.0,53.0,1.0,6.0,0.0,0.0,1.28,2.99
+Wolves,Brentford,1,1,complete,1748185200,C. Pawson,49.0,51.0,8.0,3.0,2.0,1.0,1.04,1.43
+Liverpool,Crystal Palace,1,1,complete,1748185200,D. England,69.0,31.0,11.0,0.0,2.0,0.0,2.14,1.77
+Southampton,Arsenal,1,2,complete,1748185200,D. Bond,38.0,62.0,5.0,8.0,0.0,0.0,0.62,2.39
+Tottenham,Brighton,1,4,complete,1748185200,R. Jones,33.0,67.0,2.0,11.0,3.0,1.0,2.03,2.24
+Ipswich,West Ham,1,3,complete,1748185200,T. Robinson,41.0,59.0,4.0,0.0,1.0,1.0,0.74,1.08
+Nottingham Forest,Chelsea,0,1,complete,1748185200,A. Taylor,52.0,48.0,7.0,4.0,2.0,2.0,1.2,1.09
+Liverpool,Bournemouth,4,2,complete,1755284400,"Anthony Taylor, England",61.0,39.0,6.0,7.0,1.0,2.0,2.21,1.7
+Aston Villa,Newcastle,0,0,complete,1755343800,"Craig Pawson, England",40.0,60.0,3.0,6.0,1.0,1.0,0.2,1.43
+Tottenham,Burnley,3,0,complete,1755352800,"Michael Oliver, England",67.0,33.0,6.0,5.0,0.0,0.0,2.32,0.94
+Brighton,Fulham,1,1,complete,1755352800,"Samuel Barrott, England",50.0,50.0,4.0,3.0,3.0,3.0,1.48,0.76
+Sunderland,West Ham,3,0,complete,1755352800,"Robert Jones, England",37.0,63.0,5.0,7.0,0.0,1.0,0.75,0.56
+Wolves,Manchester City,0,4,complete,1755361800,"Jarred Gillett, Australia",42.0,58.0,4.0,5.0,1.0,2.0,0.56,2.47
+Chelsea,Crystal Palace,0,0,complete,1755435600,"Darren England, England",72.0,28.0,11.0,2.0,2.0,3.0,1.6,0.66
+Nottingham Forest,Brentford,3,1,complete,1755435600,"Peter Bankes, England",54.0,46.0,5.0,5.0,1.0,2.0,1.83,1.49
+Manchester United,Arsenal,0,1,complete,1755444600,"Simon Hooper, England",61.0,39.0,3.0,4.0,1.0,4.0,1.52,1.31
+Leeds,Everton,1,0,complete,1755543600,"Chris Kavanagh, England",54.0,46.0,7.0,2.0,0.0,2.0,2.13,0.8
+West Ham,Chelsea,1,5,complete,1755889200,"Michael Oliver, England",41.0,59.0,7.0,5.0,0.0,1.0,0.73,2.74
+Manchester City,Tottenham,0,2,complete,1755948600,"Peter Bankes, England",61.0,39.0,7.0,2.0,1.0,4.0,1.55,1.11
+Bournemouth,Wolves,1,0,complete,1755957600,"Thomas Bramall, England",59.0,41.0,8.0,3.0,2.0,4.0,1.29,0.46
+Burnley,Sunderland,2,0,complete,1755957600,"Michael Salisbury, England",42.0,58.0,4.0,3.0,0.0,1.0,1.0,0.77
+Brentford,Aston Villa,1,0,complete,1755957600,"Tony Harrington, England",24.0,76.0,2.0,9.0,1.0,2.0,1.21,1.19
+Arsenal,Leeds,5,0,complete,1755966600,"Jarred Gillett, Australia",68.0,32.0,2.0,2.0,0.0,2.0,2.88,0.17
+Everton,Brighton,2,0,complete,1756040400,Stuart Attwell,42.0,58.0,2.0,2.0,4.0,3.0,1.6,2.43
+Crystal Palace,Nottingham Forest,1,1,complete,1756040400,Anthony Taylor,42.0,58.0,1.0,3.0,3.0,3.0,1.1,0.93
+Fulham,Manchester United,1,1,complete,1756049400,Chris Kavanagh,52.0,48.0,9.0,6.0,1.0,1.0,1.76,1.63
+Newcastle,Liverpool,2,3,complete,1756148400,Simon Hooper,38.0,62.0,7.0,1.0,2.0,3.0,0.98,0.69
+Chelsea,Fulham,2,0,complete,1756553400,"Robert Jones, England",54.0,46.0,6.0,4.0,2.0,2.0,2.35,1.02
+Manchester United,Burnley,3,2,complete,1756562400,"Samuel Barrott, England",62.0,38.0,7.0,1.0,1.0,5.0,3.63,1.2
+Wolves,Everton,2,3,complete,1756562400,"Michael Oliver, England",59.0,41.0,2.0,2.0,0.0,1.0,1.11,1.93
+Tottenham,Bournemouth,0,1,complete,1756562400,"Simon Hooper, England",61.0,39.0,0.0,8.0,2.0,4.0,0.19,1.59
+Sunderland,Brentford,2,1,complete,1756562400,"Anthony Taylor, England",54.0,46.0,3.0,4.0,3.0,2.0,1.54,1.2
+Leeds,Newcastle,0,0,complete,1756571400,"Peter Bankes, England",43.0,57.0,5.0,5.0,1.0,1.0,0.69,0.46
+Brighton,Manchester City,2,1,complete,1756645200,Darren England,37.0,63.0,3.0,2.0,2.0,2.0,2.29,1.84
+Nottingham Forest,West Ham,0,3,complete,1756645200,Craig Pawson,58.0,42.0,9.0,7.0,0.0,0.0,0.73,2.42
+Liverpool,Arsenal,1,0,complete,1756654200,Chris Kavanagh,53.0,47.0,3.0,8.0,2.0,2.0,0.52,0.49
+Aston Villa,Crystal Palace,0,3,complete,1756663200,Stuart Attwell,58.0,42.0,10.0,1.0,2.0,3.0,1.14,2.65
+Arsenal,Nottingham Forest,3,0,complete,1757763000,"Darren England, England",54.0,46.0,8.0,3.0,1.0,1.0,1.84,0.2
+Newcastle,Wolves,1,0,complete,1757772000,"Chris Kavanagh, England",57.0,43.0,9.0,4.0,1.0,4.0,1.55,0.5
+Bournemouth,Brighton,2,1,complete,1757772000,"Peter Bankes, England",51.0,49.0,4.0,4.0,4.0,4.0,1.45,0.62
+Fulham,Leeds,1,0,complete,1757772000,"Craig Pawson, England",54.0,46.0,3.0,3.0,1.0,2.0,0.85,0.79
+Everton,Aston Villa,0,0,complete,1757772000,"Simon Hooper, England",48.0,52.0,10.0,3.0,3.0,3.0,2.08,0.54
+Crystal Palace,Sunderland,0,0,complete,1757772000,"Thomas Bramall, England",56.0,44.0,5.0,3.0,1.0,1.0,1.77,0.36
+West Ham,Tottenham,0,3,complete,1757781000,"Jarred Gillett, Australia",36.0,64.0,2.0,13.0,0.0,1.0,0.6,1.29
+Brentford,Chelsea,2,2,complete,1757790000,"Stuart Attwell, England",34.0,66.0,5.0,6.0,3.0,2.0,1.43,1.25
+Burnley,Liverpool,0,1,complete,1757854800,"Michael Oliver, England",19.0,81.0,1.0,13.0,2.0,2.0,0.13,2.65
+Manchester City,Manchester United,3,0,complete,1757863800,"Anthony Taylor, England",45.0,55.0,2.0,4.0,0.0,0.0,2.63,1.52
+Liverpool,Everton,2,1,complete,1758367800,"Darren England, England",57.0,43.0,5.0,4.0,2.0,3.0,0.9,0.7
+Wolves,Leeds,1,3,complete,1758376800,"Anthony Taylor, England",56.0,44.0,4.0,0.0,1.0,1.0,1.78,0.48
+Burnley,Nottingham Forest,1,1,complete,1758376800,"Thomas Bramall, England",37.0,63.0,4.0,5.0,1.0,1.0,0.85,1.1
+West Ham,Crystal Palace,1,2,complete,1758376800,"Tony Harrington, England",57.0,43.0,8.0,8.0,3.0,3.0,0.66,2.31
+Brighton,Tottenham,2,2,complete,1758376800,"Chris Kavanagh, England",36.0,64.0,2.0,10.0,1.0,2.0,1.32,1.22
+Manchester United,Chelsea,2,1,complete,1758385800,"Peter Bankes, England",41.0,59.0,5.0,5.0,2.0,5.0,1.84,0.43
+Fulham,Brentford,3,1,complete,1758394800,"Michael Oliver, England",53.0,47.0,2.0,10.0,4.0,1.0,1.01,0.6
+Bournemouth,Newcastle,0,0,complete,1758459600,"Robert Jones, England",56.0,44.0,5.0,2.0,2.0,1.0,0.46,0.14
+Sunderland,Aston Villa,1,1,complete,1758459600,"Samuel Barrott, England",29.0,71.0,6.0,5.0,2.0,1.0,1.04,0.78
+Arsenal,Manchester City,1,1,complete,1758468600,"Stuart Attwell, England",67.0,33.0,11.0,1.0,1.0,2.0,0.89,0.87
+Brentford,Manchester United,3,1,complete,1758972600,"Craig Pawson, England",44.0,56.0,4.0,2.0,2.0,2.0,2.02,2.08
+Chelsea,Brighton,1,3,complete,1758981600,"Simon Hooper, England",60.0,40.0,5.0,7.0,3.0,5.0,1.81,2.28
+Manchester City,Burnley,5,1,complete,1758981600,"Robert Jones, England",69.0,31.0,10.0,2.0,1.0,3.0,2.03,0.41
+Crystal Palace,Liverpool,2,1,complete,1758981600,"Chris Kavanagh, England",28.0,72.0,2.0,6.0,1.0,3.0,2.92,2.14
+Leeds,Bournemouth,2,2,complete,1758981600,"Michael Oliver, England",41.0,59.0,7.0,4.0,2.0,2.0,1.84,0.82
+Nottingham Forest,Sunderland,0,1,complete,1758990600,"Tony Harrington, England",65.0,35.0,7.0,4.0,4.0,2.0,1.68,1.66
+Tottenham,Wolves,1,1,complete,1758999600,"Michael Salisbury, England",51.0,49.0,10.0,9.0,3.0,2.0,0.87,1.15
+Aston Villa,Fulham,3,1,complete,1759064400,"Andy Madley, England",48.0,52.0,2.0,8.0,1.0,4.0,1.11,0.92
+Newcastle,Arsenal,1,2,complete,1759073400,"Jarred Gillett, Australia",37.0,63.0,7.0,12.0,2.0,1.0,0.61,2.04
+Everton,West Ham,1,1,complete,1759172400,"Samuel Barrott, England",52.0,48.0,3.0,5.0,3.0,4.0,0.73,1.19
+Bournemouth,Fulham,3,1,complete,1759518000,"Simon Hooper, England",54.0,46.0,4.0,3.0,0.0,1.0,1.12,0.88
+Leeds,Tottenham,1,2,complete,1759577400,"Thomas Bramall, England",57.0,43.0,4.0,1.0,2.0,3.0,1.68,0.53
+Manchester United,Sunderland,2,0,complete,1759586400,"Stuart Attwell, England",50.0,50.0,2.0,3.0,1.0,4.0,1.84,0.71
+Arsenal,West Ham,2,0,complete,1759586400,"John Brooks, England",68.0,32.0,8.0,3.0,0.0,2.0,2.77,0.49
+Chelsea,Liverpool,2,1,complete,1759595400,"Anthony Taylor, England",53.0,47.0,7.0,2.0,0.0,2.0,1.0,1.95
+Newcastle,Nottingham Forest,2,0,complete,1759669200,"Peter Bankes, England",51.0,49.0,8.0,1.0,0.0,4.0,3.45,0.3
+Wolves,Brighton,1,1,complete,1759669200,"Jarred Gillett, Australia",42.0,58.0,2.0,8.0,2.0,4.0,0.56,0.92
+Everton,Crystal Palace,2,1,complete,1759669200,"Michael Salisbury, England",50.0,50.0,2.0,4.0,2.0,3.0,2.03,1.53
+Aston Villa,Burnley,2,1,complete,1759669200,"Andrew Kitchen, England",55.0,45.0,6.0,4.0,3.0,1.0,1.16,0.4
+Brentford,Manchester City,0,1,complete,1759678200,"Darren England, England",30.0,70.0,3.0,2.0,3.0,2.0,0.7,0.85
+Nottingham Forest,Chelsea,0,3,complete,1760787000,"Chris Kavanagh, England",50.0,50.0,5.0,2.0,2.0,4.0,2.35,1.67
+Burnley,Leeds,2,0,complete,1760796000,"Tim Robinson, England",31.0,69.0,1.0,5.0,2.0,1.0,0.45,2.63
+Manchester City,Everton,2,0,complete,1760796000,"Tony Harrington, England",71.0,29.0,11.0,3.0,0.0,2.0,2.38,0.81
+Brighton,Newcastle,2,1,complete,1760796000,"Craig Pawson, England",46.0,54.0,8.0,4.0,0.0,1.0,0.91,1.45
+Crystal Palace,Bournemouth,3,3,complete,1760796000,"Jarred Gillett, Australia",52.0,48.0,6.0,5.0,1.0,4.0,4.44,2.03
+Sunderland,Wolves,2,0,complete,1760796000,"Robert Jones, England",41.0,59.0,2.0,2.0,0.0,0.0,0.65,0.83
+Fulham,Arsenal,0,1,complete,1760805000,"Anthony Taylor, England",37.0,63.0,6.0,10.0,0.0,0.0,0.44,1.87
+Tottenham,Aston Villa,1,2,complete,1760878800,"Simon Hooper, England",53.0,47.0,6.0,6.0,2.0,0.0,0.75,0.32
+Liverpool,Manchester United,1,2,complete,1760887800,"Michael Oliver, England",64.0,36.0,9.0,4.0,0.0,2.0,2.75,1.34
+West Ham,Brentford,0,2,complete,1760986800,"Andy Madley, England",44.0,56.0,6.0,10.0,1.0,1.0,0.35,2.37
+Leeds,West Ham,2,1,complete,1761332400,"Stuart Attwell, England",41.0,59.0,3.0,4.0,3.0,3.0,1.49,0.65
+Newcastle,Fulham,2,1,complete,1761400800,"Tony Harrington, England",51.0,49.0,4.0,3.0,0.0,2.0,2.14,1.53
+Chelsea,Sunderland,1,2,complete,1761400800,"Andy Madley, England",68.0,32.0,9.0,1.0,1.0,1.0,0.9,1.31
+Manchester United,Brighton,4,2,complete,1761409800,"Anthony Taylor, England",44.0,56.0,1.0,6.0,2.0,2.0,1.29,1.12
+Brentford,Liverpool,3,2,complete,1761418800,"Simon Hooper, England",34.0,66.0,5.0,4.0,3.0,2.0,2.75,2.3
+Bournemouth,Nottingham Forest,2,0,complete,1761487200,"Samuel Barrott, England",52.0,48.0,6.0,4.0,3.0,1.0,0.58,0.37
+Wolves,Burnley,2,3,complete,1761487200,"Peter Bankes, England",57.0,43.0,4.0,3.0,1.0,0.0,2.28,1.43
+Arsenal,Crystal Palace,1,0,complete,1761487200,"Thomas Bramall, England",60.0,40.0,4.0,3.0,0.0,0.0,0.92,0.45
+Aston Villa,Manchester City,1,0,complete,1761487200,"Michael Oliver, England",47.0,53.0,5.0,6.0,1.0,4.0,0.81,1.18
+Everton,Tottenham,0,3,complete,1761496200,"Craig Pawson, England",54.0,46.0,9.0,8.0,2.0,0.0,1.74,1.72
+Fulham,Wolves,3,0,complete,1762009200,"John Brooks, England",63.0,37.0,10.0,1.0,1.0,3.0,1.39,0.24
+Burnley,Arsenal,0,2,complete,1762009200,"Chris Kavanagh, England",46.0,54.0,1.0,6.0,2.0,1.0,0.42,2.42
+Brighton,Leeds,3,0,complete,1762009200,"Michael Oliver, England",50.0,50.0,4.0,7.0,0.0,1.0,3.07,0.5
+Crystal Palace,Brentford,2,0,complete,1762009200,"Peter Bankes, England",36.0,64.0,6.0,5.0,0.0,3.0,0.7,0.54
+Nottingham Forest,Manchester United,2,2,complete,1762009200,"Darren England, England",41.0,59.0,8.0,5.0,1.0,1.0,1.93,1.12
+Tottenham,Chelsea,0,1,complete,1762018200,"Jarred Gillett, Australia",48.0,52.0,6.0,5.0,4.0,2.0,0.1,3.68
+Liverpool,Aston Villa,2,0,complete,1762027200,"Stuart Attwell, England",53.0,47.0,1.0,4.0,2.0,3.0,1.19,0.41
+West Ham,Newcastle,3,1,complete,1762092000,"Robert Jones, England",37.0,63.0,7.0,6.0,1.0,2.0,1.75,0.52
+Manchester City,Bournemouth,3,1,complete,1762101000,"Anthony Taylor, England",48.0,52.0,9.0,4.0,2.0,2.0,2.22,0.72
+Sunderland,Everton,1,1,complete,1762200000,"Thomas Bramall, England",61.0,39.0,4.0,1.0,3.0,2.0,1.22,0.89
+Tottenham,Manchester United,2,2,complete,1762605000,"Samuel Barrott, England",55.0,45.0,5.0,3.0,5.0,1.0,0.92,0.63
+Everton,Fulham,2,0,complete,1762614000,"Andy Madley, England",50.0,50.0,7.0,5.0,2.0,2.0,1.44,0.4
+West Ham,Burnley,3,2,complete,1762614000,"Michael Salisbury, England",43.0,57.0,7.0,4.0,2.0,2.0,3.02,1.06
+Sunderland,Arsenal,2,2,complete,1762623000,"Craig Pawson, England",35.0,65.0,2.0,2.0,2.0,1.0,0.44,1.91
+Chelsea,Wolves,3,0,complete,1762632000,"Andrew Kitchen, England",64.0,36.0,10.0,1.0,1.0,2.0,3.31,0.17
+Crystal Palace,Brighton,0,0,complete,1762696800,"Tim Robinson, England",42.0,58.0,4.0,8.0,1.0,4.0,0.75,0.39
+Brentford,Newcastle,3,1,complete,1762696800,"Stuart Attwell, England",49.0,51.0,6.0,2.0,2.0,3.0,2.35,0.44
+Nottingham Forest,Leeds,3,1,complete,1762696800,"Jarred Gillett, Australia",46.0,54.0,6.0,4.0,2.0,1.0,2.55,0.69
+Aston Villa,Bournemouth,4,0,complete,1762696800,"John Brooks, England",52.0,48.0,6.0,9.0,2.0,2.0,1.7,1.61
+Manchester City,Liverpool,3,0,complete,1762705800,"Chris Kavanagh, England",49.0,51.0,7.0,7.0,2.0,4.0,1.51,0.61
+Burnley,Chelsea,0,2,complete,1763814600,"Peter Bankes, England",44.0,56.0,1.0,9.0,2.0,3.0,0.44,1.72
+Bournemouth,West Ham,2,2,complete,1763823600,"Thomas Bramall, England",76.0,24.0,9.0,2.0,3.0,2.0,4.05,0.65
+Fulham,Sunderland,1,0,complete,1763823600,"Darren England, England",57.0,43.0,7.0,4.0,3.0,3.0,2.16,0.17
+Wolves,Crystal Palace,0,2,complete,1763823600,"Anthony Taylor, England",48.0,52.0,1.0,4.0,2.0,3.0,1.79,1.27
+Liverpool,Nottingham Forest,0,3,complete,1763823600,"Andy Madley, England",75.0,25.0,8.0,6.0,2.0,0.0,1.93,1.58
+Brighton,Brentford,2,1,complete,1763823600,"John Brooks, England",64.0,36.0,7.0,4.0,4.0,2.0,1.22,1.91
+Newcastle,Manchester City,2,1,complete,1763832600,"Samuel Barrott, England",33.0,67.0,5.0,9.0,1.0,3.0,2.24,2.49
+Leeds,Aston Villa,1,2,complete,1763906400,"Robert Jones, England",48.0,52.0,3.0,3.0,5.0,1.0,1.79,1.58
+Arsenal,Tottenham,4,1,complete,1763915400,"Michael Oliver, England",57.0,43.0,4.0,1.0,1.0,3.0,1.93,0.07
+Manchester United,Everton,0,1,complete,1764014400,"Tony Harrington, England",70.0,30.0,9.0,1.0,2.0,0.0,1.71,0.21
+Manchester City,Leeds,3,2,complete,1764428400,"Peter Bankes, England",62.0,38.0,8.0,1.0,4.0,1.0,3.1,1.54
+Brentford,Burnley,3,1,complete,1764428400,"Samuel Barrott, England",52.0,48.0,5.0,6.0,0.0,2.0,3.06,0.95
+Sunderland,Bournemouth,3,2,complete,1764428400,"Tim Robinson, England",43.0,57.0,6.0,3.0,5.0,5.0,1.28,1.7
+Everton,Newcastle,1,4,complete,1764437400,"Craig Pawson, England",49.0,51.0,8.0,7.0,0.0,0.0,0.99,1.91
+Tottenham,Fulham,1,2,complete,1764446400,"Stuart Attwell, England",63.0,37.0,8.0,2.0,3.0,2.0,0.86,0.45
+Crystal Palace,Manchester United,1,2,complete,1764504000,"Robert Jones, England",44.0,56.0,4.0,4.0,3.0,2.0,1.83,1.19
+West Ham,Liverpool,0,2,complete,1764511500,"Darren England, England",44.0,56.0,7.0,2.0,3.0,0.0,0.29,1.24
+Nottingham Forest,Brighton,0,2,complete,1764511500,"Michael Oliver, England",52.0,48.0,9.0,2.0,0.0,1.0,0.89,2.0
+Aston Villa,Wolves,1,0,complete,1764511500,"Chris Kavanagh, England",52.0,48.0,7.0,3.0,0.0,4.0,0.94,0.49
+Chelsea,Arsenal,1,1,complete,1764520200,"Anthony Taylor, England",38.0,62.0,3.0,3.0,1.0,6.0,0.79,1.26
+Bournemouth,Everton,0,1,complete,1764703800,"Michael Salisbury, England",55.0,45.0,1.0,6.0,3.0,3.0,0.5,1.44
+Fulham,Manchester City,4,5,complete,1764703800,"Craig Pawson, England",57.0,43.0,7.0,2.0,0.0,1.0,0.91,2.17
+Newcastle,Tottenham,2,2,complete,1764706500,"Thomas Bramall, England",53.0,47.0,11.0,8.0,0.0,3.0,2.04,0.75
+Wolves,Nottingham Forest,0,1,complete,1764790200,"Tim Robinson, England",50.0,50.0,3.0,9.0,2.0,2.0,0.91,0.74
+Arsenal,Brentford,2,0,complete,1764790200,"Tony Harrington, England",62.0,38.0,4.0,8.0,0.0,1.0,1.77,0.35
+Burnley,Crystal Palace,0,1,complete,1764790200,"Thomas Kirk, England",58.0,42.0,3.0,3.0,0.0,0.0,0.95,0.59
+Brighton,Aston Villa,3,4,complete,1764790200,"Andy Madley, England",56.0,44.0,5.0,6.0,2.0,2.0,2.21,2.41
+Liverpool,Sunderland,1,1,complete,1764792900,"Stuart Attwell, England",68.0,32.0,7.0,3.0,1.0,1.0,1.45,0.41
+Leeds,Chelsea,3,1,complete,1764792900,"Darren England, England",29.0,71.0,4.0,2.0,1.0,1.0,2.79,0.96
+Manchester United,West Ham,1,1,complete,1764878400,"Andrew Kitchen, England",65.0,35.0,6.0,6.0,2.0,2.0,1.8,0.79
+Aston Villa,Arsenal,2,1,complete,1765024200,"Peter Bankes, England",47.0,53.0,3.0,3.0,0.0,2.0,2.16,1.92
+Newcastle,Burnley,2,1,complete,1765033200,"Stuart Attwell, England",70.0,30.0,9.0,9.0,2.0,2.0,1.77,1.61
+Bournemouth,Chelsea,0,0,complete,1765033200,"Michael Oliver, England",39.0,61.0,5.0,0.0,0.0,2.0,1.42,0.92
+Everton,Nottingham Forest,3,0,complete,1765033200,"Chris Kavanagh, England",41.0,59.0,6.0,3.0,4.0,3.0,1.12,0.53
+Tottenham,Brentford,2,0,complete,1765033200,"Robert Jones, England",53.0,47.0,7.0,6.0,3.0,4.0,2.18,0.29
+Manchester City,Sunderland,3,0,complete,1765033200,"Andy Madley, England",64.0,36.0,6.0,5.0,1.0,0.0,2.42,0.71
+Leeds,Liverpool,3,3,complete,1765042200,"Anthony Taylor, England",45.0,55.0,5.0,4.0,3.0,3.0,1.51,1.91
+Brighton,West Ham,1,1,complete,1765116000,"Simon Hooper, England",68.0,32.0,10.0,6.0,2.0,2.0,1.87,1.14
+Fulham,Crystal Palace,1,2,complete,1765125000,"Samuel Barrott, England",63.0,37.0,6.0,4.0,0.0,0.0,0.76,1.65
+Wolves,Manchester United,1,4,complete,1765224000,"Michael Salisbury, England",37.0,63.0,1.0,9.0,3.0,2.0,0.41,4.24
+Liverpool,Brighton,2,0,complete,1765638000,"Craig Pawson, England",49.0,51.0,2.0,2.0,1.0,2.0,1.89,1.9
+Chelsea,Everton,2,0,complete,1765638000,"Thomas Bramall, England",58.0,42.0,4.0,7.0,1.0,0.0,2.2,1.03
+Burnley,Fulham,2,3,complete,1765647000,"Michael Oliver, England",53.0,47.0,10.0,4.0,1.0,2.0,2.46,2.23
+Arsenal,Wolves,2,1,complete,1765656000,"Robert Jones, England",69.0,31.0,8.0,0.0,0.0,4.0,1.13,0.38
+West Ham,Aston Villa,2,3,complete,1765720800,"Anthony Taylor, England",41.0,59.0,5.0,3.0,1.0,2.0,1.03,0.67
+Crystal Palace,Manchester City,0,3,complete,1765720800,"Darren England, England",39.0,61.0,2.0,2.0,2.0,0.0,1.88,1.19
+Nottingham Forest,Tottenham,3,0,complete,1765720800,"Samuel Barrott, England",48.0,52.0,3.0,3.0,1.0,3.0,2.32,0.33
+Sunderland,Newcastle,1,0,complete,1765720800,"Peter Bankes, England",47.0,53.0,3.0,6.0,5.0,4.0,0.3,0.24
+Brentford,Leeds,1,1,complete,1765729800,"John Brooks, England",57.0,43.0,0.0,3.0,0.0,0.0,0.72,1.52
+Manchester United,Bournemouth,4,4,complete,1765828800,"Simon Hooper, England",57.0,43.0,5.0,4.0,2.0,3.0,3.4,1.94
+Newcastle,Chelsea,2,2,complete,1766233800,"Andy Madley, England",47.0,53.0,6.0,4.0,3.0,6.0,2.31,1.22
+Bournemouth,Burnley,1,1,complete,1766242800,"Chris Kavanagh, England",66.0,34.0,5.0,3.0,1.0,1.0,1.41,0.38
+Wolves,Brentford,0,2,complete,1766242800,"Matt Donohue, England",43.0,57.0,3.0,4.0,2.0,4.0,1.27,1.28
+Manchester City,West Ham,3,0,complete,1766242800,"Paul Tierney, England",66.0,34.0,6.0,0.0,1.0,1.0,2.1,0.98
+Brighton,Sunderland,0,0,complete,1766242800,"Darren England, England",57.0,43.0,3.0,4.0,2.0,2.0,1.13,1.38
+Tottenham,Liverpool,1,2,complete,1766251800,"John Brooks, England",35.0,65.0,2.0,6.0,5.0,3.0,1.07,0.66
+Everton,Arsenal,0,1,complete,1766260800,"Samuel Barrott, England",35.0,65.0,2.0,3.0,2.0,2.0,0.2,2.0
+Leeds,Crystal Palace,4,1,complete,1766260800,"Thomas Bramall, England",53.0,47.0,9.0,5.0,1.0,3.0,2.67,1.56
+Aston Villa,Manchester United,2,1,complete,1766334600,"Michael Oliver, England",43.0,57.0,5.0,5.0,1.0,2.0,1.54,1.33
+Fulham,Nottingham Forest,1,0,complete,1766433600,"Anthony Taylor, England",50.0,50.0,1.0,5.0,5.0,4.0,1.5,0.67
+Manchester United,Newcastle,1,0,complete,1766779200,"Anthony Taylor, England",33.0,67.0,2.0,11.0,2.0,1.0,1.27,1.18
+Nottingham Forest,Manchester City,1,2,complete,1766838600,"Robert Jones, England",34.0,66.0,5.0,5.0,1.0,2.0,0.55,1.45
+Liverpool,Wolves,2,1,complete,1766847600,"Simon Hooper, England",67.0,33.0,6.0,4.0,0.0,1.0,1.54,1.07
+Arsenal,Brighton,2,1,complete,1766847600,"John Brooks, England",53.0,47.0,7.0,2.0,2.0,3.0,3.08,0.85
+Burnley,Everton,0,0,complete,1766847600,"Craig Pawson, England",54.0,46.0,6.0,5.0,0.0,2.0,1.41,0.82
+West Ham,Fulham,0,1,complete,1766847600,"Chris Kavanagh, England",44.0,56.0,5.0,4.0,1.0,3.0,0.91,1.62
+Brentford,Bournemouth,4,1,complete,1766847600,"Peter Bankes, England",49.0,51.0,2.0,15.0,2.0,2.0,3.66,2.72
+Chelsea,Aston Villa,1,2,complete,1766856600,"Stuart Attwell, England",63.0,37.0,6.0,7.0,5.0,3.0,2.14,1.19
+Sunderland,Leeds,1,1,complete,1766930400,"Tony Harrington, England",43.0,57.0,3.0,9.0,1.0,0.0,0.7,2.17
+Crystal Palace,Tottenham,0,1,complete,1766939400,"Jarred Gillett, Australia",62.0,38.0,3.0,2.0,3.0,2.0,1.47,0.88
+Burnley,Newcastle,1,3,complete,1767123000,"Robert Jones, England",48.0,52.0,3.0,4.0,2.0,1.0,1.09,2.31
+West Ham,Brighton,2,2,complete,1767123000,"Michael Salisbury, England",39.0,61.0,5.0,5.0,3.0,5.0,2.06,2.94
+Chelsea,Bournemouth,2,2,complete,1767123000,"Samuel Barrott, England",67.0,33.0,12.0,3.0,1.0,1.0,2.31,3.14
+Nottingham Forest,Everton,0,2,complete,1767123000,"Michael Oliver, England",70.0,30.0,9.0,2.0,1.0,0.0,1.55,1.26
+Manchester United,Wolves,1,1,complete,1767125700,"Thomas Bramall, England",56.0,44.0,8.0,4.0,0.0,2.0,0.84,1.16
+Arsenal,Aston Villa,4,1,complete,1767125700,"Darren England, England",46.0,54.0,3.0,3.0,2.0,3.0,3.04,2.67
+Liverpool,Leeds,0,0,complete,1767288600,"Chris Kavanagh, England",68.0,32.0,8.0,3.0,0.0,2.0,2.08,0.69
+Crystal Palace,Fulham,1,1,complete,1767288600,"Tony Harrington, England",40.0,60.0,6.0,3.0,0.0,5.0,1.93,1.76
+Brentford,Tottenham,0,0,complete,1767297600,"Andy Madley, England",56.0,44.0,3.0,1.0,1.0,2.0,0.92,0.86
+Sunderland,Manchester City,0,0,complete,1767297600,"Jarred Gillett, Australia",32.0,68.0,3.0,5.0,1.0,1.0,0.88,2.24
+Aston Villa,Nottingham Forest,3,1,complete,1767443400,"Simon Hooper, England",73.0,27.0,4.0,4.0,1.0,2.0,1.59,0.89
+Wolves,West Ham,3,0,complete,1767452400,"Peter Bankes, England",33.0,67.0,6.0,7.0,1.0,0.0,1.87,0.25
+Brighton,Burnley,2,0,complete,1767452400,"Tim Robinson, England",60.0,40.0,4.0,4.0,0.0,4.0,1.45,0.3
+Bournemouth,Arsenal,2,3,complete,1767461400,"Chris Kavanagh, England",43.0,57.0,7.0,5.0,3.0,1.0,1.43,1.13
+Leeds,Manchester United,1,1,complete,1767529800,"Jarred Gillett, Australia",45.0,55.0,6.0,4.0,0.0,1.0,0.9,1.58
+Newcastle,Crystal Palace,2,0,complete,1767538800,"John Brooks, England",59.0,41.0,8.0,6.0,1.0,3.0,2.08,0.7
+Everton,Brentford,2,4,complete,1767538800,"Anthony Taylor, England",45.0,55.0,4.0,5.0,0.0,2.0,0.89,2.66
+Tottenham,Sunderland,1,1,complete,1767538800,"Stuart Attwell, England",49.0,51.0,3.0,5.0,2.0,3.0,1.18,0.44
+Fulham,Liverpool,2,2,complete,1767539700,"Craig Pawson, England",42.0,58.0,3.0,8.0,1.0,1.0,0.74,1.37
+Manchester City,Chelsea,1,1,complete,1767547800,"Michael Oliver, England",57.0,43.0,8.0,2.0,3.0,3.0,1.02,1.85
+West Ham,Nottingham Forest,1,2,complete,1767729600,"Tony Harrington, England",47.0,53.0,6.0,5.0,3.0,0.0,0.95,1.38
+Bournemouth,Tottenham,3,2,complete,1767814200,"Darren England, England",42.0,58.0,3.0,7.0,3.0,3.0,1.27,1.25
+Fulham,Chelsea,2,1,complete,1767814200,"Peter Bankes, England",55.0,45.0,2.0,11.0,3.0,3.0,1.2,2.39
+Everton,Wolves,1,1,complete,1767814200,"Thomas Kirk, England",45.0,55.0,2.0,7.0,3.0,3.0,0.89,0.68
+Manchester City,Brighton,1,1,complete,1767814200,"Thomas Bramall, England",60.0,40.0,6.0,2.0,1.0,6.0,2.35,0.81
+Crystal Palace,Aston Villa,0,0,complete,1767814200,"Andy Madley, England",41.0,59.0,3.0,5.0,2.0,0.0,1.5,1.74
+Brentford,Sunderland,3,0,complete,1767814200,"Matt Donohue, England",51.0,49.0,7.0,4.0,2.0,1.0,3.24,1.72
+Newcastle,Leeds,4,3,complete,1767816900,"Michael Salisbury, England",63.0,37.0,8.0,4.0,3.0,2.0,2.44,1.89
+Burnley,Manchester United,2,2,complete,1767816900,"Stuart Attwell, England",35.0,65.0,2.0,6.0,2.0,0.0,0.24,2.55
+Arsenal,Liverpool,0,0,complete,1767902400,"Anthony Taylor, England",48.0,52.0,3.0,0.0,2.0,2.0,0.57,0.31
+Manchester United,Manchester City,2,0,complete,1768653000,"Anthony Taylor, England",32.0,68.0,1.0,6.0,2.0,3.0,2.27,0.45
+Liverpool,Burnley,1,1,complete,1768662000,"Andy Madley, England",73.0,27.0,9.0,1.0,1.0,2.0,3.18,0.4
+Tottenham,West Ham,1,2,complete,1768662000,"Jarred Gillett, Australia",62.0,38.0,11.0,5.0,5.0,3.0,1.68,2.69
+Chelsea,Brentford,2,0,complete,1768662000,"John Brooks, England",46.0,54.0,3.0,9.0,3.0,2.0,1.59,1.52
+Leeds,Fulham,1,0,complete,1768662000,"Chris Kavanagh, England",46.0,54.0,7.0,3.0,1.0,5.0,1.43,0.39
+Sunderland,Crystal Palace,2,1,complete,1768662000,"Robert Jones, England",57.0,43.0,3.0,4.0,3.0,3.0,1.71,0.61
+Nottingham Forest,Arsenal,0,0,complete,1768671000,"Michael Oliver, England",40.0,60.0,4.0,9.0,1.0,1.0,0.34,2.1
+Wolves,Newcastle,0,0,complete,1768744800,"Samuel Barrott, England",33.0,67.0,4.0,7.0,2.0,2.0,0.29,0.94
+Aston Villa,Everton,0,1,complete,1768753800,"Tony Harrington, England",63.0,37.0,6.0,4.0,1.0,2.0,1.44,0.51
+Brighton,Bournemouth,1,1,complete,1768852800,"Paul Tierney, England",67.0,33.0,11.0,6.0,2.0,3.0,1.02,1.29
+West Ham,Sunderland,3,1,complete,1769257800,"Thomas Bramall, England",47.0,53.0,3.0,3.0,2.0,4.0,1.52,0.67
+Fulham,Brighton,2,1,complete,1769266800,"Michael Oliver, England",49.0,51.0,6.0,6.0,1.0,1.0,1.05,1.59
+Burnley,Tottenham,2,2,complete,1769266800,"Peter Bankes, England",38.0,62.0,1.0,3.0,1.0,0.0,1.44,2.05
+Manchester City,Wolves,2,0,complete,1769266800,"Farai Hallam, England",64.0,36.0,4.0,6.0,1.0,3.0,0.86,0.61
+Bournemouth,Liverpool,3,2,complete,1769275800,"Michael Salisbury, England",33.0,67.0,3.0,11.0,1.0,1.0,2.35,0.93
+Newcastle,Aston Villa,0,2,complete,1769349600,"Jarred Gillett, Australia",61.0,39.0,6.0,5.0,1.0,2.0,2.18,1.16
+Crystal Palace,Chelsea,1,3,complete,1769349600,"Darren England, England",43.0,57.0,4.0,5.0,4.0,2.0,1.77,2.2
+Brentford,Nottingham Forest,0,2,complete,1769349600,"Samuel Barrott, England",66.0,34.0,6.0,5.0,1.0,0.0,1.81,0.78
+Arsenal,Manchester United,2,3,complete,1769358600,"Craig Pawson, England",56.0,44.0,9.0,2.0,2.0,0.0,1.19,0.71
+Everton,Leeds,1,1,complete,1769457600,"Simon Hooper, England",58.0,42.0,4.0,4.0,0.0,3.0,0.7,1.38
+Wolves,Bournemouth,0,2,complete,1769871600,"Michael Oliver, England",51.0,49.0,5.0,6.0,3.0,3.0,1.38,1.36
+Brighton,Everton,1,1,complete,1769871600,"Chris Kavanagh, England",54.0,46.0,5.0,2.0,1.0,2.0,1.44,1.2
+Leeds,Arsenal,0,4,complete,1769871600,"Stuart Attwell, England",50.0,50.0,4.0,12.0,1.0,1.0,0.15,2.19
+Chelsea,West Ham,3,2,complete,1769880600,"Anthony Taylor, England",71.0,29.0,9.0,3.0,3.0,2.0,2.7,1.12
+Liverpool,Newcastle,4,1,complete,1769889600,"Simon Hooper, England",54.0,46.0,7.0,11.0,1.0,3.0,2.28,0.36
+Manchester United,Fulham,3,2,complete,1769954400,"John Brooks, England",42.0,58.0,3.0,7.0,2.0,1.0,1.79,1.94
+Nottingham Forest,Crystal Palace,1,1,complete,1769954400,"Michael Salisbury, England",33.0,67.0,5.0,7.0,1.0,3.0,0.49,1.9
+Aston Villa,Brentford,0,1,complete,1769954400,"Tim Robinson, England",72.0,28.0,12.0,1.0,1.0,3.0,2.4,0.38
+Tottenham,Manchester City,2,2,complete,1769963400,"Robert Jones, England",40.0,60.0,3.0,4.0,3.0,3.0,1.05,2.08
+Sunderland,Burnley,3,0,complete,1770062400,"Paul Tierney, England",44.0,56.0,1.0,2.0,1.0,4.0,1.2,0.06
+Leeds,Nottingham Forest,3,1,complete,1770408000,"Peter Bankes, England",56.0,44.0,5.0,10.0,1.0,1.0,2.5,1.33
+Manchester United,Tottenham,2,0,complete,1770467400,"Michael Oliver, England",65.0,35.0,7.0,0.0,1.0,2.0,1.78,0.49
+Bournemouth,Aston Villa,1,1,complete,1770476400,"Anthony Taylor, England",53.0,47.0,11.0,4.0,1.0,1.0,2.06,0.44
+Fulham,Everton,1,2,complete,1770476400,"Stuart Attwell, England",55.0,45.0,6.0,6.0,1.0,5.0,1.97,1.88
+Wolves,Chelsea,1,3,complete,1770476400,"Jarred Gillett, Australia",34.0,66.0,3.0,4.0,1.0,1.0,1.06,3.44
+Arsenal,Sunderland,3,0,complete,1770476400,"Samuel Barrott, England",49.0,51.0,5.0,2.0,1.0,2.0,1.49,0.19
+Burnley,West Ham,0,2,complete,1770476400,"Darren England, England",54.0,46.0,5.0,2.0,3.0,1.0,1.34,1.02
+Newcastle,Brentford,2,3,complete,1770485400,"Andy Madley, England",54.0,46.0,9.0,3.0,2.0,2.0,2.24,1.79
+Brighton,Crystal Palace,0,1,complete,1770559200,"Thomas Bramall, England",64.0,36.0,3.0,4.0,1.0,3.0,0.74,1.16
+Liverpool,Manchester City,1,2,complete,1770568200,"Craig Pawson, England",47.0,53.0,5.0,4.0,2.0,4.0,1.21,2.75
+Everton,Bournemouth,1,2,complete,1770751800,"Andy Madley, England",53.0,47.0,7.0,2.0,1.0,3.0,2.94,1.34
+Tottenham,Newcastle,1,2,complete,1770751800,"Anthony Taylor, England",53.0,47.0,2.0,12.0,3.0,2.0,1.85,2.48
+Chelsea,Leeds,2,2,complete,1770751800,"Robert Jones, England",66.0,34.0,4.0,1.0,4.0,4.0,3.13,1.44
+West Ham,Manchester United,1,1,complete,1770754500,"Simon Hooper, England",35.0,65.0,5.0,3.0,1.0,1.0,1.11,0.57
+Manchester City,Fulham,3,0,complete,1770838200,"Paul Tierney, England",56.0,44.0,4.0,4.0,3.0,1.0,1.37,1.42
+Crystal Palace,Burnley,2,3,complete,1770838200,"Farai Hallam, England",65.0,35.0,8.0,2.0,2.0,1.0,1.8,0.53
+Nottingham Forest,Wolves,0,0,complete,1770838200,"Tim Robinson, England",63.0,37.0,8.0,2.0,0.0,2.0,2.55,0.42
+Aston Villa,Brighton,1,0,complete,1770838200,"Peter Bankes, England",50.0,50.0,7.0,5.0,2.0,3.0,0.72,0.5
+Sunderland,Liverpool,0,1,complete,1770840900,"Chris Kavanagh, England",43.0,57.0,3.0,11.0,1.0,0.0,0.63,2.53
+Brentford,Arsenal,1,1,complete,1770926400,"John Brooks, England",41.0,59.0,6.0,4.0,3.0,2.0,1.51,0.6
+Wolves,Arsenal,2,2,complete,1771444800,"Paul Tierney, England",42.0,58.0,1.0,3.0,2.0,1.0,0.29,1.6
+Chelsea,Burnley,1,1,complete,1771686000,"Lewis Smith, England",67.0,33.0,9.0,5.0,4.0,2.0,1.99,0.85
+Brentford,Brighton,0,2,complete,1771686000,"Jarred Gillett, Australia",52.0,48.0,6.0,4.0,1.0,2.0,1.6,1.09
+Aston Villa,Leeds,1,1,complete,1771686000,"Michael Oliver, England",67.0,33.0,7.0,2.0,1.0,4.0,1.46,1.35
+West Ham,Bournemouth,0,0,complete,1771695000,"Samuel Barrott, England",42.0,58.0,9.0,5.0,1.0,1.0,3.27,0.65
+Manchester City,Newcastle,2,1,complete,1771704000,"Thomas Bramall, England",55.0,45.0,5.0,5.0,2.0,5.0,1.35,0.58
+Crystal Palace,Wolves,1,0,complete,1771768800,"Thomas Kirk, England",61.0,39.0,7.0,3.0,5.0,3.0,2.0,1.63
+Nottingham Forest,Liverpool,0,1,complete,1771768800,"Anthony Taylor, England",47.0,53.0,7.0,2.0,2.0,0.0,1.19,1.73
+Sunderland,Fulham,1,3,complete,1771768800,"Craig Pawson, England",53.0,47.0,6.0,4.0,1.0,1.0,1.85,1.88
+Tottenham,Arsenal,1,4,complete,1771777800,"Peter Bankes, England",40.0,60.0,2.0,5.0,2.0,1.0,0.76,2.07
+Everton,Manchester United,0,1,complete,1771876800,"Darren England, England",48.0,52.0,10.0,1.0,2.0,3.0,0.63,1.27
+Wolves,Aston Villa,2,0,complete,1772222400,"Craig Pawson, England",39.0,61.0,0.0,5.0,3.0,3.0,0.92,1.06
+Bournemouth,Sunderland,1,1,complete,1772281800,"Jarred Gillett, Australia",62.0,38.0,7.0,3.0,4.0,2.0,1.71,1.42
+Newcastle,Everton,2,3,complete,1772290800,"Stuart Attwell, England",66.0,34.0,7.0,2.0,2.0,3.0,1.03,2.13
+Liverpool,West Ham,5,2,complete,1772290800,"Tim Robinson, England",49.0,51.0,10.0,5.0,2.0,2.0,1.84,1.86
+Burnley,Brentford,3,4,complete,1772290800,"Samuel Barrott, England",41.0,59.0,4.0,8.0,2.0,2.0,0.97,2.25
+Leeds,Manchester City,0,1,complete,1772299800,"Peter Bankes, England",33.0,67.0,5.0,3.0,0.0,3.0,1.49,2.0
+Manchester United,Crystal Palace,2,1,complete,1772373600,"Chris Kavanagh, England",61.0,39.0,7.0,1.0,2.0,2.0,2.16,0.38
+Fulham,Tottenham,2,1,complete,1772373600,"Thomas Bramall, England",54.0,46.0,5.0,8.0,3.0,3.0,2.28,0.88
+Brighton,Nottingham Forest,2,1,complete,1772373600,"Andy Madley, England",54.0,46.0,4.0,4.0,3.0,1.0,1.32,0.79
+Arsenal,Chelsea,2,1,complete,1772382600,"Darren England, England",41.0,59.0,5.0,10.0,1.0,5.0,1.09,1.07
+Bournemouth,Brentford,0,0,complete,1772566200,"Craig Pawson, England",48.0,52.0,4.0,3.0,2.0,1.0,1.92,0.4
+Everton,Burnley,2,0,complete,1772566200,"Tim Robinson, England",55.0,45.0,6.0,3.0,0.0,1.0,1.3,0.79
+Leeds,Sunderland,0,1,complete,1772566200,"Stuart Attwell, England",70.0,30.0,9.0,2.0,1.0,3.0,1.15,0.86
+Wolves,Liverpool,2,1,complete,1772568900,"Thomas Bramall, England",34.0,66.0,2.0,11.0,2.0,1.0,0.44,1.83
+Fulham,West Ham,0,1,complete,1772652600,"Matt Donohue, England",60.0,40.0,6.0,5.0,2.0,4.0,1.01,1.09
+Manchester City,Nottingham Forest,2,2,complete,1772652600,"Darren England, England",70.0,30.0,6.0,1.0,0.0,4.0,2.12,0.97
+Brighton,Arsenal,0,1,complete,1772652600,"Chris Kavanagh, England",60.0,40.0,4.0,3.0,4.0,1.0,0.82,0.47
+Aston Villa,Chelsea,1,4,complete,1772652600,"Jarred Gillett, Australia",43.0,57.0,3.0,8.0,3.0,2.0,0.78,3.6
+Newcastle,Manchester United,2,1,complete,1772655300,"Peter Bankes, England",45.0,55.0,2.0,4.0,4.0,3.0,2.48,1.48
+Tottenham,Crystal Palace,1,3,complete,1772740800,"Andy Madley, England",40.0,60.0,6.0,3.0,3.0,2.0,1.09,1.78
+Burnley,Bournemouth,0,0,complete,1773500400,"Peter Bankes, England",38.0,62.0,5.0,8.0,1.0,0.0,1.4,2.55
+Sunderland,Brighton,0,1,complete,1773500400,"Thomas Kirk, England",48.0,52.0,7.0,3.0,1.0,2.0,0.9,1.68
+Arsenal,Everton,2,0,complete,1773509400,"Andy Madley, England",65.0,35.0,8.0,3.0,0.0,0.0,2.7,1.05
+Chelsea,Newcastle,0,1,complete,1773509400,"Paul Tierney, England",67.0,33.0,8.0,1.0,2.0,2.0,1.39,1.41
+West Ham,Manchester City,1,1,complete,1773518400,"Michael Oliver, England",29.0,71.0,1.0,15.0,2.0,2.0,0.54,2.03
+Manchester United,Aston Villa,3,1,complete,1773583200,"Anthony Taylor, England",53.0,47.0,6.0,6.0,3.0,2.0,1.07,1.02
+Crystal Palace,Leeds,0,0,complete,1773583200,"Thomas Bramall, England",67.0,33.0,8.0,3.0,2.0,3.0,0.67,1.12
+Nottingham Forest,Fulham,0,0,complete,1773583200,"Samuel Barrott, England",46.0,54.0,5.0,4.0,2.0,3.0,0.95,0.67
+Liverpool,Tottenham,1,1,complete,1773592200,"Chris Kavanagh, England",63.0,37.0,3.0,4.0,0.0,0.0,1.7,1.18
+Brentford,Wolves,2,2,complete,1773691200,"Stuart Attwell, England",50.0,50.0,1.0,5.0,2.0,4.0,2.56,1.33
+Bournemouth,Manchester United,2,2,complete,1774036800,"Stuart Attwell, England",55.0,45.0,6.0,8.0,2.0,2.0,1.8,1.77
+Brighton,Liverpool,2,1,complete,1774096200,"Darren England, England",47.0,53.0,4.0,8.0,5.0,5.0,2.17,1.03
+Fulham,Burnley,3,1,complete,1774105200,"Chris Kavanagh, England",56.0,44.0,6.0,6.0,2.0,2.0,3.15,1.24
+Everton,Chelsea,3,0,complete,1774114200,"Samuel Barrott, England",36.0,64.0,3.0,9.0,0.0,2.0,1.18,0.93
+Leeds,Brentford,0,0,complete,1774123200,"Jarred Gillett, Australia",57.0,43.0,6.0,2.0,2.0,0.0,0.52,0.46
+Newcastle,Sunderland,1,2,complete,1774180800,"Anthony Taylor, England",60.0,40.0,9.0,5.0,1.0,6.0,1.29,2.44
+Tottenham,Nottingham Forest,0,3,complete,1774188900,"Michael Oliver, England",59.0,41.0,13.0,3.0,1.0,2.0,1.25,1.34
+Aston Villa,West Ham,2,0,complete,1774188900,"Paul Tierney, England",59.0,41.0,6.0,6.0,0.0,1.0,1.69,0.85
+West Ham,Wolves,4,0,complete,1775847600,"Jarred Gillett, Australia",44.0,56.0,5.0,2.0,2.0,2.0,2.35,0.59
+Arsenal,Bournemouth,1,2,complete,1775907000,"Michael Oliver, England",52.0,48.0,10.0,1.0,1.0,3.0,2.32,1.19
+Burnley,Brighton,0,2,complete,1775916000,"Thomas Bramall, England",50.0,50.0,8.0,2.0,2.0,1.0,0.88,1.93
+Brentford,Everton,2,2,complete,1775916000,"Farai Hallam, England",55.0,45.0,2.0,3.0,0.0,2.0,2.84,1.53
+Liverpool,Fulham,2,0,complete,1775925000,"Anthony Taylor, England",53.0,47.0,6.0,9.0,0.0,0.0,1.59,1.04
+Crystal Palace,Newcastle,2,1,complete,1775998800,"Andy Madley, England",41.0,59.0,2.0,4.0,0.0,3.0,2.56,1.13
+Nottingham Forest,Aston Villa,1,1,complete,1775998800,"Michael Salisbury, England",41.0,59.0,7.0,3.0,2.0,2.0,1.15,1.02
+Sunderland,Tottenham,1,0,complete,1775998800,"Robert Jones, England",52.0,48.0,2.0,6.0,3.0,3.0,1.33,0.84
+Chelsea,Manchester City,0,3,complete,1776007800,"Chris Kavanagh, England",37.0,63.0,4.0,12.0,3.0,1.0,1.14,2.29
+Manchester United,Leeds,1,2,complete,1776106800,"Paul Tierney, England",53.0,47.0,11.0,4.0,3.0,2.0,1.27,2.57
+Brentford,Fulham,0,0,complete,1776511800,"Paul Tierney, England",48.0,52.0,9.0,3.0,0.0,1.0,1.43,0.77
+Newcastle,Bournemouth,1,2,complete,1776520800,"Thomas Bramall, England",54.0,46.0,2.0,3.0,2.0,4.0,1.59,2.99
+Leeds,Wolves,3,0,complete,1776520800,"Tim Robinson, England",56.0,44.0,5.0,6.0,2.0,1.0,2.82,0.57
+Tottenham,Brighton,2,2,complete,1776529800,"Stuart Attwell, England",42.0,58.0,7.0,5.0,3.0,1.0,1.09,0.82
+Chelsea,Manchester United,0,1,complete,1776538800,"Michael Oliver, England",59.0,41.0,7.0,1.0,1.0,3.0,1.57,0.29
+Everton,Liverpool,1,2,complete,1776603600,"Chris Kavanagh, England",44.0,56.0,1.0,6.0,2.0,0.0,0.79,1.45
+Nottingham Forest,Burnley,4,1,complete,1776603600,"Thomas Kirk, England",51.0,49.0,4.0,4.0,0.0,2.0,1.19,0.36
+Aston Villa,Sunderland,4,3,complete,1776603600,"Samuel Barrott, England",50.0,50.0,4.0,5.0,1.0,3.0,2.84,1.73
+Manchester City,Arsenal,2,1,complete,1776612600,"Anthony Taylor, England",59.0,41.0,8.0,5.0,2.0,2.0,1.36,1.62
+Crystal Palace,West Ham,0,0,complete,1776711600,"Darren England, England",54.0,46.0,4.0,6.0,2.0,1.0,0.73,0.61
+Brighton,Chelsea,3,0,complete,1776798000,"Craig Pawson, England",53.0,47.0,6.0,5.0,1.0,1.0,2.14,0.37
+Bournemouth,Leeds,2,2,complete,1776884400,"Michael Salisbury, England",60.0,40.0,12.0,1.0,3.0,0.0,1.65,0.81
+Burnley,Manchester City,0,1,complete,1776884400,"Andy Madley, England",35.0,65.0,3.0,11.0,0.0,0.0,0.63,3.36
+Sunderland,Nottingham Forest,0,5,complete,1777057200,"Darren England, England",61.0,39.0,3.0,6.0,2.0,5.0,0.7,1.1
+Fulham,Aston Villa,1,0,complete,1777116600,"Michael Oliver, England",39.0,61.0,2.0,5.0,2.0,2.0,1.18,0.93
+Wolves,Tottenham,0,1,complete,1777125600,"Anthony Taylor, England",41.0,59.0,5.0,5.0,3.0,4.0,0.62,1.05
+Liverpool,Crystal Palace,3,1,complete,1777125600,"Andy Madley, England",53.0,47.0,5.0,8.0,1.0,3.0,1.15,2.26
+West Ham,Everton,2,1,complete,1777125600,"Stuart Attwell, England",44.0,56.0,3.0,4.0,3.0,4.0,1.17,1.45
+Arsenal,Newcastle,1,0,complete,1777134600,"Samuel Barrott, England",45.0,55.0,7.0,2.0,2.0,2.0,0.49,1.0
+Manchester United,Brentford,2,1,complete,1777316400,"Chris Kavanagh, England",45.0,55.0,7.0,8.0,2.0,4.0,1.36,1.17
+Leeds,Burnley,3,1,complete,1777662000,"Thomas Bramall, England",48.0,52.0,5.0,0.0,4.0,3.0,1.64,0.57
+Newcastle,Brighton,3,1,complete,1777730400,"Chris Kavanagh, England",32.0,68.0,2.0,10.0,3.0,3.0,3.16,1.53
+Wolves,Sunderland,1,1,complete,1777730400,"Paul Tierney, England",58.0,42.0,6.0,3.0,0.0,4.0,1.72,0.66
+Brentford,West Ham,3,0,complete,1777730400,"Craig Pawson, England",48.0,52.0,2.0,6.0,1.0,3.0,2.27,0.92
+Arsenal,Fulham,3,0,complete,1777739400,"Jarred Gillett, Australia",54.0,46.0,3.0,4.0,0.0,1.0,3.23,0.37
+Bournemouth,Crystal Palace,3,0,complete,1777813200,"Robert Jones, England",50.0,50.0,7.0,1.0,0.0,2.0,2.08,0.89
+Manchester United,Liverpool,3,2,complete,1777818600,"Darren England, England",37.0,63.0,3.0,2.0,2.0,2.0,2.34,0.89
+Aston Villa,Tottenham,1,2,complete,1777831200,"Samuel Barrott, England",45.0,55.0,5.0,5.0,2.0,5.0,0.32,0.99
+Chelsea,Nottingham Forest,1,3,complete,1777903200,"Anthony Taylor, England",67.0,33.0,10.0,1.0,3.0,1.0,2.15,2.05
+Everton,Manchester City,3,3,complete,1777921200,"Michael Oliver, England",25.0,75.0,5.0,9.0,4.0,1.0,2.72,1.54
+Liverpool,Chelsea,1,1,complete,1778326200,"Craig Pawson, England",48.0,52.0,5.0,2.0,2.0,4.0,0.56,0.5
+Fulham,Bournemouth,0,1,complete,1778335200,"Andy Madley, England",60.0,40.0,11.0,2.0,4.0,2.0,1.33,0.82
+Brighton,Wolves,3,0,complete,1778335200,"John Brooks, England",72.0,28.0,7.0,1.0,1.0,2.0,1.62,0.49
+Sunderland,Manchester United,0,0,complete,1778335200,"Stuart Attwell, England",51.0,49.0,6.0,7.0,0.0,3.0,1.25,0.62
+Manchester City,Brentford,3,0,complete,1778344200,"Michael Salisbury, England",59.0,41.0,10.0,2.0,4.0,2.0,2.98,0.24
+Burnley,Aston Villa,2,2,complete,1778418000,"Anthony Taylor, England",34.0,66.0,2.0,8.0,1.0,1.0,1.79,1.44
+Crystal Palace,Everton,2,2,complete,1778418000,"Thomas Bramall, England",59.0,41.0,5.0,10.0,0.0,2.0,2.56,1.59
+Nottingham Forest,Newcastle,1,1,complete,1778418000,"Paul Tierney, England",46.0,54.0,2.0,1.0,2.0,0.0,1.1,1.48
+West Ham,Arsenal,0,1,complete,1778427000,"Chris Kavanagh, England",36.0,64.0,4.0,3.0,3.0,4.0,1.15,1.18
+Tottenham,Leeds,1,1,complete,1778526000,"Jarred Gillett, Australia",57.0,43.0,14.0,2.0,3.0,1.0,1.32,1.26
