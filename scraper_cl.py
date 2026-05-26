@@ -19,9 +19,12 @@ def get_api_sports_key():
         import streamlit as st
         if "APISPORTS_KEY" in st.secrets:
             return st.secrets["APISPORTS_KEY"]
+        elif "API_SPORTS_KEY" in st.secrets:
+            return st.secrets["API_SPORTS_KEY"]
     except:
         pass
-    return os.getenv("APISPORTS_KEY")
+    
+    return os.getenv("APISPORTS_KEY") or os.getenv("API_SPORTS_KEY")
 
 # Asignación inicial (fallback)
 API_KEY_SPORTS = get_api_sports_key()
