@@ -10,9 +10,21 @@ from datetime import datetime, timedelta, timezone, date
 import datetime as dt_module
 from dotenv import load_dotenv
 
-# Cargar variables de entorno
+# Cargar variables de entorno localmente
 load_dotenv(override=True)
-API_KEY_SPORTS = os.getenv("APISPORTS_KEY")
+
+def get_api_sports_key():
+    """Obtiene la llave de forma dinámica para evitar desincronizaciones en Cloud."""
+    try:
+        import streamlit as st
+        if "APISPORTS_KEY" in st.secrets:
+            return st.secrets["APISPORTS_KEY"]
+    except:
+        pass
+    return os.getenv("APISPORTS_KEY")
+
+# Asignación inicial (fallback)
+API_KEY_SPORTS = get_api_sports_key()
 # --- DICCIONARIO DINÁMICO DE ÁRBITROS CHILENOS (V31.0) ---
 def get_referee_metrics(name):
     """
@@ -225,7 +237,7 @@ def get_live_fixtures(league_id="265", season=None, translator=None):
                     time_elem = item.select_one('.match-slim__time')
                     hora_label = time_elem.get_text().strip() if time_elem else hora_label
             
-            # --- FILTRO DE LÍNEA DE TIEMPO RADICAL (Simplificación Date-Only) ---
+            # --- FILTRO DE LÍNEA DE TIEMPO RADICAL (Simplificación Date-Only con soporte UTC Cloud) ---
             raw_date_str = m.get('date', '')
             if not raw_date_str: continue
             
@@ -236,14 +248,14 @@ def get_live_fixtures(league_id="265", season=None, translator=None):
             except:
                 continue
 
-            # 2. Límites locales
-            today_local = date.today()
-            limit_date = today_local + timedelta(days=15)
+            # 2. Límites locales (Restamos 1 día para absorber el desfase de servidores UTC)
+            today_local = date.today() - timedelta(days=1)
+            limit_date = today_local + timedelta(days=16)
             
             status_api = m['status_short']
             
             # 3. Condición de Oro Simplificada
-            # Permitir si está en el rango de fechas (Hoy inclusive) y no es estado finalizado/cancelado
+            # Permitir si está en el rango de fechas (Ayer hasta +16 días) y no es estado finalizado/cancelado
             # También permitimos estados in-play aunque la fecha sea hoy
             if today_local <= match_date_obj <= limit_date:
                 if status_api in ['FT', 'AET', 'PEN', 'CANC', 'PST', 'ABD']:
