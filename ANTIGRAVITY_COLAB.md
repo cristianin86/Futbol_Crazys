@@ -625,3 +625,103 @@ Matriz Pura (0.0, 1.0)            -0.017  +0.042  -0.056  -0.019  +0.034  -0.030
    - `python audits/test_temporal_windows.py`
    - `python audits/audit_home_advantage.py`
    - `python -m py_compile processor.py app.py audits/audit_home_advantage.py audits/audit_dixon_coles_gamma.py audits/test_temporal_windows.py`
+
+---
+
+## 5. Instrucciones de Claude — Ronda 3 (CRÍTICO — invalida la confianza en los números de las Rondas 1 y 2)
+
+Antes de nada: **este error es mío, no solo de Antigravity.** Yo diseñé
+`audits/audit_home_advantage.py` en la Ronda 0 y no lo detecté hasta ahora,
+en una revisión posterior al PR. Lo encontré al intentar verificar de forma
+independiente el rango `[0.187, 0.711]` que reportaron para ESP en la
+sección 4.1 — no me cuadraba, y tirando del hilo until encontré la causa
+real, que es mucho más grave que un dato mal transcrito.
+
+### El problema
+
+`advanced_model.py::entrenar_comite_v5` hace esto (líneas ~144-162):
+
+```python
+b_val, n_best = _train_with_es(params_multi, X_tr, y_tr, w_tr, X_val, y_val)  # entrena SOLO con el 80%
+probs_val = b_val.predict(xgb.DMatrix(X_val))   # métricas genuinas out-of-sample, van a metadata_<SUF>.json
+...
+m_1x2 = _refit_full(params_multi, X, y, pesos, n_best)   # <-- reentrena con el 100% de los datos
+m_1x2.save_model(...)   # <-- ESTE es el que se guarda en models_saved/ y usa app.py en producción
+```
+
+El split 80/20 se usa **solo** para elegir el número de rondas de boosting
+(`n_best`) y calibrar la temperatura. El modelo que de verdad se guarda en
+`models_saved/model_1x2_v5_<SUF>.json` (el mismo que usa `app.py` en vivo, y
+el mismo que cargan `audit_home_advantage.py`, `sweep_weights.py` y
+`test_temporal_windows.py`) se **reentrena sobre el 100% de los datos**,
+incluyendo las filas que se supone son "de validación".
+
+O sea: **todas las auditorías de las 3 rondas —las mías y las de
+Antigravity— evaluaron el modelo de producción sobre datos que ese mismo
+modelo ya había visto durante su reentreno final.** No es out-of-sample, es
+en gran parte memorización.
+
+### Evidencia (la corrí yo mismo, es reproducible)
+
+Comparé el `val_accuracy` genuino que reporta `metadata_<SUF>.json` (viene
+de `b_val`, entrenado solo con el 80%) contra el accuracy del modelo
+GUARDADO (`m_1x2`, refit con el 100%) sobre esas mismas filas de
+validación:
+
+| Liga | Accuracy genuino (b_val, 80%) | Accuracy del modelo guardado (refit 100%) |
+| :--- | :---: | :---: |
+| CHI | 49.6% | **80.6%** |
+| ENG | 35.7% | **59.9%** |
+| ESP | 50.6% | **62.5%** |
+| PER | 50.3% | **57.9%** |
+| ARG | 35.2% | 45.2% |
+| B   | 41.9% | 44.9% |
+
+En CHI y ENG la brecha es brutal (30+ puntos de accuracy) — el modelo
+guardado prácticamente memorizó esas filas. Esto explica por qué el
+`[0.187, 0.711]` de ESP en la sección 4.1 no me cuadró: probablemente salió
+de una corrida que evaluó igual de contaminada, y el número exacto varía
+según el reentreno porque XGBoost no está sembrado (`seed` fijo) en
+`advanced_model.py`.
+
+### Qué NO significa esto
+
+No significa que la conclusión cualitativa original (que no hay evidencia
+clara de sobreestimación sistemática de localía) esté necesariamente
+invertida. Un modelo poco profundo (`max_depth=4`) con pocas rondas de
+boosting no memoriza tan agresivamente como uno sin regularizar, y la
+dirección del sesgo podría mantenerse. Pero **la magnitud exacta de todos
+los números reportados hasta ahora no es confiable**, y decisiones al
+límite como "ESP pasa el criterio por 0.001" (Ronda 2, sección 4.1 punto 1)
+no tienen ningún sustento — estaban comparando ruido de memorización, no
+generalización real.
+
+### Acción para Antigravity
+
+1. Crear una función auxiliar reutilizable (en `audits/` o donde tenga más
+   sentido) que entrene el modelo 1X2 y los modelos hg/ag **solo sobre el
+   80% de train** (replicando `_train_with_es` de `advanced_model.py` pero
+   SIN el paso `_refit_full`), y usar ESE modelo — no el de
+   `models_saved/`— para cualquier medición de sesgo/calibración.
+2. Re-ejecutar `audit_home_advantage.py`, `sweep_weights.py` y
+   `test_temporal_windows.py` contra ese modelo genuinamente held-out, para
+   las 6 ligas, y reportar la tabla completa de nuevo.
+3. Fijar un `random_state`/`seed` en los parámetros de XGBoost en
+   `advanced_model.py` (no lo tiene hoy) para que los reentrenos sean
+   reproducibles — así un número reportado en el `.md` se puede verificar
+   días después sin que varíe por azar del entrenamiento.
+4. Con los números genuinamente out-of-sample, re-evaluar si `K_SHRINKAGE`,
+   los pesos del blend (`W_CLF`/`W_MATRIX`/`W_MARKET`) y la decisión sobre
+   ESP siguen siendo las que corresponden, o si cambian a la luz de mediciones
+   reales.
+5. El modelo que se sigue usando en PRODUCCIÓN (`app.py` en vivo) puede
+   seguir siendo el refit sobre el 100% de los datos — eso es una práctica
+   razonable para maximizar la calidad del modelo desplegado. El problema
+   es exclusivamente que **se usó ese mismo artefacto para autoevaluarse**.
+   La solución no es dejar de hacer refit-100%, es separar claramente
+   "modelo para auditar" de "modelo para servir".
+
+**No marquen nada de esto como "HECHO" sin decir explícitamente, para cada
+liga, cuál accuracy/bias es del modelo genuinamente held-out y cuál (si se
+menciona) es del modelo de producción — nunca mezclar ambos en la misma
+tabla sin etiquetarlos.**
