@@ -1,6 +1,6 @@
 {
   "version": "V10",
-  "trained_at": "2026-09-18T14:27:26",
+  "trained_at": "2026-09-18T16:25:07",
   "dataset": "chile_ml_ready_v8.csv",
   "n_samples": 648,
   "n_val": 129,
@@ -45,36 +45,36 @@
   "pct_stats_reales": 0.2762345679012346,
   "models": {
     "1x2": {
-      "rounds": 19,
-      "temperature": 1.5,
-      "val_log_loss": 1.0353597402572632,
-      "val_log_loss_calibrado": 1.0171290636062622,
-      "val_accuracy": 0.49612403100775193,
-      "val_rps": 0.2251134282943956
+      "rounds": 141,
+      "temperature": 1.25,
+      "val_log_loss": 1.0242940187454224,
+      "val_log_loss_calibrado": 1.0198758840560913,
+      "val_accuracy": 0.5193798449612403,
+      "val_rps": 0.22777001234196675
     },
     "hg": {
-      "rounds": 10,
-      "val_mae": 1.1438208032948103
+      "rounds": 16,
+      "val_mae": 1.1480992048285728
     },
     "ag": {
-      "rounds": 60,
-      "val_mae": 0.8733495136564092
+      "rounds": 37,
+      "val_mae": 0.8680483084316402
     },
     "hc": {
-      "rounds": 94,
-      "val_mae": 2.3277612127999006
+      "rounds": 50,
+      "val_mae": 2.3530630444371425
     },
     "ac": {
-      "rounds": 5,
-      "val_mae": 2.1424377230710765
+      "rounds": 1,
+      "val_mae": 2.1116819851158204
     },
     "hy": {
-      "rounds": 25,
-      "val_mae": 1.1511728345885757
+      "rounds": 18,
+      "val_mae": 1.1699964085290597
     },
     "ay": {
-      "rounds": 31,
-      "val_mae": 1.1064647338187048
+      "rounds": 33,
+      "val_mae": 1.1124386938967448
     }
   }
 }

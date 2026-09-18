@@ -110,8 +110,10 @@ def train_heldout_committee(suf):
 
     HELDOUT_MODELS_DIR.mkdir(parents=True, exist_ok=True)
 
-    params_multi = {'objective': 'multi:softprob', 'num_class': 3, 'max_depth': 4,
-                    'learning_rate': 0.07, 'subsample': 0.9, 'colsample_bytree': 0.9,
+    # Debe quedar identico al params_multi de advanced_model.py (ver comentario ahi).
+    params_multi = {'objective': 'multi:softprob', 'num_class': 3, 'max_depth': 2,
+                    'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8,
+                    'reg_lambda': 5.0, 'min_child_weight': 10,
                     'eval_metric': 'mlogloss', 'random_state': SEED, 'seed': SEED}
     params_poisson = {'objective': 'count:poisson', 'max_depth': 3, 'learning_rate': 0.05,
                       'subsample': 0.9, 'eval_metric': 'poisson-nloglik',

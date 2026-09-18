@@ -59,8 +59,8 @@ def auditar_ventanas_temporales():
 
     combos = [
         ("Clasificador Puro (1.0, 0.0)", 1.00, 0.00),
-        ("Blend Anterior (0.55, 0.45)",  0.55, 0.45),
-        ("Nuevo Fallback (0.417, 0.583)", 0.4167, 0.5833),
+        ("Fallback Prod Ronda 4 (0.55, 0.45)",  0.55, 0.45),
+        ("Blend Ronda 2/3, obsoleto (0.417, 0.583)", 0.4167, 0.5833),
         ("Matriz Ponderada (0.30, 0.70)", 0.30, 0.70),
         ("Matriz Pura (0.0, 1.0)",        0.00, 1.00),
     ]

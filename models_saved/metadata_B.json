@@ -1,6 +1,6 @@
 {
   "version": "V10",
-  "trained_at": "2026-09-18T14:27:29",
+  "trained_at": "2026-09-18T16:25:12",
   "dataset": "chile_b_ml_ready.csv",
   "n_samples": 684,
   "n_val": 136,
@@ -45,28 +45,28 @@
   "pct_stats_reales": 0.0,
   "models": {
     "1x2": {
-      "rounds": 2,
-      "temperature": 3.1,
-      "val_log_loss": 1.1203681230545044,
-      "val_log_loss_calibrado": 1.0918431282043457,
-      "val_accuracy": 0.41911764705882354,
-      "val_rps": 0.22778568776892621
+      "rounds": 17,
+      "temperature": 0.7999999999999999,
+      "val_log_loss": 1.0680445432662964,
+      "val_log_loss_calibrado": 1.0670578479766846,
+      "val_accuracy": 0.49264705882352944,
+      "val_rps": 0.22014338124977217
     },
     "hg": {
-      "rounds": 2,
-      "val_mae": 1.0536968918407665
+      "rounds": 6,
+      "val_mae": 1.0580892054473652
     },
     "ag": {
-      "rounds": 9,
-      "val_mae": 0.793574749108623
+      "rounds": 10,
+      "val_mae": 0.7715073390042081
     },
     "hc": {
-      "rounds": 3,
-      "val_mae": 0.635546534201678
+      "rounds": 1,
+      "val_mae": 0.6405911908430211
     },
     "ac": {
-      "rounds": 8,
-      "val_mae": 0.47670712961870076
+      "rounds": 13,
+      "val_mae": 0.47200214932946594
     }
   }
 }

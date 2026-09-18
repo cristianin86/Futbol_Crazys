@@ -1,6 +1,6 @@
 {
   "version": "V10",
-  "trained_at": "2026-09-18T14:27:34",
+  "trained_at": "2026-09-18T16:25:19",
   "dataset": "argentina_ml_ready.csv",
   "n_samples": 1253,
   "n_val": 250,
@@ -45,36 +45,36 @@
   "pct_stats_reales": 0.30806065442936953,
   "models": {
     "1x2": {
-      "rounds": 1,
-      "temperature": 3.9499999999999997,
-      "val_log_loss": 1.13251793384552,
-      "val_log_loss_calibrado": 1.0939416885375977,
-      "val_accuracy": 0.352,
-      "val_rps": 0.23212751547501959
+      "rounds": 18,
+      "temperature": 1.5,
+      "val_log_loss": 1.0851755142211914,
+      "val_log_loss_calibrado": 1.0811256170272827,
+      "val_accuracy": 0.416,
+      "val_rps": 0.22829071670637152
     },
     "hg": {
-      "rounds": 6,
-      "val_mae": 0.8194419741630554
+      "rounds": 1,
+      "val_mae": 0.8125694589614868
     },
     "ag": {
-      "rounds": 1,
-      "val_mae": 0.7815059859752655
+      "rounds": 8,
+      "val_mae": 0.7826783323287964
     },
     "hc": {
-      "rounds": 53,
-      "val_mae": 2.206290384864807
+      "rounds": 62,
+      "val_mae": 2.187126210784912
     },
     "ac": {
-      "rounds": 20,
-      "val_mae": 1.8145713237762453
+      "rounds": 22,
+      "val_mae": 1.824273501777649
     },
     "hy": {
       "rounds": 1,
-      "val_mae": 1.1388972473144532
+      "val_mae": 1.1662353992462158
     },
     "ay": {
-      "rounds": 5,
-      "val_mae": 1.2060048627853392
+      "rounds": 12,
+      "val_mae": 1.2134778165817262
     }
   }
 }

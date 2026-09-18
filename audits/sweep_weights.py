@@ -92,9 +92,9 @@ def run_sweep():
         elif wc == 0.0:
             nombre = "Solo Matriz (0.0, 1.0)"
         elif abs(wc - 0.4167) < 0.001:
-            nombre = "Fallback Prod (0.417, 0.583)"
+            nombre = "Blend Ronda 2/3, obsoleto (0.417, 0.583)"
         elif abs(wc - 0.55) < 0.001:
-            nombre = "Blend Anterior (0.55, 0.45)"
+            nombre = "Fallback Prod Ronda 4 (0.55, 0.45)"
         else:
             nombre = f"Blend ({wc:.2f}, {wm:.2f})"
 

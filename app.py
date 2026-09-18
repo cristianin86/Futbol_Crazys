@@ -783,14 +783,19 @@ def run_master_inference(local, visita, config, is_cup=0, lsi_local=1.0, lsi_vis
     matrix = dixon_coles_matrix(hg, ag)
     p_matrix = [float(np.sum(np.tril(matrix, -1))), float(np.sum(np.diag(matrix))), float(np.sum(np.triu(matrix, 1)))]
 
-    # --- Fusión del blend 1X2 (Ronda 2: rebalanceo coherente) ---
+    # --- Fusión del blend 1X2 (Ronda 4: reponderado tras regularizar el 1X2) ---
     # Pesos configurables expuestos como constantes (deben sumar 1.0):
     # W_CLF: clasificador XGBoost calibrado
     # W_MATRIX: matriz Poisson / Dixon-Coles
     # W_MARKET: probabilidad implícita del mercado (cuotas desvigadas)
-    # En ausencia de mercado, fallback normaliza a 25/60 (~41.7%) CLF y 35/60 (~58.3%) MATRIX
-    W_CLF = 0.25
-    W_MATRIX = 0.35
+    # El 41.7/58.3 de la Ronda 2 favorecia la matriz porque el clasificador de
+    # entonces (sin L2/min_child_weight) estaba mal calibrado (ver Ronda 4 en
+    # ANTIGRAVITY_COLAB.md). Con el clasificador regularizado, el barrido de
+    # pesos vuelve a favorecer al clasificador en las 3 ventanas temporales;
+    # se vuelve al reparto clasico 55/45 dentro del presupuesto no-mercado.
+    # En ausencia de mercado, fallback normaliza a 33/60 (55%) CLF y 27/60 (45%) MATRIX
+    W_CLF = 0.33
+    W_MATRIX = 0.27
     W_MARKET = 0.40
 
     p_market = None

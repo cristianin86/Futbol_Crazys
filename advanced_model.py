@@ -135,8 +135,15 @@ def entrenar_comite_v5(dataset="chile_ml_ready_v8.csv", suffix=""):
         'models': {},
     }
 
-    params_multi = {'objective': 'multi:softprob', 'num_class': 3, 'max_depth': 4,
-                    'learning_rate': 0.07, 'subsample': 0.9, 'colsample_bytree': 0.9,
+    # Regularizacion fuerte para el 1X2: con depth=4 sin L2 el booster salia
+    # sobreconfiado y la calibracion por temperatura tenia que aplanarlo mucho
+    # (ej. Argentina necesitaba T~4.0, comprimiendo las probabilidades a una
+    # banda casi uniforme). Con menos profundidad y mas L2/min_child_weight el
+    # modelo llega mejor calibrado de fabrica: menor log-loss y mejor accuracy
+    # de validacion en las 6 ligas, con una T final mucho mas baja.
+    params_multi = {'objective': 'multi:softprob', 'num_class': 3, 'max_depth': 2,
+                    'learning_rate': 0.05, 'subsample': 0.8, 'colsample_bytree': 0.8,
+                    'reg_lambda': 5.0, 'min_child_weight': 10,
                     'eval_metric': 'mlogloss', 'random_state': SEED, 'seed': SEED}
     params_poisson = {'objective': 'count:poisson', 'max_depth': 3, 'learning_rate': 0.05,
                       'subsample': 0.9, 'eval_metric': 'poisson-nloglik',

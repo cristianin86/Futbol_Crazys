@@ -66,12 +66,12 @@
   },
   "models": {
     "1x2": {
-      "rounds": 3,
-      "temperature": 2.4499999999999997,
-      "val_log_loss": 1.1074351072311401,
-      "val_log_loss_calibrado": 1.090445637702942,
-      "val_accuracy": 0.38235294117647056,
-      "val_rps": 0.22804243749863742
+      "rounds": 17,
+      "temperature": 0.7999999999999999,
+      "val_log_loss": 1.0680445432662964,
+      "val_log_loss_calibrado": 1.0670578479766846,
+      "val_accuracy": 0.49264705882352944,
+      "val_rps": 0.22014338124977217
     },
     "hg": {
       "rounds": 6,

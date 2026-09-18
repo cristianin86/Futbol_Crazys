@@ -100,14 +100,18 @@ def run_audit():
         pred_home_matrix_only_h = float(p_matrix_h[:, 0].mean())
         bias_home_matrix_h = pred_home_matrix_only_h - actual_home
 
-        # Blend anterior (55% clf + 45% matrix) con componentes held-out
-        p_blend_h = 0.55 * probs_cal_h + 0.45 * p_matrix_h
+        # Blend Ronda 2/3, obsoleto (41.7% clf + 58.3% matrix) con componentes held-out.
+        # Se eligio favoreciendo la matriz porque el clasificador de esa ronda no
+        # tenia L2/min_child_weight y estaba mal calibrado. Se conserva solo como
+        # referencia historica en ANTIGRAVITY_COLAB.md.
+        p_blend_h = (0.25 / 0.60) * probs_cal_h + (0.35 / 0.60) * p_matrix_h
         p_blend_h = p_blend_h / p_blend_h.sum(axis=1, keepdims=True)
         pred_home_blend_h = float(p_blend_h[:, 0].mean())
         bias_home_blend_h = pred_home_blend_h - actual_home
 
-        # Blend fallback actual (41.7% clf + 58.3% matrix) con componentes held-out
-        p_blend_fb_h = (0.25 / 0.60) * probs_cal_h + (0.35 / 0.60) * p_matrix_h
+        # Blend fallback actual de produccion (Ronda 4: 33/60=55% clf + 27/60=45% matrix)
+        # con componentes held-out. Ver comentario en app.py::run_master_inference.
+        p_blend_fb_h = (0.33 / 0.60) * probs_cal_h + (0.27 / 0.60) * p_matrix_h
         p_blend_fb_h = p_blend_fb_h / p_blend_fb_h.sum(axis=1, keepdims=True)
         pred_home_blend_fb_h = float(p_blend_fb_h[:, 0].mean())
         bias_home_blend_fb_h = pred_home_blend_fb_h - actual_home
@@ -195,12 +199,12 @@ def run_audit():
         p_acc = f"{r['prod_acc']:>22.1%}" if r['prod_acc'] is not None else "N/A"
         print(f"{r['liga']:<6}{r['heldout_acc']:>18.1%}{p_acc}{gap}")
 
-    print("\n--- COMPARACIÓN DE BLEND SOBRE DATOS HELD-OUT: 55/45 VS NUEVO FALLBACK (41.7/58.3) ---")
+    print("\n--- COMPARACIÓN DE BLEND SOBRE DATOS HELD-OUT: RONDA 2/3 (41.7/58.3, obsoleto) VS PRODUCCIÓN ACTUAL RONDA 4 (55/45) ---")
     for r in results:
         bb_orig = f"{r['bias_home_blend_heldout']:+.3f}"
         bb_fb = f"{r['bias_home_blend_fb_heldout']:+.3f}"
         p_fb = f"{r['pred_home_blend_fb_heldout']:.3f}"
-        print(f"{r['liga']}: Blend 55/45 Bias={bb_orig}  -->  Nuevo Fallback (41.7/58.3) Pred={p_fb} Bias={bb_fb}")
+        print(f"{r['liga']}: Blend R2/3 (41.7/58.3) Bias={bb_orig}  -->  Blend Producción R4 (55/45) Pred={p_fb} Bias={bb_fb}")
 
     print("\n--- COMPONENTE DIXON-COLES/POISSON HELD-OUT SOLO: MEDIA PREDICHA VS REAL ---")
     for r in results:
