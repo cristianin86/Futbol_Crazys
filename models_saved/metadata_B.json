@@ -1,0 +1,72 @@
+{
+  "version": "V10",
+  "trained_at": "2026-09-18T14:27:29",
+  "dataset": "chile_b_ml_ready.csv",
+  "n_samples": 684,
+  "n_val": 136,
+  "features": [
+    "l_gf",
+    "l_gc",
+    "l_ppg",
+    "l_pos",
+    "l_xg",
+    "l_yc",
+    "l_sot",
+    "v_gf",
+    "v_gc",
+    "v_ppg",
+    "v_pos",
+    "v_xg",
+    "v_yc",
+    "v_sot",
+    "is_cup",
+    "home_team_lsi",
+    "away_team_lsi"
+  ],
+  "feature_means": {
+    "l_gf": 1.3995370968705743,
+    "l_gc": 1.1281283028531315,
+    "l_ppg": 1.4811999711038784,
+    "l_pos": 52.40711319102617,
+    "l_xg": 1.545932968897043,
+    "l_yc": 2.3251910864989536,
+    "l_sot": 4.73305892297413,
+    "v_gf": 1.109366923194239,
+    "v_gc": 1.415149767515489,
+    "v_ppg": 1.2109987541854614,
+    "v_pos": 47.54132573351812,
+    "v_xg": 1.2193448699125362,
+    "v_yc": 2.6451345065168375,
+    "v_sot": 3.9186515323163453,
+    "is_cup": 0.0,
+    "home_team_lsi": 1.0,
+    "away_team_lsi": 1.0
+  },
+  "pct_stats_reales": 0.0,
+  "models": {
+    "1x2": {
+      "rounds": 2,
+      "temperature": 3.1,
+      "val_log_loss": 1.1203681230545044,
+      "val_log_loss_calibrado": 1.0918431282043457,
+      "val_accuracy": 0.41911764705882354,
+      "val_rps": 0.22778568776892621
+    },
+    "hg": {
+      "rounds": 2,
+      "val_mae": 1.0536968918407665
+    },
+    "ag": {
+      "rounds": 9,
+      "val_mae": 0.793574749108623
+    },
+    "hc": {
+      "rounds": 3,
+      "val_mae": 0.635546534201678
+    },
+    "ac": {
+      "rounds": 8,
+      "val_mae": 0.47670712961870076
+    }
+  }
+}
