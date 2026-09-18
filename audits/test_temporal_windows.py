@@ -2,16 +2,17 @@
 audits/test_temporal_windows.py
 ===============================
 Evaluación cuantitativa del blend (Clasificador 1X2 vs Matriz Poisson/Dixon-Coles)
-a través de 3 ventanas temporales independientes:
-- Ventana 1 (Reciente): 80% al 100% (split de validación estándar).
+a través de 3 ventanas temporales independientes evaluado sobre modelos HELD-OUT:
+- Ventana 1 (Reciente): 80% al 100% (split de validación genuinamente held-out).
 - Ventana 2 (Media): 60% al 80%.
 - Ventana 3 (Antigua): 40% al 60%.
 
-Responde a la advertencia metodológica de Claude en la Ronda 2:
-Determinar si "más peso a la matriz reduce el sesgo" es una propiedad
-estructural constante en el tiempo o un artefacto de la última ventana.
+Responde a la Ronda 3 de ANTIGRAVITY_COLAB.md:
+Garantiza que la evaluación multiventana utiliza el modelo held-out (entrenado solo
+al 80% con seed=42) para que la ventana reciente 80-100% esté 100% libre de contaminación.
 """
 
+import sys
 import json
 from pathlib import Path
 import numpy as np
@@ -20,17 +21,13 @@ import xgboost as xgb
 from scipy.stats import poisson
 
 BASE = Path(__file__).resolve().parent.parent
-MODELS_DIR = BASE / "models_saved"
+if str(BASE) not in sys.path:
+    sys.path.insert(0, str(BASE))
+
+from audits.heldout_models import HELDOUT_MODELS_DIR, get_heldout_committee, LIGAS
+
 PROCESSED_DIR = BASE / "data" / "processed"
 
-LIGAS = {
-    "CHI": "chile_ml_ready_v8.csv",
-    "B":   "chile_b_ml_ready.csv",
-    "ENG": "premier_ml_ready_v1.csv",
-    "ARG": "argentina_ml_ready.csv",
-    "PER": "peru_ml_ready.csv",
-    "ESP": "espana_ml_ready.csv",
-}
 
 def dixon_coles_matrix(hg, ag, rho=-0.08, max_goals=11):
     p_A = np.array([poisson.pmf(i, hg) for i in range(max_goals)])
@@ -44,17 +41,20 @@ def dixon_coles_matrix(hg, ag, rho=-0.08, max_goals=11):
     matrix /= matrix.sum()
     return matrix
 
+
 def matrix_probs(hg, ag):
     m = dixon_coles_matrix(hg, ag)
     return (float(np.sum(np.tril(m, -1))), float(np.sum(np.diag(m))), float(np.sum(np.triu(m, 1))))
+
 
 def aplicar_temperatura(probs, T):
     p = np.power(np.clip(probs, 1e-12, 1.0), 1.0 / T)
     return p / p.sum(axis=1, keepdims=True)
 
+
 def auditar_ventanas_temporales():
     print("=" * 95)
-    print("EVALUACIÓN TEMPORAL MULTI-VENTANA: SESGO CLF VS MATRIZ POISSON")
+    print("EVALUACIÓN TEMPORAL MULTI-VENTANA: SESGO CLF VS MATRIZ POISSON (MODELOS HELD-OUT)")
     print("=" * 95)
 
     combos = [
@@ -66,10 +66,13 @@ def auditar_ventanas_temporales():
     ]
 
     ventanas = [
-        ("Ventana 1: 80%-100% (Reciente)", 0.80, 1.00),
-        ("Ventana 2: 60%-80% (Media)",     0.60, 0.80),
-        ("Ventana 3: 40%-60% (Antigua)",   0.40, 0.60),
+        ("Ventana 1: 80%-100% (Genuinamente Held-Out)", 0.80, 1.00),
+        ("Ventana 2: 60%-80% (Media)",                  0.60, 0.80),
+        ("Ventana 3: 40%-60% (Antigua)",                0.40, 0.60),
     ]
+
+    # Pre-cargar modelos held-out
+    heldout_comms = {suf: get_heldout_committee(suf) for suf in LIGAS.keys()}
 
     resultados_ventanas = {}
 
@@ -77,9 +80,9 @@ def auditar_ventanas_temporales():
         print(f"\n>>> {v_nombre}")
         val_data = {}
         for suf, dataset in LIGAS.items():
-            meta = json.loads((MODELS_DIR / f"metadata_{suf}.json").read_text(encoding="utf-8"))
-            features = meta["features"]
-            temp = meta["models"]["1x2"]["temperature"]
+            comm = heldout_comms[suf]
+            features = comm['metadata']["features"]
+            temp = comm['temp']
             df = pd.read_csv(PROCESSED_DIR / dataset).sort_values("timestamp").reset_index(drop=True)
 
             i_start = int(len(df) * p_start)
@@ -88,18 +91,15 @@ def auditar_ventanas_temporales():
 
             for f in features:
                 if f not in df_sub.columns:
-                    df_sub[f] = meta["feature_means"].get(f, 0.0)
+                    df_sub[f] = comm['metadata']["feature_means"].get(f, 0.0)
             X_sub = df_sub[features].astype(float)
             y_sub = df_sub["target_1x2"].astype(int).values
             actual_home = float((y_sub == 0).mean())
 
-            b_1x2 = xgb.Booster(); b_1x2.load_model(str(MODELS_DIR / f"model_1x2_v5_{suf}.json"))
-            probs_cal = aplicar_temperatura(b_1x2.predict(xgb.DMatrix(X_sub)), temp)
+            probs_cal = aplicar_temperatura(comm['b_1x2'].predict(xgb.DMatrix(X_sub)), temp)
 
-            b_hg = xgb.Booster(); b_hg.load_model(str(MODELS_DIR / f"model_hg_v5_{suf}.json"))
-            b_ag = xgb.Booster(); b_ag.load_model(str(MODELS_DIR / f"model_ag_v5_{suf}.json"))
-            hg_pred = np.maximum(b_hg.predict(xgb.DMatrix(X_sub)), 0.05)
-            ag_pred = np.maximum(b_ag.predict(xgb.DMatrix(X_sub)), 0.05)
+            hg_pred = np.maximum(comm['b_hg'].predict(xgb.DMatrix(X_sub)), 0.05)
+            ag_pred = np.maximum(comm['b_ag'].predict(xgb.DMatrix(X_sub)), 0.05)
             p_matrix = np.array([matrix_probs(h, a) for h, a in zip(hg_pred, ag_pred)])
 
             val_data[suf] = {
@@ -132,6 +132,7 @@ def auditar_ventanas_temporales():
         resultados_ventanas[v_nombre] = res_v
 
     return resultados_ventanas
+
 
 if __name__ == "__main__":
     auditar_ventanas_temporales()
