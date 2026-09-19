@@ -1640,11 +1640,22 @@ def main():
             c4.markdown(tile("Totales proyectados", "#2DD4A7", f"{hg+ag:.2f} goles",
                              f"⛳ {corners_tot:.1f} córners · 🟨 {cards_tot:.1f} tarjetas"), unsafe_allow_html=True)
 
-            # Desglose de los dos motores que componen la probabilidad final
+            # Desglose de los motores que componen la probabilidad final
             st.markdown("<br>", unsafe_allow_html=True)
-            st.markdown("##### ⚙️ Composición del pronóstico (55% clasificador calibrado · 45% matriz Dixon-Coles)")
+            bw = inf_res.get('blend_weights') or {}
+            w_clf_pct = bw.get('clf', 0.55) * 100
+            w_mat_pct = bw.get('matrix', 0.45) * 100
+            w_mkt_pct = bw.get('market', 0.0) * 100
+            if inf_res.get('market_used'):
+                titulo_blend = (f"⚙️ Composición del pronóstico ({w_clf_pct:.0f}% clasificador calibrado · "
+                                 f"{w_mat_pct:.0f}% matriz Dixon-Coles · {w_mkt_pct:.0f}% mercado)")
+            else:
+                titulo_blend = (f"⚙️ Composición del pronóstico ({w_clf_pct:.0f}% clasificador calibrado · "
+                                 f"{w_mat_pct:.0f}% matriz Dixon-Coles — sin cuotas de mercado disponibles)")
+            st.markdown(f"##### {titulo_blend}")
             p_clf = inf_res.get('p_win_clf', inf_res['p_win'])
             p_mat = inf_res.get('p_win_matrix', inf_res['p_win'])
+            p_mkt = inf_res.get('p_market')
 
             def mini_bar(nombre, probs):
                 l, e, v = [max(x * 100, 3) for x in probs]
@@ -1658,11 +1669,12 @@ def main():
                     f"<div class='seg seg-v' style='width:{v:.1f}%'><span>{rv:.0f}%</span></div>"
                     f"</div></div>")
 
-            st.markdown(
-                mini_bar("Clasificador XGBoost (calibrado por temperatura)", p_clf)
-                + mini_bar("Matriz de marcadores Poisson + corrección Dixon-Coles", p_mat)
-                + mini_bar("→ Pronóstico final (blend)", inf_res['p_win']),
-                unsafe_allow_html=True)
+            barras = (mini_bar("Clasificador XGBoost (calibrado por temperatura)", p_clf)
+                      + mini_bar("Matriz de marcadores Poisson + corrección Dixon-Coles", p_mat))
+            if inf_res.get('market_used') and p_mkt is not None:
+                barras += mini_bar("Probabilidad de mercado (cuotas desvigadas)", p_mkt)
+            barras += mini_bar("→ Pronóstico final (blend)", inf_res['p_win'])
+            st.markdown(barras, unsafe_allow_html=True)
 
             n_l, n_v = inf_res.get('n_hist', (0, 0))
             st.caption(f"Base: últimos {n_l} partidos de {local} como local · últimos {n_v} de {visita} como visita. "
