@@ -1,0 +1,80 @@
+{
+  "version": "V10",
+  "trained_at": "2026-09-18T16:25:19",
+  "dataset": "argentina_ml_ready.csv",
+  "n_samples": 1253,
+  "n_val": 250,
+  "features": [
+    "l_gf",
+    "l_gc",
+    "l_ppg",
+    "l_pos",
+    "l_xg",
+    "l_yc",
+    "l_sot",
+    "v_gf",
+    "v_gc",
+    "v_ppg",
+    "v_pos",
+    "v_xg",
+    "v_yc",
+    "v_sot",
+    "is_cup",
+    "home_team_lsi",
+    "away_team_lsi"
+  ],
+  "feature_means": {
+    "l_gf": 1.1732343045932023,
+    "l_gc": 0.858824238721186,
+    "l_ppg": 1.6167894302144648,
+    "l_pos": 52.42123307658787,
+    "l_xg": 1.366095051575896,
+    "l_yc": 2.36663369641569,
+    "l_sot": 4.52681293504236,
+    "v_gf": 0.859935610022951,
+    "v_gc": 1.1691193128294142,
+    "v_ppg": 1.0770682964016276,
+    "v_pos": 47.59809276205859,
+    "v_xg": 1.0272175694282117,
+    "v_yc": 2.81276638423723,
+    "v_sot": 3.67353891556011,
+    "is_cup": 0.0,
+    "home_team_lsi": 1.0,
+    "away_team_lsi": 1.0
+  },
+  "pct_stats_reales": 0.30806065442936953,
+  "models": {
+    "1x2": {
+      "rounds": 18,
+      "temperature": 1.5,
+      "val_log_loss": 1.0851755142211914,
+      "val_log_loss_calibrado": 1.0811256170272827,
+      "val_accuracy": 0.416,
+      "val_rps": 0.22829071670637152
+    },
+    "hg": {
+      "rounds": 1,
+      "val_mae": 0.8125694589614868
+    },
+    "ag": {
+      "rounds": 8,
+      "val_mae": 0.7826783323287964
+    },
+    "hc": {
+      "rounds": 62,
+      "val_mae": 2.187126210784912
+    },
+    "ac": {
+      "rounds": 22,
+      "val_mae": 1.824273501777649
+    },
+    "hy": {
+      "rounds": 1,
+      "val_mae": 1.1662353992462158
+    },
+    "ay": {
+      "rounds": 12,
+      "val_mae": 1.2134778165817262
+    }
+  }
+}

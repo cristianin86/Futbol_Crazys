@@ -1,0 +1,72 @@
+
+====================================================================================================
+Liga   n_val   HomeReal(val)  HomeReal(hist)   PredHome(clf)   Bias(clf)   PredHome(blend)   Bias(blend)
+====================================================================================================
+CHI      129           0.442           0.483           0.410      -0.032             0.428        -0.014
+B        136           0.449           0.411           0.360      -0.089             0.396        -0.052
+ENG      157           0.389           0.409           0.354      -0.035             0.378        -0.011
+ARG      250           0.452           0.429           0.358      -0.094             0.380        -0.072
+PER      171           0.509           0.508           0.436      -0.073             0.463        -0.046
+ESP      160           0.506           0.469           0.455      -0.051             0.458        -0.048
+
+--- Componente Dixon-Coles/Poisson SOLO (45% del blend): media predicha vs real ---
+CHI: p_home matriz=0.450  real=0.442  bias=+0.008  | hg_pred_medio=1.60  ag_pred_medio=1.24
+B: p_home matriz=0.441  real=0.449  bias=-0.007  | hg_pred_medio=1.43  ag_pred_medio=1.08
+ENG: p_home matriz=0.407  real=0.389  bias=+0.019  | hg_pred_medio=1.49  ag_pred_medio=1.30
+ARG: p_home matriz=0.408  real=0.452  bias=-0.044  | hg_pred_medio=1.18  ag_pred_medio=0.91
+PER: p_home matriz=0.497  real=0.509  bias=-0.012  | hg_pred_medio=1.65  ag_pred_medio=1.08
+ESP: p_home matriz=0.461  real=0.506  bias=-0.045  | hg_pred_medio=1.68  ag_pred_medio=1.18
+
+--- Sesgo de goles esperados (feature_means, ultimos 5 partidos aislados por condicion) ---
+CHI: l_gf(local, en casa)=1.54  v_gf(visita, fuera)=1.16  | l_gc(local recibe en casa)=1.15  v_gc(visita recibe fuera)=1.55
+B: l_gf(local, en casa)=1.41  v_gf(visita, fuera)=1.11  | l_gc(local recibe en casa)=1.12  v_gc(visita recibe fuera)=1.41
+ENG: l_gf(local, en casa)=1.51  v_gf(visita, fuera)=1.33  | l_gc(local recibe en casa)=1.32  v_gc(visita recibe fuera)=1.50
+ARG: l_gf(local, en casa)=1.16  v_gf(visita, fuera)=0.86  | l_gc(local recibe en casa)=0.87  v_gc(visita recibe fuera)=1.17
+PER: l_gf(local, en casa)=1.62  v_gf(visita, fuera)=1.05  | l_gc(local recibe en casa)=1.02  v_gc(visita recibe fuera)=1.61
+ESP: l_gf(local, en casa)=1.51  v_gf(visita, fuera)=1.15  | l_gc(local recibe en casa)=1.15  v_gc(visita recibe fuera)=1.51
+
+--- Reliability diagram clase HOME (clasificador calibrado, deciles por prob. predicha) ---
+
+CHI:
+   pred=0.341  real=0.000  n=26  <-- SOBRESTIMA
+   pred=0.383  real=0.038  n=26  <-- SOBRESTIMA
+   pred=0.410  real=0.346  n=26
+   pred=0.440  real=0.846  n=26  <-- subestima
+   pred=0.475  real=1.000  n=25  <-- subestima
+
+B:
+   pred=0.354  real=0.071  n=28  <-- SOBRESTIMA
+   pred=0.357  real=0.333  n=27
+   pred=0.359  real=0.407  n=27
+   pred=0.361  real=0.667  n=27  <-- subestima
+   pred=0.366  real=0.778  n=27  <-- subestima
+
+ENG:
+   pred=0.330  real=0.000  n=32  <-- SOBRESTIMA
+   pred=0.341  real=0.156  n=32  <-- SOBRESTIMA
+   pred=0.353  real=0.290  n=31
+   pred=0.366  real=0.613  n=31  <-- subestima
+   pred=0.381  real=0.903  n=31  <-- subestima
+
+ARG:
+   pred=0.349  real=0.040  n=50  <-- SOBRESTIMA
+   pred=0.355  real=0.200  n=50  <-- SOBRESTIMA
+   pred=0.359  real=0.440  n=50  <-- subestima
+   pred=0.361  real=0.680  n=50  <-- subestima
+   pred=0.365  real=0.900  n=50  <-- subestima
+
+PER:
+   pred=0.390  real=0.029  n=35  <-- SOBRESTIMA
+   pred=0.417  real=0.206  n=34  <-- SOBRESTIMA
+   pred=0.437  real=0.588  n=34  <-- subestima
+   pred=0.453  real=0.735  n=34  <-- subestima
+   pred=0.482  real=1.000  n=34  <-- subestima
+
+ESP:
+   pred=0.370  real=0.000  n=32  <-- SOBRESTIMA
+   pred=0.422  real=0.156  n=32  <-- SOBRESTIMA
+   pred=0.449  real=0.719  n=32  <-- subestima
+   pred=0.483  real=0.688  n=32  <-- subestima
+   pred=0.552  real=0.969  n=32  <-- subestima
+
+Guardado: D:\Programas personales\Futbol IA\audits\audit_home_advantage_results.json

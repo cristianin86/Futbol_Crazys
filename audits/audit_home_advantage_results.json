@@ -1,0 +1,344 @@
+[
+  {
+    "liga": "CHI",
+    "n_val": 129,
+    "n_train": 519,
+    "n_total": 648,
+    "home_rate_val": 0.4418604651162791,
+    "home_rate_full_hist": 0.48302469135802467,
+    "draw_rate_val": 0.20930232558139536,
+    "away_rate_val": 0.3488372093023256,
+    "heldout_acc": 0.5193798449612403,
+    "heldout_temp": 1.25,
+    "pred_home_clf_heldout": 0.4354139268398285,
+    "bias_home_clf_heldout": -0.006446538276450586,
+    "pred_home_blend_heldout": 0.4484136399513729,
+    "bias_home_blend_heldout": 0.006553174835093822,
+    "pred_home_blend_fb_heldout": 0.44544227283242177,
+    "bias_home_blend_fb_heldout": 0.003581807716142693,
+    "pred_home_matrix_heldout": 0.4576991637312069,
+    "bias_home_matrix_heldout": 0.015838698614927815,
+    "hg_mean_pred_heldout": 1.4927819967269897,
+    "ag_mean_pred_heldout": 1.0721553564071655,
+    "reliability_home_heldout": [
+      [
+        0.31956326961517334,
+        0.3076923076923077,
+        26
+      ],
+      [
+        0.3817731440067291,
+        0.2692307692307692,
+        26
+      ],
+      [
+        0.4226589500904083,
+        0.5,
+        26
+      ],
+      [
+        0.4845796823501587,
+        0.5384615384615384,
+        26
+      ],
+      [
+        0.5738176703453064,
+        0.6,
+        25
+      ]
+    ],
+    "prod_acc": 0.6976744186046512,
+    "prod_pred_home_clf": 0.4218428432941437,
+    "prod_bias_clf": -0.0200176218221354,
+    "acc_leakage_gap": 0.17829457364341084,
+    "l_gf_mean": 1.5460792028613728,
+    "v_gf_mean": 1.1723722966395649,
+    "l_gc_mean": 1.1554206531452844,
+    "v_gc_mean": 1.5375265068600097
+  },
+  {
+    "liga": "B",
+    "n_val": 136,
+    "n_train": 548,
+    "n_total": 684,
+    "home_rate_val": 0.4485294117647059,
+    "home_rate_full_hist": 0.4108187134502924,
+    "draw_rate_val": 0.2867647058823529,
+    "away_rate_val": 0.2647058823529412,
+    "heldout_acc": 0.49264705882352944,
+    "heldout_temp": 0.7999999999999999,
+    "pred_home_clf_heldout": 0.407758891582489,
+    "bias_home_clf_heldout": -0.040770520182216885,
+    "pred_home_blend_heldout": 0.43310093946787165,
+    "bias_home_blend_heldout": -0.01542847229683425,
+    "pred_home_blend_fb_heldout": 0.4273084673485397,
+    "bias_home_blend_fb_heldout": -0.021220944416166176,
+    "pred_home_matrix_heldout": 0.4512024104044438,
+    "bias_home_matrix_heldout": 0.0026729986397379113,
+    "hg_mean_pred_heldout": 1.5729131698608398,
+    "ag_mean_pred_heldout": 1.2106677293777466,
+    "reliability_home_heldout": [
+      [
+        0.34829264879226685,
+        0.35714285714285715,
+        28
+      ],
+      [
+        0.3844268321990967,
+        0.3333333333333333,
+        27
+      ],
+      [
+        0.4099631905555725,
+        0.5555555555555556,
+        27
+      ],
+      [
+        0.4347231090068817,
+        0.48148148148148145,
+        27
+      ],
+      [
+        0.4635910093784332,
+        0.5185185185185185,
+        27
+      ]
+    ],
+    "prod_acc": 0.49264705882352944,
+    "prod_pred_home_clf": 0.44520804286003113,
+    "prod_bias_clf": -0.0033213689046747708,
+    "acc_leakage_gap": 0.0,
+    "l_gf_mean": 1.3995370968705743,
+    "v_gf_mean": 1.109366923194239,
+    "l_gc_mean": 1.1281283028531315,
+    "v_gc_mean": 1.415149767515489
+  },
+  {
+    "liga": "ENG",
+    "n_val": 157,
+    "n_train": 628,
+    "n_total": 785,
+    "home_rate_val": 0.3885350318471338,
+    "home_rate_full_hist": 0.4089171974522293,
+    "draw_rate_val": 0.3057324840764331,
+    "away_rate_val": 0.3057324840764331,
+    "heldout_acc": 0.4267515923566879,
+    "heldout_temp": 1.5,
+    "pred_home_clf_heldout": 0.38340166211128235,
+    "bias_home_clf_heldout": -0.005133369735851434,
+    "pred_home_blend_heldout": 0.40004510799176923,
+    "bias_home_blend_heldout": 0.01151007614463545,
+    "pred_home_blend_fb_heldout": 0.3962408915290873,
+    "bias_home_blend_fb_heldout": 0.007705859681953531,
+    "pred_home_matrix_heldout": 0.4119332834207474,
+    "bias_home_matrix_heldout": 0.023398251573613638,
+    "hg_mean_pred_heldout": 1.5330066680908203,
+    "ag_mean_pred_heldout": 1.3315660953521729,
+    "reliability_home_heldout": [
+      [
+        0.27024728059768677,
+        0.25,
+        32
+      ],
+      [
+        0.33433830738067627,
+        0.3125,
+        32
+      ],
+      [
+        0.38294658064842224,
+        0.41935483870967744,
+        31
+      ],
+      [
+        0.4296306073665619,
+        0.45161290322580644,
+        31
+      ],
+      [
+        0.5050783753395081,
+        0.5161290322580645,
+        31
+      ]
+    ],
+    "prod_acc": 0.6050955414012739,
+    "prod_pred_home_clf": 0.37314388155937195,
+    "prod_bias_clf": -0.015391150287761834,
+    "acc_leakage_gap": 0.17834394904458595,
+    "l_gf_mean": 1.5106083989368266,
+    "v_gf_mean": 1.3455142578533512,
+    "l_gc_mean": 1.3348422515034257,
+    "v_gc_mean": 1.4935462664699006
+  },
+  {
+    "liga": "ARG",
+    "n_val": 250,
+    "n_train": 1003,
+    "n_total": 1253,
+    "home_rate_val": 0.452,
+    "home_rate_full_hist": 0.42857142857142855,
+    "draw_rate_val": 0.256,
+    "away_rate_val": 0.292,
+    "heldout_acc": 0.416,
+    "heldout_temp": 1.5,
+    "pred_home_clf_heldout": 0.3859279155731201,
+    "bias_home_clf_heldout": -0.0660720844268799,
+    "pred_home_blend_heldout": 0.39493888952831935,
+    "bias_home_blend_heldout": -0.057061110471680665,
+    "pred_home_blend_fb_heldout": 0.3928792412319815,
+    "bias_home_blend_fb_heldout": -0.05912075876801853,
+    "pred_home_matrix_heldout": 0.4013752895152361,
+    "bias_home_matrix_heldout": -0.05062471048476391,
+    "hg_mean_pred_heldout": 1.1217893362045288,
+    "ag_mean_pred_heldout": 0.8775144219398499,
+    "reliability_home_heldout": [
+      [
+        0.32716095447540283,
+        0.36,
+        50
+      ],
+      [
+        0.35907429456710815,
+        0.4,
+        50
+      ],
+      [
+        0.3800356984138489,
+        0.54,
+        50
+      ],
+      [
+        0.40754252672195435,
+        0.42,
+        50
+      ],
+      [
+        0.4558261036872864,
+        0.54,
+        50
+      ]
+    ],
+    "prod_acc": 0.452,
+    "prod_pred_home_clf": 0.39791616797447205,
+    "prod_bias_clf": -0.05408383202552797,
+    "acc_leakage_gap": 0.03600000000000003,
+    "l_gf_mean": 1.1732343045932023,
+    "v_gf_mean": 0.859935610022951,
+    "l_gc_mean": 0.858824238721186,
+    "v_gc_mean": 1.1691193128294142
+  },
+  {
+    "liga": "PER",
+    "n_val": 171,
+    "n_train": 684,
+    "n_total": 855,
+    "home_rate_val": 0.5087719298245614,
+    "home_rate_full_hist": 0.5076023391812865,
+    "draw_rate_val": 0.23976608187134502,
+    "away_rate_val": 0.25146198830409355,
+    "heldout_acc": 0.5029239766081871,
+    "heldout_temp": 1.25,
+    "pred_home_clf_heldout": 0.5077810287475586,
+    "bias_home_clf_heldout": -0.000990901077002837,
+    "pred_home_blend_heldout": 0.5211722790852805,
+    "bias_home_blend_heldout": 0.01240034926071909,
+    "pred_home_blend_fb_heldout": 0.5181114026769161,
+    "bias_home_blend_fb_heldout": 0.009339472852354702,
+    "pred_home_matrix_heldout": 0.5307375177683469,
+    "bias_home_matrix_heldout": 0.021965587943785447,
+    "hg_mean_pred_heldout": 1.6155552864074707,
+    "ag_mean_pred_heldout": 0.9040159583091736,
+    "reliability_home_heldout": [
+      [
+        0.3941514194011688,
+        0.34285714285714286,
+        35
+      ],
+      [
+        0.46324387192726135,
+        0.47058823529411764,
+        34
+      ],
+      [
+        0.5102883577346802,
+        0.5,
+        34
+      ],
+      [
+        0.5555722117424011,
+        0.5882352941176471,
+        34
+      ],
+      [
+        0.6189908385276794,
+        0.6470588235294118,
+        34
+      ]
+    ],
+    "prod_acc": 0.5555555555555556,
+    "prod_pred_home_clf": 0.47652074694633484,
+    "prod_bias_clf": -0.03225118287822659,
+    "acc_leakage_gap": 0.052631578947368474,
+    "l_gf_mean": 1.635019704014639,
+    "v_gf_mean": 1.038386605730507,
+    "l_gc_mean": 1.0075257427122233,
+    "v_gc_mean": 1.613847392324991
+  },
+  {
+    "liga": "ESP",
+    "n_val": 160,
+    "n_train": 643,
+    "n_total": 803,
+    "home_rate_val": 0.50625,
+    "home_rate_full_hist": 0.46948941469489414,
+    "draw_rate_val": 0.2125,
+    "away_rate_val": 0.28125,
+    "heldout_acc": 0.50625,
+    "heldout_temp": 1.0499999999999998,
+    "pred_home_clf_heldout": 0.47565680742263794,
+    "bias_home_clf_heldout": -0.03059319257736204,
+    "pred_home_blend_heldout": 0.4686641872849317,
+    "bias_home_blend_heldout": -0.03758581271506828,
+    "pred_home_blend_fb_heldout": 0.4702625068120986,
+    "bias_home_blend_fb_heldout": -0.0359874931879014,
+    "pred_home_matrix_heldout": 0.4636694379631292,
+    "bias_home_matrix_heldout": -0.04258056203687077,
+    "hg_mean_pred_heldout": 1.6205730438232422,
+    "ag_mean_pred_heldout": 1.1830432415008545,
+    "reliability_home_heldout": [
+      [
+        0.3221145570278168,
+        0.40625,
+        32
+      ],
+      [
+        0.4085066318511963,
+        0.4375,
+        32
+      ],
+      [
+        0.47079983353614807,
+        0.40625,
+        32
+      ],
+      [
+        0.5248646140098572,
+        0.5625,
+        32
+      ],
+      [
+        0.6519985198974609,
+        0.71875,
+        32
+      ]
+    ],
+    "prod_acc": 0.58125,
+    "prod_pred_home_clf": 0.48848018050193787,
+    "prod_bias_clf": -0.01776981949806211,
+    "acc_leakage_gap": 0.07500000000000007,
+    "l_gf_mean": 1.5157715420857145,
+    "v_gf_mean": 1.1456465113887553,
+    "l_gc_mean": 1.1365745490016237,
+    "v_gc_mean": 1.4996075536264895
+  }
+]

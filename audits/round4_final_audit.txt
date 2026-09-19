@@ -1,0 +1,84 @@
+
+===================================================================================================================
+AUDITORÍA DE SESGO DE LOCALÍA — EVALUACIÓN GENUINAMENTE HELD-OUT (80% TRAIN PURO, SIN DATA LEAKAGE)
+===================================================================================================================
+Liga   n_val  HomeReal(val)  HeldOut Acc  PredHome(clf)   Bias(clf)  Bias(blend fb)  Bias(Matriz)  Prod Acc (refit)
+-------------------------------------------------------------------------------------------------------------------
+CHI      129          0.442        0.519          0.435      -0.006          +0.007        +0.016             0.698
+B        136          0.449        0.493          0.408      -0.041          -0.015        +0.003             0.493
+ENG      157          0.389        0.427          0.383      -0.005          +0.012        +0.023             0.605
+ARG      250          0.452        0.416          0.386      -0.066          -0.057        -0.051             0.452
+PER      171          0.509        0.503          0.508      -0.001          +0.012        +0.022             0.556
+ESP      160          0.506        0.506          0.476      -0.031          -0.038        -0.043             0.581
+
+--- DIAGNÓSTICO DE DATA LEAKAGE: ACCURACY HELD-OUT (80%) VS MODELO DE PRODUCCIÓN (REFIT 100%) ---
+Liga     HeldOut Acc (80%)   Prod Acc (Refit 100%)    Brecha de Memorización
+------------------------------------------------------------------------------
+CHI                51.9%                 69.8%                  +17.8%
+B                  49.3%                 49.3%                   +0.0%
+ENG                42.7%                 60.5%                  +17.8%
+ARG                41.6%                 45.2%                   +3.6%
+PER                50.3%                 55.6%                   +5.3%
+ESP                50.6%                 58.1%                   +7.5%
+
+--- COMPARACIÓN DE BLEND SOBRE DATOS HELD-OUT: 55/45 VS NUEVO FALLBACK (41.7/58.3) ---
+CHI: Blend 55/45 Bias=+0.004  -->  Nuevo Fallback (41.7/58.3) Pred=0.448 Bias=+0.007
+B: Blend 55/45 Bias=-0.021  -->  Nuevo Fallback (41.7/58.3) Pred=0.433 Bias=-0.015
+ENG: Blend 55/45 Bias=+0.008  -->  Nuevo Fallback (41.7/58.3) Pred=0.400 Bias=+0.012
+ARG: Blend 55/45 Bias=-0.059  -->  Nuevo Fallback (41.7/58.3) Pred=0.395 Bias=-0.057
+PER: Blend 55/45 Bias=+0.009  -->  Nuevo Fallback (41.7/58.3) Pred=0.521 Bias=+0.012
+ESP: Blend 55/45 Bias=-0.036  -->  Nuevo Fallback (41.7/58.3) Pred=0.469 Bias=-0.038
+
+--- COMPONENTE DIXON-COLES/POISSON HELD-OUT SOLO: MEDIA PREDICHA VS REAL ---
+CHI: p_home matriz=0.458  real=0.442  bias=+0.016  | hg_pred_medio=1.49  ag_pred_medio=1.07
+B: p_home matriz=0.451  real=0.449  bias=+0.003  | hg_pred_medio=1.57  ag_pred_medio=1.21
+ENG: p_home matriz=0.412  real=0.389  bias=+0.023  | hg_pred_medio=1.53  ag_pred_medio=1.33
+ARG: p_home matriz=0.401  real=0.452  bias=-0.051  | hg_pred_medio=1.12  ag_pred_medio=0.88
+PER: p_home matriz=0.531  real=0.509  bias=+0.022  | hg_pred_medio=1.62  ag_pred_medio=0.90
+ESP: p_home matriz=0.464  real=0.506  bias=-0.043  | hg_pred_medio=1.62  ag_pred_medio=1.18
+
+--- RELIABILITY DIAGRAM CLASE HOME (CLASIFICADOR HELD-OUT CALIBRADO) ---
+
+CHI:
+   pred=0.320  real=0.308  n=26
+   pred=0.382  real=0.269  n=26  <-- SOBRESTIMA
+   pred=0.423  real=0.500  n=26  <-- subestima
+   pred=0.485  real=0.538  n=26
+   pred=0.574  real=0.600  n=25
+
+B:
+   pred=0.348  real=0.357  n=28
+   pred=0.384  real=0.333  n=27
+   pred=0.410  real=0.556  n=27  <-- subestima
+   pred=0.435  real=0.481  n=27
+   pred=0.464  real=0.519  n=27
+
+ENG:
+   pred=0.270  real=0.250  n=32
+   pred=0.334  real=0.312  n=32
+   pred=0.383  real=0.419  n=31
+   pred=0.430  real=0.452  n=31
+   pred=0.505  real=0.516  n=31
+
+ARG:
+   pred=0.327  real=0.360  n=50
+   pred=0.359  real=0.400  n=50
+   pred=0.380  real=0.540  n=50  <-- subestima
+   pred=0.408  real=0.420  n=50
+   pred=0.456  real=0.540  n=50  <-- subestima
+
+PER:
+   pred=0.394  real=0.343  n=35
+   pred=0.463  real=0.471  n=34
+   pred=0.510  real=0.500  n=34
+   pred=0.556  real=0.588  n=34
+   pred=0.619  real=0.647  n=34
+
+ESP:
+   pred=0.322  real=0.406  n=32  <-- subestima
+   pred=0.409  real=0.438  n=32
+   pred=0.471  real=0.406  n=32
+   pred=0.525  real=0.562  n=32
+   pred=0.652  real=0.719  n=32
+
+Guardado: D:\Programas personales\Futbol IA\audits\audit_home_advantage_results.json
